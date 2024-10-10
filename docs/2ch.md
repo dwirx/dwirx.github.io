@@ -1,197 +1,194 @@
-# How to use 5ch
-![Image](img/2ch00.png){:  style="display: block; margin: 0 auto; size:50%;" }
+# Cara menggunakan 5ch
+![Gambar](img/2ch00.png){:  style="display: block; margin: 0 auto; size:50%;" }
 
-2channel (Japanese: ２ちゃんねる) (New name: ５ちゃんねる) is a Japanese anonymous **text** bulletin board. You can think of it as the Japanese equivalent to something in between Reddit and 4chan, with a more toxic userbase than Reddit and varying levels of moderation. You can use this to burn away time instead of looking at English sites. The site design is very questionable by today's standards, and I will be constantly calling it "awful" in this article. The awful site design, combined with the lack of user friendliness, make the site very **hard to use**, especially for people still learning Japanese. 
-This article will try explaining how to use 5ch in your browser. 
+2channel (Bahasa Jepang: ２ちゃんねる) (Nama baru: ５ちゃんねる) adalah papan buletin teks anonim Jepang. Anda bisa menganggapnya sebagai versi Jepang dari sesuatu di antara Reddit dan 4chan, dengan basis pengguna yang lebih beracun daripada Reddit dan tingkat moderasi yang bervariasi. Anda bisa menggunakannya untuk menghabiskan waktu alih-alih melihat situs-situs berbahasa Inggris. Desain situs ini sangat dipertanyakan menurut standar saat ini, dan saya akan terus menyebutnya "buruk" dalam artikel ini. Desain situs yang buruk, dikombinasikan dengan kurangnya keramahan pengguna, membuat situs ini sangat **sulit digunakan**, terutama bagi orang yang masih belajar bahasa Jepang.
+Artikel ini akan mencoba menjelaskan cara menggunakan 5ch di browser Anda.
 
-## So what is this site actually called? 
+## Jadi apa sebenarnya nama situs ini?
 
-"にちゃんねる" is how it was widely known. The site was renamed to 5channel (ごちゃんねる) due to some [some circumstances](https://www.wdic.org/w/WDIC/2%E3%81%A1%E3%82%83%E3%82%93%E3%81%AD%E3%82%8B%E4%B9%97%E3%81%A3%E5%8F%96%E3%82%8A%E4%BA%8B%E4%BB%B6). Many users still refer to the site with its old name, however to reduce confusion, I'll just refer to it as 5ch. However, there is a different site, known as Futaba Channel, that is known as 2**chan**, that is not related to 2channel/5channel. Very confusing.
+"にちゃんねる" adalah nama yang dikenal luas. Situs ini berganti nama menjadi 5channel (ごちゃんねる) karena [beberapa keadaan](https://www.wdic.org/w/WDIC/2%E3%81%A1%E3%82%83%E3%82%93%E3%81%AD%E3%82%8B%E4%B9%97%E3%81%A3%E5%8F%96%E3%82%8A%E4%BA%8B%E4%BB%B6). Banyak pengguna masih menyebut situs ini dengan nama lamanya, namun untuk mengurangi kebingungan, saya akan menyebutnya sebagai 5ch. Namun, ada situs lain yang dikenal sebagai Futaba Channel, yang dikenal sebagai 2**chan**, yang tidak terkait dengan 2channel/5channel. Sangat membingungkan.
 
 ## URL
 
 [https://5ch.net/](https://5ch.net/)  
 
-## Front Page
+## Halaman Depan
 
-![Image](img/2ch01.png)
+![Gambar](img/2ch01.png)
 
-What! What part of the site design is awful, you say?
-Well first, that screenshot is actually taken with an ad-blocker enabled. The site without an ad-blocker has too many ads to be a pleasant experience.  
-And second, the site design is actually very **inconsistent**, the site design changes across different pages. Only the front page looks good, lol.  
+Apa! Bagian mana dari desain situs yang buruk, Anda tanya?
+Pertama, tangkapan layar itu sebenarnya diambil dengan pemblokir iklan yang diaktifkan. Situs tanpa pemblokir iklan memiliki terlalu banyak iklan untuk menjadi pengalaman yang menyenangkan.
+Dan kedua, desain situs sebenarnya sangat **tidak konsisten**, desain situs berubah di berbagai halaman. Hanya halaman depan yang terlihat bagus, lol.
 
-I recommend uBlock Origin ([Chrome](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)) as an ad-blocker. It is the only one that functions properly as an ad-blocker.  
+Saya merekomendasikan uBlock Origin ([Chrome](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)) sebagai pemblokir iklan. Ini adalah satu-satunya yang berfungsi dengan baik sebagai pemblokir iklan.
 
-The front page displays popular threads from the [ニュース速報+](https://asahi.5ch.net/newsplus/index.html) (a news board) and [野球実況板](https://tanuki.5ch.net/livebase/index.html) (a [実況](#_7) baseball board).
+Halaman depan menampilkan thread populer dari [ニュース速報+](https://asahi.5ch.net/newsplus/index.html) (papan berita) dan [野球実況板](https://tanuki.5ch.net/livebase/index.html) (papan [実況](#_7) baseball).
 
-While the front page has quite mundane content, there are actually a ton of different boards for different interests. You can access the list of boards by clicking the [掲示板](https://www2.5ch.net/5ch.html) button on the top left.  
+Meskipun halaman depan memiliki konten yang cukup biasa, sebenarnya ada banyak sekali papan berbeda untuk minat yang berbeda. Anda dapat mengakses daftar papan dengan mengklik tombol [掲示板](https://www2.5ch.net/5ch.html) di kiri atas.
 
+## Papan
 
-## Boards
+![Gambar](img/2ch02.png)
 
-![Image](img/2ch02.png)
+Ada BANYAK papan, lebih mirip dengan subreddit Reddit daripada papan di 4chan.
 
-There are a LOT of boards, it is more comparable to Reddit subreddits than say, boards on 4chan.  
+Papan memiliki banyak kategorisasi di 5ch, ini berarti Anda hanya dapat membaca hal-hal yang Anda minati, tetapi juga dapat mengakibatkan banyak papan menjadi mati, karena kategorisasi terkadang terlalu teliti.
 
-Boards have a lot of categorization on 5ch, this means you can only read stuff you are interested in, but it can also result in a lot of boards becoming dead, as the categorization is too meticulous at times. 
+Anda mungkin ingin mencoba menggunakan ++ctrl+f++ untuk mencoba menemukan sesuatu yang terkait dengan minat Anda. Anda dapat mencoba memasukkan kata kunci (tentu saja, dalam bahasa Jepang!) ke dalam kotak pencarian, pasti ada thread tentang itu, dan dari sana Anda dapat mempelajari papan mana yang cocok untuk jenis minat Anda.
 
-You may want to try using ++ctrl+f++ to try finding something related to your interests. You can try inputting a keyword (of course, in Japanese!) into the search bar, there is bound to be a thread about it, and from there you can learn what is the suitable board for your type of interests.  
+Ada halaman yang menampilkan tautan ke setiap papan tunggal dalam satu halaman: [掲示板リスト](https://menu.5ch.net/bbstable.html).
 
-There is a page that displays links to every single board on a single page: [掲示板リスト](https://menu.5ch.net/bbstable.html).
+Papan yang sering saya lihat secara pribadi adalah [ラブライブ！](https://fate.5ch.net/lovelive/) dan [声優](https://kizuna.5ch.net/voiceactor/).
 
-Boards I often view personally are the [ラブライブ！](https://fate.5ch.net/lovelive/) and [声優](https://kizuna.5ch.net/voiceactor/) boards.
+## Halaman Papan
 
-## Board Page
+![Gambar](img/2ch03.png)
 
-![Image](img/2ch03.png)
+Kotak pertama dari halaman papan berisi aturan dan info tentang papan tersebut.
 
-The first box of the board page contains rules, and info about the board. 
+![Gambar](img/2ch04.png)
 
-![Image](img/2ch04.png)
+Anda dapat melihat daftar thread di kotak berikutnya. Inilah cara Anda akan menemukan thread. Angka dalam tanda kurung setelah nama thread adalah berapa banyak *tanggapan* yang dimiliki thread tersebut.
 
-You can see the list of threads in the next box. This is how you will find threads. The number in brackets after the thread name is how many *responses* the thread has.
+Jika Anda menggulir lebih jauh, Anda dapat melihat pratinjau thread terbaru yang di-bump. Ini akan menampilkan posting pertama (OP), dan 50 posting terakhir.
+"レス" mengacu pada berapa banyak *tanggapan* yang dimiliki thread. "CP" (click point?) mengacu pada seberapa populer thread saat ini. Angka yang lebih tinggi berarti lebih populer.
+(Tampilan thread terbaru yang di-bump) Anda perlu mengklik 全部読む untuk melihat seluruh thread.
 
-If you scroll further, you can see previews of the latest bumped threads. This will show the first post (the OP), and the last 50 posts.  
-The "レス" refers to how many *responses* the thread has. The "CP" (click point?) refers to how popular the thread currently is. A higher number means it's more popular.
-(Latest bumped threads view) You need to click on 全部読む to view the entire thread.  
+![Gambar](img/2ch05.png)
 
-![Image](img/2ch05.png)
+Ketika Anda mengklik thread melalui daftar thread, secara default 5ch akan menampilkan posting pertama dan 50 posting terakhir. Anda perlu mengklik 全部, atau menghapus `/l50` dari URL untuk melihat seluruh thread.
 
-When you click on a thread through the thread list, by default 5ch will display the first post and the latest 50 posts. You need to click on 全部, or remove `/l50` from the URL to view the entire thread.
+![Gambar](img/2ch06.png)
 
-![Image](img/2ch06.png)
+## Halaman Khusus Daftar Thread
 
-## Thread List Dedicated Page
+Ada halaman khusus untuk setiap papan di mana Anda dapat melihat daftar semua thread, tanpa tambahan lainnya. Anda dapat mengaksesnya dengan mengklik **スレッド全一覧はこちら** di bagian atas daftar thread, atau dengan mengedit URL untuk menyertakan `subback.html` di akhir.
 
-There is a dedicated page for each board where you can view a list of all threads, without any other bloat. You can access it by clicking on **スレッド全一覧はこちら** at the top of the thread list, or by editing the URL to include `subback.html` at the end.  
+![Gambar](img/2ch07.png)  
 
-![Image](img/2ch07.png)  
+Tampilan default tidak terlalu bagus, tetapi Anda harus mengklik **表示スタイル切替** dan mendapatkan tampilan yang Anda sukai.
 
-The default view is not very good, but you should click **表示スタイル切替** and get a view you like. 
+## Tautan Imgur
 
-## Imgur Links
+Anda mungkin memperhatikan banyak orang memposting tautan Imgur. Ini karena 5ch adalah papan buletin **teks** yang tidak mendukung pengunggahan gambar. Satu-satunya cara untuk berbagi gambar adalah menggunakan host gambar eksternal.
 
-You may notice a lot of people posting Imgur links. This is because 5ch is a **text** bulletin board that does not support uploading images. The only way to share images is to use external image hosts. 
+Ada ekstensi browser yang bertujuan untuk meningkatkan pengalaman 5ch yang menampilkan fitur menyematkan gambar dan tweet. Yang saya gunakan secara pribadi adalah [5chutil](#improve-the-web-browser-2ch-experience-5chutil).
 
-There are browser extensions that aim to improve the 5ch experience that feature embedding images and tweets. The one I use personally is [5chutil](#improve-the-web-browser-2ch-experience-5chutil).  
+Pembaruan Desember 2023: Imgur telah mulai menghapus gambar yang berisi konten 18+ dan gambar dari pengguna yang tidak terdaftar, jadi beberapa pengguna 5ch telah beralih ke xxup.org dan catbox.moe untuk hosting gambar.
 
-Update December 2023: Imgur has started to remove images containing 18+ content and images from unregistered users, so some 5ch users have moved to xxup.org and catbox.moe for image hosting.  
+## Tanggapan
 
-## Responses
+Tanggapan bekerja hampir sama seperti balasan di situs seperti 4chan. Tanggapan tertua ditampilkan terlebih dahulu, dan yang terbaru ditampilkan terakhir.
 
-Responses work in nearly the same way as replies do on sites like 4chan. The oldest responses are displayed first, and the newest displayed last. 
+Namun, sementara balasan di thread 4chan dihitung terhadap semua balasan di seluruh thread di seluruh papan (inilah mengapa balasan memiliki angka yang sangat tinggi), tanggapan di thread 5ch dihitung terhadap berapa banyak tanggapan yang ada dalam satu thread itu.
+Di 5ch, cara orang menanggapi posting lain adalah dengan merujuk ke nomor dengan `>>`. Misalnya, membalas posting pertama akan menjadi `>>1`, membalas posting ke-19 akan menjadi `>>19`.
 
-However, while replies in 4chan threads are counted against all replies across all threads across the entire board (this is why replies have really high numbers), responses in 5ch threads are counted against how many responses are in that one thread.  
-On 5ch, the way people respond to other posts is to refer to the number with `>>`. For example, replying to the first post will be `>>1`, replying to the 19th post would be `>>19`.   
-
-On 5ch, threads will automatically DAT落ち when they reach 1000 responses. You can view those archived threads in the 過去ログ. Archived threads cannot be replied to.  
+Di 5ch, thread akan secara otomatis DAT落ち ketika mencapai 1000 tanggapan. Anda dapat melihat thread yang diarsipkan tersebut di 過去ログ. Thread yang diarsipkan tidak dapat dibalas.
 
 ## 過去ログ
 
-The 5ch 過去ログ is where DAT落ち'd threads go. You can view the 過去ログ by clicking on the **過去ログ一覧はこちら** button at the top of the thread list.  
+過去ログ 5ch adalah tempat di mana thread yang DAT落ち'd pergi. Anda dapat melihat 過去ログ dengan mengklik tombol **過去ログ一覧はこちら** di bagian atas daftar thread.
 
-![Image](img/2ch08.png)
+![Gambar](img/2ch08.png)
 
-You can visit the [過去ログ web page](https://kakolog.jp/) to search for older threads were archived too recently to be indexed by Google.
+Anda dapat mengunjungi [halaman web 過去ログ](https://kakolog.jp/) untuk mencari thread lama yang diarsipkan terlalu baru untuk diindeks oleh Google.
 
-IMPORTANT UPDATE OCTOBER 2023: Following a period of DDoS attacks, 過去ログ threads can no longer be viewed due to the error code 522.  
+PEMBARUAN PENTING OKTOBER 2023: Setelah periode serangan DDoS, thread 過去ログ tidak lagi dapat dilihat karena kode kesalahan 522.
 
-Update December 2023: Many threads still cannot be viewed. It is unknown what is causing this because it has been 2 months now with no fix.   
+Pembaruan Desember 2023: Banyak thread masih tidak dapat dilihat. Tidak diketahui apa yang menyebabkan hal ini karena sudah 2 bulan tanpa perbaikan.
 
 ## Posting
 
-## NEW: DONGURI system
+## BARU: Sistem DONGURI
 
-As a troll and spam prevention measure, users are required to *plant an acorn* and wait before they are able to post. 
+Sebagai tindakan pencegahan troll dan spam, pengguna diharuskan untuk *menanam biji ek* dan menunggu sebelum mereka dapat memposting.
 
-You can do this by typing `!donguri` in the 名前 field and post anything in any thread. 
-You will need to repeat this on every different device/browser/app you use 5ch on.  
-![Image](img/2ch15.png)  
+Anda dapat melakukan ini dengan mengetik `!donguri` di kolom 名前 dan memposting apa saja di thread mana pun.
+Anda perlu mengulangi ini pada setiap perangkat/browser/aplikasi berbeda yang Anda gunakan untuk mengakses 5ch.
+![Gambar](img/2ch15.png)  
 
-After that you should get an error message telling you that the acorn (donguri) has been planted. You will be able to post after a few minutes have passed. 
+Setelah itu, Anda akan mendapatkan pesan kesalahan yang memberi tahu Anda bahwa biji ek (donguri) telah ditanam. Anda akan dapat memposting setelah beberapa menit berlalu.
 
-![Image](img/2ch14.png)  
+![Gambar](img/2ch14.png)  
 
+Anda dapat memposting di 5ch dengan menggulir ke bagian paling bawah thread dan mengetik di kotak teks.
 
+![Gambar](img/2ch11.png)  
 
-You can post on 5ch by scrolling right to the bottom of the thread and typing in the text box.  
+Saat memposting, pastikan apa yang Anda posting tidak melanggar hukum dan tidak menyebabkan masalah bagi orang lain. Anda dapat dengan mudah diblokir karena trolling di 5ch dan sangat tidak menyenangkan mencoba untuk membatalkan blokir atau menghindari blokir Anda!
 
-![Image](img/2ch11.png)  
+Praktik terbaik adalah [sage](#sage)! saat memposting!
 
-When posting, make sure what you're posting does not break the law and is not causing trouble to others. You can easily get banned for trolling on 5ch and it is really not pretty trying to get unbanned or evade your ban!
+Anda dapat memulai thread baru dengan pergi ke halaman papan dan menggulir ke bagian bawah di mana tertulis 新規スレッド作成.
 
-It is best practice to [sage](#sage)! when posting! 
+![Gambar](img/2ch12.png)   
 
-You can start new threads by going to the board page and scrolling to the bottom where it says 新規スレッド作成. 
+## Budaya Posting
 
-![Image](img/2ch12.png)   
+Karena posting bersifat anonim, posting *mungkin* menjadi beracun. Orang mungkin saling melontarkan hinaan. Saya pikir itu tidak ada apa-apanya dibandingkan dengan 4chan, meskipun demikian. Juga, ini sangat bervariasi tergantung pada *papan* mana Anda memposting. Papan seperti [アニメ](https://pug.5ch.net/anime/) memiliki moderasi yang baik dan tidak benar-benar menjadi beracun. Di sisi lain, tempat sampah seperti [ニュー速(嫌儲)](https://greta.5ch.net/poverty/) hampir selalu menjadi bagian bawah internet Jepang.
 
-## Posting Culture
+Orang-orang dapat dan akan merespons secara negatif terhadap posting berkualitas buruk yang Anda buat dan thread yang Anda buat, dan *akan* ada haters di mana-mana yang mengkritik hal-hal yang Anda sukai, penting untuk tidak menanggapi respons negatif ini dengan serius, dan belajar untuk mengatasinya.
 
-Since posting is anonymous, posts *may* get toxic. People may throw insults around. I think it is nothing compared to 4chan, though. Also, it varies a lot depending on *what* board you are posting on. Boards like the [アニメ](https://pug.5ch.net/anime/) board have good moderation and does not really get toxic.   On the other hand, a sh\*thole such as [ニュー速(嫌儲)](https://greta.5ch.net/poverty/) is pretty much always the underbelly of the Japanese net. 
+## Cara memposting di luar Jepang
 
-People can and will respond negatively to poor quality posts you make and threads you create, and there *will* be haters everywhere bashing the things you like, it is important to not take these negative responses to heart, and learn to get over them.  
+![Gambar](img/2ch10.png)  
 
-## How to post outside of Japan
+IP non-Jepang tidak dapat memposting di 5ch.
 
-![Image](img/2ch10.png)  
+5ch sangat ketat tentang alamat IP mana yang dapat memposting ~~di 99% papan (Anda dapat memposting secara bebas di papan 大使館 dan Anarchy).~~
 
-Non-Japanese IPs cannot post on 5ch.  
+Pembaruan Oktober 2023: Anda tidak lagi dapat memposting di papan mana pun di 5ch dengan IP asing tanpa 5ch premium.
 
-5ch is very strict on what IP addresses can post ~~on 99% of boards (大使館 and Anarchy boards you can post freely).~~
+Anda dapat *melihat* 5ch dengan baik di luar Jepang, namun Anda hanya dapat memposting dengan ISP Jepang dan operator seluler yang disetujui. Ini berarti VPN biasa tidak berfungsi, karena ISP juga perlu disetujui.
 
-Update October 2023: You can no longer post on any board on 5ch with a foreign IP without 5ch premium.  
+Namun masih ada cara untuk mengatasi pembatasan posting, tetapi bisa menjadi rumit.
 
-You can *view* 5ch just fine outside of Japan, however you can only post with approved Japanese ISP's and mobile carriers. This means usual VPN's don't work, as the ISP needs to be approved too.
+### Metode 1: VPN alamat IP Residensial
 
-However there are still ways to get over the posting restriction, but it can get tricky.
-
-### Method 1: Residential IP address VPN
-
-This is the only way I was ever to post on 5ch, however it can be tricky to get your hands on one, and depending on the service you are using you will constantly be rolling the gacha and seeing what IP addresses haven't already been used by others on 5ch and already been banned. It is pretty much a cat and mouse game with the moderators of 5ch. 
+Ini adalah satu-satunya cara yang pernah saya gunakan untuk memposting di 5ch, namun bisa sulit untuk mendapatkannya, dan tergantung pada layanan yang Anda gunakan, Anda akan terus-menerus bermain gacha dan melihat alamat IP mana yang belum digunakan oleh orang lain di 5ch dan sudah diblokir. Ini hampir seperti permainan kucing-kucingan dengan moderator 5ch.
 
 #### Tuxler 
 
-Tuxler is a VPN service that lets you use residential IP addresses. It works quite well when you figure out how to use it.  
-I recommend you download the Windows app, not the Chrome extension.  
-[Tuxler Windows App](https://www.tuxlervpn.com/download-windows/).    
+Tuxler adalah layanan VPN yang memungkinkan Anda menggunakan alamat IP residensial. Ini berfungsi cukup baik ketika Anda mengetahui cara menggunakannya.
+Saya sarankan Anda mengunduh aplikasi Windows, bukan ekstensi Chrome.
+[Aplikasi Windows Tuxler](https://www.tuxlervpn.com/download-windows/).    
 
-When I tried directly connecting to a Japan location address in Residential mode, it didn't work. 
-However, I realized the software is bugged and there is a workaround to this.  
-You need to first connect to a Datacenter location, THEN a Residential location. (You can stack connections.)  
+Ketika saya mencoba terhubung langsung ke alamat lokasi Jepang dalam mode Residensial, itu tidak berhasil.
+Namun, saya menyadari bahwa perangkat lunak tersebut memiliki bug dan ada cara untuk mengatasinya.
+Anda perlu terlebih dahulu terhubung ke lokasi Datacenter, KEMUDIAN lokasi Residensial. (Anda dapat menumpuk koneksi.)
 
-So the steps are as follows,    
-1. Connect to the nearest Datacenter location, (France for me, as I am in the UK.)  
-2. Then switch to the Residential tab and choose Japan.   
-3. When the flag at the bottom changes to Japan you know it worked.  
-4. Try accessing ipleak.net to see what your ISP displays as. It should be something like KDDI, NTT, au, SoftBank, Docomo etc.   
-5. When you reach the daily limit, connect to another residential VPN first before connecting. (it remembers your original IP)  
+Jadi langkah-langkahnya adalah sebagai berikut,    
+1. Hubungkan ke lokasi Datacenter terdekat, (Prancis untuk saya, karena saya berada di Inggris.)  
+2. Kemudian beralih ke tab Residensial dan pilih Jepang.   
+3. Ketika bendera di bagian bawah berubah menjadi Jepang, Anda tahu itu berhasil.  
+4. Coba akses ipleak.net untuk melihat apa yang ditampilkan sebagai ISP Anda. Seharusnya seperti KDDI, NTT, au, SoftBank, Docomo dll.   
+5. Ketika Anda mencapai batas harian, hubungkan ke VPN residensial lain terlebih dahulu sebelum terhubung. (itu mengingat IP asli Anda)  
 
-**WARNING: Tuxler lets other people use your IP address as a residential VPN too. Make sure you close the app fully (gone from the taskbar icons and Task Manager completely) when you finish using it.**  
+**PERINGATAN: Tuxler memungkinkan orang lain menggunakan alamat IP Anda sebagai VPN residensial juga. Pastikan Anda menutup aplikasi sepenuhnya (hilang dari ikon taskbar dan Task Manager sepenuhnya) ketika Anda selesai menggunakannya.**
 
 #### 筑波vpn
 
-Also known as SoftEther, or VPN Gate. Out of courtesy for the contributors I will not go into detail but this is also an option. 
+Juga dikenal sebagai SoftEther, atau VPN Gate. Demi kesopanan terhadap para kontributor, saya tidak akan membahas secara detail, tetapi ini juga merupakan opsi.
 
-#### Dedicated Residential Proxy 
+#### Proxy Residensial Khusus
 
-This is quite an expensive option. There are proxy providers aimed at people that do web scraping that provide undetectable residential proxies. A lot of these providers have Japan location residential proxies too. Your safest and most reliable approach to posting on 5ch outside of Japan would be this, but it can be quite costly. 
-Make sure you don't buy an "ISP Proxy"! These are just datacenter IPs with a registered dummy ISP. You need a *residential* or *mobile* proxy.  
+Ini adalah opsi yang cukup mahal. Ada penyedia proxy yang ditujukan untuk orang yang melakukan web scraping yang menyediakan proxy residensial yang tidak terdeteksi. Banyak dari penyedia ini juga memiliki proxy residensial lokasi Jepang. Pendekatan teraman dan paling andal untuk memposting di 5ch di luar Jepang adalah ini, tetapi bisa cukup mahal.
+Pastikan Anda tidak membeli "ISP Proxy"! Ini hanya IP pusat data dengan ISP dummy yang terdaftar. Anda membutuhkan proxy *residensial* atau *seluler*.
 
-### Method 2: Buy ＵＰＬＩＦＴ
+### Metode 2: Beli ＵＰＬＩＦＴ
 
-Update November 2023: 5ch ＵＰＬＩＦＴ (formerly known as 浪人) is like a 5ch Premium; you have more perks such as heightened spamming abilities and you can post from outside of Japan and with a VPN. This used to only allow Japanese credit/debit cards, however their payment processor shift to Stripe has made it purchaseable for people without a Japanese card. 
-It starts at $4 for 1 month.  
-However, make sure you disable "自動更新" before you buy! There does not seem to be any way other than emailing them to remove your payment details. So just don't check that box.
+Pembaruan November 2023: 5ch ＵＰＬＩＦＴ (sebelumnya dikenal sebagai 浪人) adalah seperti Premium 5ch; Anda memiliki lebih banyak keuntungan seperti kemampuan spamming yang ditingkatkan dan Anda dapat memposting dari luar Jepang dan dengan VPN. Dulu ini hanya mengizinkan kartu kredit/debit Jepang, namun pergeseran prosesor pembayaran mereka ke Stripe telah membuatnya dapat dibeli oleh orang tanpa kartu Jepang.
+Harganya mulai dari $4 untuk 1 bulan.
+Namun, pastikan Anda menonaktifkan "自動更新" sebelum membeli! Sepertinya tidak ada cara lain selain mengirim email kepada mereka untuk menghapus detail pembayaran Anda. Jadi jangan centang kotak itu.
 
-**This is by far the best way to post on 5ch outside of Japan!!**
+**Ini adalah cara terbaik untuk memposting di 5ch di luar Jepang!!**
 
-![Image](img/2ch13.png)  
+![Gambar](img/2ch13.png)
 
-Here's how an email with your login details should look like after purchase. 
+Beginilah seharusnya tampilan email dengan detail login Anda setelah pembelian.
 
-??? tip "Email template to ask for removal of payment details if 自動更新 was left on"
-	Subject: 自動更新の解除とお支払い方法の削除についてのお願い
+??? tip "Template email untuk meminta penghapusan detail pembayaran jika 自動更新 dibiarkan aktif"
+	Subjek: 自動更新の解除とお支払い方法の削除についてのお願い
 
 	おはようございます。
 
@@ -201,113 +198,113 @@ Here's how an email with your login details should look like after purchase.
 
 	購入確認のメールは、以下の通りです。
 
-	[Insert purchase confirmation email you received]
+	[Masukkan email konfirmasi pembelian yang Anda terima]
 
 	お手数をおかけして申し訳ありませんが、ご対応いただけますと幸いです。
 	どうぞよろしくお願いいたします。
 
-## 専用ブラウザ 5ch dedicated browsers
+## 専用ブラウザ Browser khusus 5ch
 
-It is usually not recommended to use a web browser to use 5ch. This is because 5ch works by you (client) requesting the data (.dat) of the thread and the server making a HTML web page for you. This can cause extra load on the server. That is why 5ch dedicated browsers are recommended, as they can display threads in a more native way to the thread .dat.
+Biasanya tidak disarankan untuk menggunakan browser web untuk menggunakan 5ch. Ini karena 5ch bekerja dengan Anda (klien) meminta data (.dat) thread dan server membuat halaman web HTML untuk Anda. Ini dapat menyebabkan beban tambahan pada server. Itulah mengapa browser khusus 5ch direkomendasikan, karena mereka dapat menampilkan thread dengan cara yang lebih alami untuk .dat thread.
 
-Some boards even have restrictions in place where you can only post on a dedicated browser.  
+Beberapa papan bahkan memiliki pembatasan di mana Anda hanya dapat memposting pada browser khusus.
 
-The major downside of this for Japanese learners is that you can't use Yomichan in them.  
+Kerugian utama dari ini bagi pelajar bahasa Jepang adalah Anda tidak dapat menggunakan Yomichan di dalamnya.
 
-Recommended 5ch専用ブラウザ:    
-Windows: [Siki](https://sikiapp.net/)  
-Android: [Chmate](https://play.google.com/store/apps/details?id=jp.co.airfront.android.a2chMate&hl=ja)  
-iOS: [Thread Master](https://apps.apple.com/jp/app/threadmaster/id6455370741)  
+Browser khusus 5ch yang direkomendasikan:
+Windows: [Siki](https://sikiapp.net/)
+Android: [Chmate](https://play.google.com/store/apps/details?id=jp.co.airfront.android.a2chMate&hl=ja)
+iOS: [Thread Master](https://apps.apple.com/jp/app/threadmaster/id6455370741)
 
-## Improve the web browser 5ch experience: 5chutil  
-You can improve the web browser 5ch experience using the 5chutil extension.  
-[Chrome (load unzipped)](https://drive.proton.me/urls/JJNBJQYXFG#Rxrr6Flaic6V)  
-[Firefox](https://addons.mozilla.org/ja/firefox/addon/5chutil/)     
+## Meningkatkan pengalaman browser web 5ch: 5chutil
+Anda dapat meningkatkan pengalaman browser web 5ch menggunakan ekstensi 5chutil.
+[Chrome (muat unzipped)](https://drive.proton.me/urls/JJNBJQYXFG#Rxrr6Flaic6V)
+[Firefox](https://addons.mozilla.org/ja/firefox/addon/5chutil/)
 
-This has a lot of useful quality of life improvements. Including:  
-	- Improved thread list view, featuring sorting by name, no. of responses(レス), CP(勢い)(click point) and date.  
-	- Imgur and Twitter embeds  
-	- Replies by a single user can be displayed in a list when you hover over the number next to their name.  
-	- Replies spanning across multiple replies can be displayed in a list when you hover the `>>`.  
-	- Add "NG Words" by highlighting text and clicking the button. This can filter stuff you don't want to see.    
-	- Able to hide replies of posters you don't like by clicking the + next to their ID.  
+Ini memiliki banyak peningkatan kualitas hidup yang berguna. Termasuk:
+	- Tampilan daftar thread yang ditingkatkan, menampilkan pengurutan berdasarkan nama, jumlah tanggapan(レス), CP(勢い)(click point) dan tanggal.
+	- Embed Imgur dan Twitter
+	- Balasan dari satu pengguna dapat ditampilkan dalam daftar ketika Anda mengarahkan kursor ke angka di sebelah nama mereka.
+	- Balasan yang mencakup beberapa balasan dapat ditampilkan dalam daftar ketika Anda mengarahkan kursor ke `>>`.
+	- Tambahkan "Kata NG" dengan menyorot teks dan mengklik tombol. Ini dapat menyaring hal-hal yang tidak ingin Anda lihat.
+	- Dapat menyembunyikan balasan dari poster yang tidak Anda sukai dengan mengklik + di sebelah ID mereka.
 
-## Recommended way to search 5ch
+## Cara yang direkomendasikan untuk mencari di 5ch
 
-~~If you want to search active and archived threads, and thread content too, I recommend using Google with the search term `site:5ch.net <keyword>`.~~ This sucks in 2024. The best way now is to use [find.2ch.sc](https://find.2ch.sc/). 2ch.sc is a mirror site of 5ch.net, owned by the righteous owner of 2channel, Hiroyuki Nishimura. Threads and responses on here that have @net next to them are mirrored from 5ch.net, and you can find the corresponding threads on the 5ch.net site easily.  
+~~Jika Anda ingin mencari thread aktif dan diarsipkan, dan juga konten thread, saya sarankan menggunakan Google dengan istilah pencarian `site:5ch.net <kata kunci>`.~~ Ini buruk di tahun 2024. Cara terbaik sekarang adalah menggunakan [find.2ch.sc](https://find.2ch.sc/). 2ch.sc adalah situs cermin dari 5ch.net, yang dimiliki oleh pemilik sah 2channel, Hiroyuki Nishimura. Thread dan tanggapan di sini yang memiliki @net di sebelahnya dicerminkan dari 5ch.net, dan Anda dapat dengan mudah menemukan thread yang sesuai di situs 5ch.net.
 
-The search bar on the site is fine to search thread titles of active thread. 
+Kotak pencarian di situs tersebut cukup baik untuk mencari judul thread dari thread aktif.
 
-## 結局 No point of using 5ch?? / まとめサイト introduction
-5ch can have a lot of interesting posts, however a lot of threads may be クソスレ (crappy threads) and a lot of responses in threads may be クソレス (crappy responses). It can also be hard to find things on 5ch.  
+## 結局 Tidak ada gunanya menggunakan 5ch?? / Pengenalan まとめサイト
+5ch dapat memiliki banyak posting menarik, namun banyak thread mungkin クソスレ (thread sampah) dan banyak tanggapan dalam thread mungkin クソレス (tanggapan sampah). Juga bisa sulit untuk menemukan hal-hal di 5ch.
 
-That is where まとめサイト's come in. These sites take interesting threads and only the interesting responses, and put them on a 3rd party site. These sites are also usually specialized in only posting about one topic. For example, there is a [Love Live! 5ch matome site](http://lovelivematocha.com/) that takes threads from the ラブライブ！ board. Here's [ピコピコ通信](https://stkn-games.net/), a まとめサイト that posts threads from video game related 5ch boards. Here's [アルファルファモザイク](https://alfalfalfa.com/) which is more like a general まとめサイト.  
-  
-In my opinion, まとめサイト's are the real Japanese alternative to mindlessly scrolling something like Reddit. You can spend hours being entertained just looking at まとめサイト's.  
-There is a まとめサイト for pretty much any hobby / interest, just search on Google for them. You can see a まとめサイト recommendation list here:  
-[【完全版】おすすめまとめサイト30選！2chなどジャンル別に調査！](https://monamona2525.com/archives/59506)  
+Di sinilah まとめサイト berperan. Situs-situs ini mengambil thread menarik dan hanya tanggapan yang menarik, dan menempatkannya di situs pihak ketiga. Situs-situs ini juga biasanya khusus hanya memposting tentang satu topik. Misalnya, ada [situs matome Love Live! 5ch](http://lovelivematocha.com/) yang mengambil thread dari papan ラブライブ！. Ini [ピコピコ通信](https://stkn-games.net/), sebuah まとめサイト yang memposting thread dari papan 5ch terkait video game. Ini [アルファルファモザイク](https://alfalfalfa.com/) yang lebih seperti まとめサイト umum.
 
-## Notorious 5ch boards
-	- なんでも実況J  
-	- なんでも実況G  
-	- ニュー速VIP  
-	- ニュー速(嫌儲)   
+Menurut pendapat saya, まとめサイト adalah alternatif Jepang yang sebenarnya untuk menggulir tanpa tujuan sesuatu seperti Reddit. Anda bisa menghabiskan berjam-jam terhibur hanya dengan melihat まとめサイト.
+Ada まとめサイト untuk hampir semua hobi / minat, cukup cari di Google. Anda dapat melihat daftar rekomendasi まとめサイト di sini:
+[【完全版】おすすめまとめサイト30選！2chなどジャンル別に調査！](https://monamona2525.com/archives/59506)
+
+## Papan 5ch yang terkenal
+	- なんでも実況J
+	- なんでも実況G
+	- ニュー速VIP
+	- ニュー速(嫌儲)
 	- 東アジアニュース+
-	- なんでもあり   
-	- 難民  
-	- ハード・業界  
+	- なんでもあり
+	- 難民
+	- ハード・業界
 
-The NSFW (BBSPINK) versions of ニュー速 and なんでもあり can only be accessed with a Japanese IP address. Most of BBSPINK is only accessible with a Japanese IP address too.    
+Versi NSFW (BBSPINK) dari ニュー速 dan なんでもあり hanya dapat diakses dengan alamat IP Jepang. Sebagian besar BBSPINK juga hanya dapat diakses dengan alamat IP Jepang.
 
 ## Talk.jp
 
-![Image](img/2ch09.png)  
+![Gambar](img/2ch09.png)
 
 URL: [https://talk.jp/](https://talk.jp/)
 
-Talk.jp is a spin off of 5ch that was made recently due to disagreements between the terrible owners of 5ch and the owner of the developer of the most popular 5ch専用ブラウザ, Jane Style. In response to this, the developer of Jane Style created Talk.jp and removed 5ch support from Jane Style, and made it into a Talk.jp専用ブラウザ.  Jane Style was a popular 5ch専用ブラウザ, which means everyone that downloaded the update will no longer be browsing 5ch, but Talk.jp. With that being said, this is not really stealing that much traffic from 5ch.  
+Talk.jp adalah spin off dari 5ch yang dibuat baru-baru ini karena perselisihan antara pemilik 5ch yang buruk dan pemilik pengembang 5ch専用ブラウザ paling populer, Jane Style. Menanggapi hal ini, pengembang Jane Style menciptakan Talk.jp dan menghapus dukungan 5ch dari Jane Style, dan menjadikannya Talk.jp専用ブラウザ. Jane Style adalah 5ch専用ブラウザ yang populer, yang berarti semua orang yang mengunduh pembaruan tidak lagi akan menjelajahi 5ch, tetapi Talk.jp. Dengan demikian, ini tidak benar-benar mencuri banyak lalu lintas dari 5ch.
 
-Talk.jp has the most popular boards of 5ch, and features an easier to use web design.
+Talk.jp memiliki papan 5ch yang paling populer, dan menampilkan desain web yang lebih mudah digunakan.
 
-## Terminology
+## Terminologi
 ### スレ
 Thread.
 ### レス
-Response.
+Tanggapan.
 ### 板
-Board.
+Papan.
 ### sage
-Usually when you post on 5ch, the thread will get bumped to the top of the board. You can stop this by putting `sage` in the Email field when posting. Posting without sage'ing was frowned upon like 20 years ago and the culture of sage'ing has mostly remained. Names will appear purple for users that posted with `sage`.  
+Biasanya ketika Anda memposting di 5ch, thread akan naik ke atas papan. Anda dapat menghentikan ini dengan menempatkan `sage` di kolom Email saat memposting. Memposting tanpa sage dianggap tidak sopan sekitar 20 tahun yang lalu dan budaya sage sebagian besar tetap ada. Nama akan muncul ungu untuk pengguna yang memposting dengan `sage`.
 ### 自治
-Basically moderation on 5ch. Well moderated boards have "自治スレ"'s where you complain to the mods about being moderated.
+Pada dasarnya moderasi di 5ch. Papan yang dimoderasi dengan baik memiliki "自治スレ" di mana Anda mengeluh kepada moderator tentang dimoderasi.
 ### 実況
-実況 on 5ch refers to discussing an event or something while it is happening. This has often been frowned upon by 5ch users, therefore most boards disallow 実況'ing by default. Boards that *do* allow it, have 実況 in the name or 実況OK/実況可 written in the rules)  
+実況 di 5ch mengacu pada mendiskusikan suatu acara atau sesuatu saat sedang terjadi. Ini sering dianggap tidak sopan oleh pengguna 5ch, oleh karena itu sebagian besar papan melarang 実況 secara default. Papan yang *memang* mengizinkannya, memiliki 実況 dalam nama atau 実況OK/実況可 tertulis dalam aturan)
 ### DAT落ち
-When a thread becomes archived and you are unable to reply to it. A thread may DAT落ち when many more new threads than the board can take are made, or when the thread reaches 1000 replies. 5ch thread raw data is stored in .dat files. Therefore, the dat "falls".
+Ketika sebuah thread menjadi diarsipkan dan Anda tidak dapat membalasnya. Sebuah thread mungkin DAT落ち ketika banyak thread baru dibuat lebih dari yang dapat ditampung papan, atau ketika thread mencapai 1000 balasan. Data thread 5ch disimpan dalam file .dat. Oleh karena itu, dat "jatuh".
 ### VIP
-Originally 20 years ago, this meant boards that got special treatment, but now this kind of has a "containment" connotation to it because the boards that have "VIP" in the name are really notorious for their posts. Examples include [ニュー速VIP](https://mi.5ch.net/news4vip/).   
+Awalnya 20 tahun yang lalu, ini berarti papan yang mendapat perlakuan khusus, tetapi sekarang ini memiliki konotasi "penahanan" karena papan yang memiliki "VIP" dalam namanya sangat terkenal karena postingan mereka. Contohnya termasuk [ニュー速VIP](https://mi.5ch.net/news4vip/).
 ### コテハン
-5ch is usually anonymous, however you can post with a name. This is called コテハン.
+5ch biasanya anonim, namun Anda dapat memposting dengan nama. Ini disebut コテハン.
 ### トリップ/酉/鳥
-This is similar to [コテハン](#_8), but a トリップ is made by a special string of characters that only you should know, that becomes another string of characters, this is your トリップ. People may want to post with a トリップ when they want to be specially identified. You can make a trip like this: `<name> #<random string>`
+Ini mirip dengan [コテハン](#_8), tetapi トリップ dibuat oleh string karakter khusus yang seharusnya hanya Anda ketahui, yang menjadi string karakter lain, ini adalah トリップ Anda. Orang mungkin ingin memposting dengan トリップ ketika mereka ingin diidentifikasi secara khusus. Anda dapat membuat trip seperti ini: `<nama> #<string acak>`
 ### 垢版
-Different spelling of 垢BAN, or アカウントBAN, the name might suggest it bans people but it's just the link to the donguri page.  
+Ejaan berbeda dari 垢BAN, atau アカウントBAN, namanya mungkin menyarankan itu melarang orang tetapi itu hanya tautan ke halaman donguri.
 ### 大砲
-When you have UPLIFT, you can become a "Hunter" on the site. you can shoot an "acorn cannon" (どんぐりキャノン) at someone you suspect to be a troll. This can get their donguri level reset to 0.  
+Ketika Anda memiliki UPLIFT, Anda dapat menjadi "Hunter" di situs. Anda dapat menembakkan "meriam biji ek" (どんぐりキャノン) pada seseorang yang Anda curigai sebagai troll. Ini dapat mengatur ulang level donguri mereka menjadi 0.
 ### !extend:checked:vvvvv:1000:512
-This is a command you can use in the OP of a 5ch thread to enable forced [コテハン](#_8) mode. This is a troll prevention measure because it means each member can be identified with a "[ﾜｯﾁｮｲ](#_10)" followed by a special code. Well-moderated boards often have this as a requirement for all threads. You also often see this in multiple part threads with templates for the OP. ID's on 5ch reset when the date changes or when you post from a different IP address, so IDs aren't enough. People will post multiple lines of the string `!extend:checked:vvvvv:1000:512` to remind others to not forget to post it when they make the new OP when the thread dat落ち's.  
-A more severe version of this with more v's displays each poster's IP address (`!extend:checked:vvvvvv:1000:512`), however this is more rare. 
+Ini adalah perintah yang dapat Anda gunakan di OP thread 5ch untuk mengaktifkan mode [コテハン](#_8) paksa. Ini adalah tindakan pencegahan troll karena berarti setiap anggota dapat diidentifikasi dengan "[ﾜｯﾁｮｲ](#_10)" diikuti oleh kode khusus. Papan yang dimoderasi dengan baik sering memiliki ini sebagai persyaratan untuk semua thread. Anda juga sering melihat ini dalam thread multi-bagian dengan template untuk OP. ID di 5ch diatur ulang ketika tanggal berubah atau ketika Anda memposting dari alamat IP yang berbeda, jadi ID saja tidak cukup. Orang akan memposting beberapa baris string `!extend:checked:vvvvv:1000:512` untuk mengingatkan orang lain untuk tidak lupa mempostingnya ketika mereka membuat OP baru ketika thread dat落ち.
+Versi yang lebih parah dari ini dengan lebih banyak v menampilkan alamat IP setiap poster (`!extend:checked:vvvvvv:1000:512`), namun ini lebih jarang.
 ### 狼
-モーニング娘 board  
+Papan モーニング娘
 ### ﾜｯﾁｮｲ
-What gets displayed next to your name along with a special code when you post in threads that have `!extend:checked:vvvvv:1000:512` in the OP. 
+Apa yang ditampilkan di sebelah nama Anda bersama dengan kode khusus ketika Anda memposting di thread yang memiliki `!extend:checked:vvvvv:1000:512` di OP.
 ### ROMる
-(**Read Only** Memory). Lurking. This is what you will be doing. 
+(**Read Only** Memory). Mengintip. Ini adalah apa yang akan Anda lakukan.
 ### AA
-ASCII art. Also includes Shift-JIS art.  
+Seni ASCII. Juga termasuk seni Shift-JIS.
 ### イッチ
-The person who posted the OP. From ">>1"
+Orang yang memposting OP. Dari ">>1"
 ### 人大杉
-An error message that sometimes displays when you try viewing something in the [5ch/2ch過去ログ](https://kakolog.jp/). It's a 誤字 version of 人多過ぎ. It appears when the server that HTML'ify's the .dat's in the 過去ログ is overloaded. 
+Pesan kesalahan yang kadang-kadang ditampilkan ketika Anda mencoba melihat sesuatu di [5ch/2ch過去ログ](https://kakolog.jp/). Ini adalah versi 誤字 dari 人多過ぎ. Ini muncul ketika server yang mengubah .dat menjadi HTML di 過去ログ kelebihan beban.
 ### アフィ / アフィカス
-アフィ refers to affiliate まとめ sites. These sites take 5ch過去ログ threads and put them on まとめ sites. These sites have ads all over them, and try to farm clicks which means they are earning money from 5ch threads. This is extremely frowned upon among 5ch users, so much so that 5ch owners copyrighted all the threads on their website, making it illegal to post their threads on other sites. Despite this, まとめ sites exist and they are not going away. The カス is a Japanese word meaning something like "scum".
+アフィ mengacu pada situs まとめ afiliasi. Situs-situs ini mengambil thread 5ch過去ログ dan menempatkannya di situs まとめ. Situs-situs ini memiliki iklan di mana-mana, dan mencoba untuk mendapatkan klik yang berarti mereka menghasilkan uang dari thread 5ch. Ini sangat dicela di kalangan pengguna 5ch, sedemikian rupa sehingga pemilik 5ch mempatenkan semua thread di situs web mereka, menjadikannya ilegal untuk memposting thread mereka di situs lain. Meskipun demikian, situs まとめ ada dan mereka tidak akan hilang. カス adalah kata Jepang yang berarti sesuatu seperti "sampah".
