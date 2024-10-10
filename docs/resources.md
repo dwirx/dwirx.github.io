@@ -1,19 +1,180 @@
-# TheMoeWay Resources Sheet
+# Lembar Sumber Daya TheMoeWay
 
-Welcome to TheMoeWay Resources Sheet, resources are categorised into "Learning Japanese" and "Acquiring" Japanese".  
+Selamat datang di Lembar Sumber Daya TheMoeWay, sumber daya dikategorikan menjadi "Belajar Bahasa Jepang" dan "Memperoleh Bahasa Jepang".
 
-## Learning Japanese 
+## Belajar Bahasa Jepang
 
-### Kana  
+### Kana
 
-- [**※ - Tae Kim - The Writing System**](https://gohoneko.neocities.org/grammar/taekim.html#6%20The%20Scripts) - This page has an explanation of what the kana are and what they are used for. You may find this useful if you don't already know.
-- [DJT Kana](https://djtguide.neocities.org/kana/index.html) - A simple kana recognition game. You may want to enable all the hiragana, and katakana and the combinations in order to properly test your skills. It also features a "play sound" button, which I recommend you make use of. 
+- [**※ - Tae Kim - Sistem Penulisan**](https://gohoneko.neocities.org/grammar/taekim.html#6%20The%20Scripts) - Halaman ini memiliki penjelasan tentang apa itu kana dan untuk apa digunakan. Anda mungkin menemukan ini berguna jika Anda belum tahu.
+- [DJT Kana](https://djtguide.neocities.org/kana/index.html) - Permainan pengenalan kana sederhana. Anda mungkin ingin mengaktifkan semua hiragana, katakana dan kombinasinya untuk menguji keterampilan Anda dengan benar. Ini juga memiliki tombol "putar suara", yang saya sarankan Anda gunakan.
 
 ### Kanji
 
-**Important Note:** [Reading a lot](/readingtips) is the best way to learn kanji. This means you should learn kanji through learning to read words. However, you can seek alternatives below if you keep forgetting how to read words you come across, or if you want to learn how to write.*  
+**Catatan Penting:** [Banyak membaca](/readingtips) adalah cara terbaik untuk belajar kanji. Ini berarti Anda harus belajar kanji melalui belajar membaca kata-kata. Namun, Anda dapat mencari alternatif di bawah ini jika Anda terus lupa cara membaca kata-kata yang Anda temui, atau jika Anda ingin belajar cara menulis.*
 
+- **[※ - "Kanken Deck"](https://mega.nz/file/VVdkUZbI#lGvxw2hDkw7JCEWa90cViY7cpYatf1SPUrE0Aw0OdDQ) - Cara terbaik untuk belajar menulis ketika Anda sudah bisa membaca.**
+- **[Halaman sumber daya Kanken](https://rentry.org/kankenbros/#random-links)**
+- [Komponen Kanji Chronopolize](https://ankiweb.net/shared/info/390273931) - Dek Anki untuk membantu Anda membedakan kanji yang mirip dengan mengajarkan komponen.
+- [Fonetik Kanji Usagi Chan](/kanjiphonetics) - Dek Anki untuk membantu Anda mempelajari bacaan komponen kanji yang memiliki on-yomi yang konsisten.
+- [Remembering The Kanji (RTK)](https://mega.nz/folder/SkUABA5Q#4DT43HxP5vZi1pVq44_TVQ)
+- [(Menggunakan RTK) Belajar Kanji](https://www.learnkanji.guide/) - Panduan cara menggunakan RTK.
+- [Recognition Remembering The Kanji dengan kurang dari 450 kartu (RRTK)](https://mega.nz/file/2SJiWC4b#hL98qtC_hiLlQDg0LqVJoqD2-5ywT2Nwd4kjROY_KwQ) - Versi singkat dari RTK.
 
+### Kosakata
+- [Kaishi 1.5k](https://ankiweb.net/shared/info/1196762551) - Dek kosakata dasar yang disarankan panduan untuk belajar bahasa Jepang. Anda juga dapat menemukannya [di sini](https://github.com/donkuri/Kaishi/releases) (klik file `.apkg`).
+- [Dek TheMoeWay Tango N5](https://drive.google.com/file/d/1pMlJvSrKQOSaiN8sPLdNDvWP31EClxDO/view?usp=sharing) - Dek lama yang direkomendasikan sebelum Kaishi 1.5k dibuat.
+- [Dek TheMoeWay Tango N4](https://drive.google.com/file/d/1WX9AAKJgiTKN-SySPzuGG8T4nXVhWaSi/view?usp=sharing) - Dek lanjutan dari Tango N5 di atas, sekarang digantikan oleh Kaishi 1.5k.
+- [Dek Core2.3K Urutan VN](https://anacreondjt.gitlab.io/docs/coredeck/) - Dek Core yang dioptimalkan tetapi diurutkan berdasarkan frekuensi visual novel. Telah dimasukkan ke dalam Kaishi 1.5k.
+
+### Tata Bahasa
+- **[※ - Bahasa Jepang Organik Cure Dolly](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj)** - Cure Dolly adalah panduan tata bahasa baru yang telah menarik perhatian baru-baru ini karena cara uniknya mengajarkan tata bahasa Jepang. Bertujuan untuk mengajarkan tata bahasa Jepang dengan cara yang sesuai dengan akar bahasa, berbeda dengan panduan tata bahasa lain yang mengambil jalan pintas yang bisa menyebabkan kebingungan di kemudian hari. Karena alasan itu, saya sarankan Anda mulai dengan ini. Karena cara bicara Cure Dolly, dan kualitas audio yang disajikan dalam video, Anda mungkin merasa sulit untuk memahami. Namun ada subtitle tersedia untuk semua video yang mungkin mengurangi masalah ini, yang saya sarankan Anda aktifkan.
+- [Transkrip Lengkap Cure Dolly oleh dinuz DIPERBARUI](https://docs.google.com/document/d/1XpuXerkGU8waJ4DPDNJA4bGeqOvM-csXjTe57iHARHc/edit) - Transkrip lengkap video Cure Dolly.
+- [Panduan Tata Bahasa Jepang Tae Kim](https://gohoneko.neocities.org/grammar/taekim.html) - Panduan tata bahasa Tae Kim telah ada selama yang bisa diingat siapa pun. Sering direkomendasikan sebagai panduan tata bahasa yang baik namun Anda mungkin ingin menggunakan Cure Dolly sebagai gantinya, untuk pendekatan yang lebih optimal.
+- [Daftar referensi semua pola tata bahasa Jepang.](https://gohoneko.neocities.org/grammar/masterreference.html) - Sangat berguna untuk merujuk ke suatu poin.
+- ["Making Sense of Japanese - What The Textbooks Don't Tell You" oleh Jay Rubin](https://cdn.discordapp.com/attachments/778430038159655012/908722684257501194/Jay_Rubin_-_Making_Sense_of_Japanese__What_the_Textbooks_Dont_Tell_You-Kodansha_USA_2021.epub) - mirip dengan Cure Dolly, ini seperti setara dengan beberapa video pertama. Ini menghilangkan kesalahpahaman umum tentang tata bahasa Jepang yang dimiliki orang karena mempelajari tata bahasa Jepang dengan cara "tradisional".
+- [Tata bahasa JLPT NihongoKyoshi](https://nihongokyoshi-net.com/jlpt-grammars/) - Tata bahasa "JLPT" yang diajarkan dalam bahasa Jepang. Saya sarankan kebanyakan orang mempelajari ini *setelah* Cure Dolly/Tae Kim. Anda harus mempelajari ini karena banyak poin tata bahasa dapat dengan mudah terlewatkan ketika dilihat di alam liar jika Anda belum mengetahuinya.
+- **[※ - Dek Anki NihongoKyoshi](https://drive.google.com/file/d/1tDBaabwgZMO8nxkcwcw4qBXayuk_513T/view?usp=sharing)** - Sangat direkomendasikan. Hanya memiliki definisi bahasa Jepang, pilihan yang disengaja untuk menghindari asosiasi palsu tata bahasa Jepang dengan kata-kata bahasa Inggris.
+
+Maaf membanjiri Anda dengan informasi, tetapi juga lihat kamus tata bahasa saya untuk Yomichan (ekstensi browser kamus pop-up).
+
+## Memperoleh Bahasa Jepang
+
+### Anime
+
+- [Nyaa.si](https://nyaa.si/?q=&f=0&c=1_4) - pelacak torrent dengan anime mentah, ini adalah tempat terbaik untuk mendapatkan anime. Saya sarankan Anda menggunakan **qBittorrent**!
+- [Hianime.to](https://hianime.to/) - situs streaming anime di mana Anda dapat mematikan subtitle dan beralih ke audio Jepang 日本語.
+- [Ekstensi Chrome asbplayer](https://github.com/killergerbah/asbplayer/releases) - Ekstensi Chrome yang memungkinkan Anda menyeret dan menjatuhkan file subtitle (Lihat [Subtitle](#subtitles)) pada video yang Anda streaming. Ini berfungsi dengan hianime.to, dan mungkin berfungsi dengan situs lain.
+- ~~[Perpustakaan Anime Itazuraneko](https://itazuraneko.neocities.org/library/satuei/anime.html) - koleksi anime.~~
+- [Animelon](https://animelon.com/) - streaming anime dengan subtitle Jepang.
+- **[※ AnimeCards - Subtitle](https://animecards.site/subtitles/)** - Membahas cara mendapatkan subtitle Jepang dan cara menyinkronkannya untuk video.
+- [Crunchyroll](https://www.crunchyroll.com) - gratis tetapi dengan iklan. Anda dapat mematikan subtitle.
+
+### Film & Acara TV (J-drama)
+- [Folder Google Drive penuh dengan J-Drama](https://drive.google.com/drive/folders/0B4SicD-zZ_Z1SWtNWjlfMmJtRFE?resourcekey=0-Mb-d6oqmNscdL_zO16m4Uw) - (kata sandi untuk arsip .zip/.rar: `bagikuy`)
+- [Bagikuy](https://bagikuy.com/) - tautan unduhan j-drama.
+- [Nyaa.si](https://nyaa.si/?q=&f=0&c=4_4) - memiliki beberapa jdrama.
+- [Rakuten Viki](https://www.viki.com/explore?country=japan&sort=all_time) - streaming beberapa J-drama.
+- [Crunchyroll (gratis dengan iklan)](https://www.crunchyroll.com/) - beberapa j-drama ada di sini.
+- [Minidrama](https://minidrama.net/j-drama/) - Unduhan MKV untuk J-drama.
+- [Raredoramas](https://raredoramas.info/) - situs untuk mengumpulkan J-Drama langka
+- [Streaming TV Langsung Jepang](https://aqstream.com/jp) - Kecepatan bagus tetapi koleksi kecil. TBS dan TV Tokyo berfungsi dengan baik.
+- [Streaming TV Langsung Jepang 2](https://www.xhzb.tw/en/list.php?tid=94) - Tidak semua saluran berfungsi.
+- [Streaming TV Langsung Jepang 3](https://tver.jp/)- gunakan [VPN](https://learnjapanese.moe/resources/#vpns-japan-location-specific).
+- **[Aplikasi Android TV Langsung Jepang](https://play.google.com/store/apps/details?id=com.kwakami.tv_japan)** - memiliki koleksi terbaik. Hanya Android tetapi Anda dapat mengemulasi Android di PC.
+- [ABEMA](https://abema.tv/) - Tonton TV Jepang ABEMA. Anda memerlukan VPN Jepang jika Anda berada di luar Jepang.
+- [Cari di bilibili](https://www.bilibili.com/) - Situs web Cina tetapi mereka cukup baik dalam pembajakan konten Jepang.
+- [Terrace House BGND](https://tecchanhouse.wordpress.com/2018/05/15/terrible-houses-annex/#more-177) - Tautan unduhan untuk Terrace House BGND mentah
+- [Daftar Rekomendasi Media Jepang](https://docs.google.com/spreadsheets/d/1w42HEKEu2AzZg9K7PI0ma9ICmr2qYEKQ9IF4XxFSnQU/)
+
+### Manga
+
+Lihat bagian alat untuk informasi tentang cara membuat pencarian lebih mudah untuk manga.
+
+- ~~[Perpustakaan Manga Itazuraneko](https://itazuraneko.neocities.org/library/manga.html) - Koleksi manga yang sederhana dan bersih. Banyak manga di sini.~~
+- [Arsip Archive.org 2019](https://archive.org/download/2019-japanese-comics-pack) - Arsip beberapa manga.
+- [BilingualManga](https://bilingualmanga.org/) - Kompatibel dengan Yomichan & terjemahan satu klik.
+- **[Pengunduh Manga Hakuneko](https://hakuneko.download/)** - Anda dapat mengunduh manga Jepang di sini, gunakan kombinasi tag `raw` dan `japanese`.
+- [Google Drive Manga](https://drive.google.com/drive/folders/1Mx1Hhux0FfoK4-osN5xOmyVcew0mSZVA) - Folder Google Drive dengan beberapa manga.
+- [Nyaa.si](https://nyaa.si/?q=&f=0&c=3_3) - torrent manga mentah, ada BANYAK manga di sini.
+- [Klmanga](https://klmanga.com/index) - Klmanga, baca manga online.
+- [mangareader.to](https://mangareader.to) - mangareader, baca manga online.
+- [Rawkuma](https://rawkuma.com/) - Juga memungkinkan Anda membaca manga online.
+
+Situs web di bawah ini memiliki koleksi terbaik tetapi bisa menjadi menyakitkan untuk diunduh.
+**Gunakan layanan debrid untuk menghasilkan tautan unduhan premium kecepatan penuh!**
+
+- [A-zmanga](http://www.a-zmanga.net/) - Memiliki konten paling banyak. Anda memerlukan layanan debrid.
+- [DLRaw](https://dlraw.net/) - Mulai menyusul A-zmanga. Anda mungkin memerlukan layanan debrid.
+- [13dl.to](http://13dl.to/) - Mirip dengan a-zmanga.
+- [JPDDL](https://jpddl.com/manga) - Mirip dengan a-zmanga.
+- [Daftar Rekomendasi Media Jepang](https://docs.google.com/spreadsheets/d/1w42HEKEu2AzZg9K7PI0ma9ICmr2qYEKQ9IF4XxFSnQU/)
+
+### Novel dan Teks Sastra
+- ~~**[※Daftar Lengkap EPUB AZW3 MOBI Itazuraneko](https://itazuraneko.neocities.org/library/shousetu/shousetulist)**~~
+- ~~[Perpustakaan Novel Lama Itazuraneko](https://itazuraneko.neocities.org/shousetu/index.html) - Halaman ini memiliki banyak buku, dan Anda dapat mengurutkan berdasarkan genre, penulis, jumlah kanji dan sebagainya. Anda mungkin ingin menghapus centang "Sembunyikan buku yang diterjemahkan dari bahasa Inggris", karena diaktifkan secara default.~~
+- ~~[Perpustakaan Novel Baru Itazuraneko](https://itazuraneko.neocities.org/library/shousetu.html) - Versi yang lebih diperbarui dari yang di atas, dengan lebih banyak buku, tetapi tidak memiliki pengurutan.~~
+- [Torrent PeepoHappyBooks](https://nyaa.si/view/1548943) - Koleksi 30000 epub unik yang dikompilasi dari boroboro, itazuraneko, dll.
+- [Novel Ebook Diperpanjang Itazuraneko](https://yonde.itazuraneko.org/) - Daftar besar buku, 20000+ buku. Membutuhkan waktu untuk memuat saat Anda mengklik halaman "検索". Anda dapat mengklik nama untuk membacanya di browser web, atau Anda dapat mengklik ukuran file untuk mengunduhnya. Harap dicatat bahwa file EPUB yang diberikan memiliki gambar yang sangat dikompresi. Fungsi pencarian tidak berfungsi apa pun. Gunakan fitur CTRL+F/Temukan di halaman di browser Anda sebagai gantinya.
+- [Boroboro](https://boroboro.neocities.org/listfullepub.html) - Memiliki EPUB dari beberapa seri yang mungkin tidak ada di Itazuraneko.
+- [Novel Web Syosetsu](https://yomou.syosetu.com/) - Novel web. Berbeda dengan Itazuraneko dan Boroboro, yang memiliki buku ritel, ini hanya memiliki novel web dan 二次創作 (fanfiksi)
+- [Kakuyomu](https://kakuyomu.jp/) - Mirip dengan syosetu.
+- [Hameln](https://syosetu.org/) - Juga mirip dengan syosetu.
+- [Aozora Bunko](https://www.aozora.gr.jp/) - baca klasik Jepang. Buku masuk ke sini jika penulisnya telah meninggal lebih dari 50 tahun yang lalu.
+- **[※ Pembaca Ebook ッツ](https://reader.ttsu.app/)** - Pembaca buku Jepang yang mendukung EPUB dan HTMLZ. Teks ditampilkan dalam 縦書き (teks vertikal) secara default. Ini adalah salah satu opsi terbaik untuk pengalaman otentik membaca buku Jepang.
+- [Daftar Rekomendasi Media Jepang](https://docs.google.com/spreadsheets/d/1w42HEKEu2AzZg9K7PI0ma9ICmr2qYEKQ9IF4XxFSnQU/)
+
+Catatan: Mendapatkan peringkat Siswa atau di atasnya di saluran Discord kami memberi Anda akses ke lebih banyak buku daripada ini.
+
+### Novel Visual dan Game
+
+- [Pencarian novel visual Nyaa.si (SFW)](https://nyaa.si/?f=0&c=6_2&q=_) - Nyaa.si memiliki beberapa novel visual, tetapi Anda sebaiknya menggunakan "Sukebei" nyaa.si (18+, **peringatan NSFW**)
+- [RyuuGames](https://www.ryuugames.com/tag/japanese/) - Memiliki banyak novel visual.
+- [RyuuBlogger](https://ryuubloggerv2.blogspot.com/) - Juga memiliki banyak novel visual.
+- [Anime-sharing](http://www.anime-sharing.com/forum/) - Memiliki novel visual paling banyak dari semua yang ada di sini. Tetapi Anda memerlukan akun dan juga layanan debrid, dan Anda perlu mencari di seluruh thread duplikat untuk mengunduh apa pun dari sini. Lihat [di sini](https://filehostlist.miraheze.org/wiki/Free_Premium_Leeches) untuk leeches premium gratis.
+- [Daftar Unggahan CraneAnime](https://docs.google.com/spreadsheets/d/1ECqqhEm2kDS0hgxZ0tD_73e04v5FUxQGkfCbfi0Kb9k/pubhtml#) - Tautan langsung ke novel visual
+- [Sukebei Nyaa.si **(18+) peringatan NSFW**](https://sukebei.nyaa.si/?f=0&c=1_3&q=) - Sisi NSFW dari Nyaa.si yang seharusnya memiliki lebih banyak novel visual.
+- [VNPocket **(18+) peringatan NSFW**](https://vnpocket.com) - Mainkan novel visual dan game RPG online.
+- [Daftar Rekomendasi Novel Visual](https://learnjapanese.moe/vn/#unsure-what-to-play)
+- [Daftar Rekomendasi Media Jepang](https://docs.google.com/spreadsheets/d/1w42HEKEu2AzZg9K7PI0ma9ICmr2qYEKQ9IF4XxFSnQU/)
+Catatan: novel visual di konsol tidak memiliki konten NSFW.
+
+**Konsol/Emulator**
+
+- ~~[Arsip Game Retro Itazuraneko (PS2, PSP, NDS dll.)](https://itazuraneko.neocities.org/library/game.html) - Game konsol Nintendo, Sony dan Sega, generasi ke-6 dan lebih lama.~~
+- [megathread r/roms](https://r-roms.github.io/) - memiliki lebih banyak ROM daripada situs lain
+- [Game PSP Jepang CDRomance](https://cdromance.com/psp/?filter_language=japanese&filter_region=japan) - game PSP
+- [Game PS2 Jepang CDRomance](https://cdromance.com/ps2-iso/?filter_language=japanese&filter_region=japan) - game PS2
+- [Game Nint#ndo Sw!tch Softcobra](https://www.softcobra.com/) - R#M Nint#ndo Sw!tch
+- [RoyalRoms (Gameboy, SNES, Genesis dll.) | Urutkan wilayah berdasarkan "Japan")](https://www.royalroms.com/roms/)
+- [Skrip Tampermonkey Workaround Emuparadise](https://greasyfork.org/en/scripts/407947-emuparadise-download-workaround) - Anda masih bisa mengunduh dari emuparadise!
+- [Spreadsheet Jepang Jo-mako](https://docs.google.com/spreadsheets/d/1ukDIWSkh_xvpppPbgs1nUR2kaEwFaWlsJgZUlb9LuTs/edit#gid=0)- Ini memiliki peringkat kesulitan video game dan anime dan juga skrip video game. Ini bisa berguna ketika Anda ingin memainkan game retro dan teksnya mungkin terlalu berpiksel untuk OCR.
+
+Tips imersi video game Jepang: PlayStation Vita mudah di-hack dan mendapatkan game Jepang. Ini memiliki perpustakaan game Jepang yang sangat besar sehingga bisa berguna untuk imersi Anda, terutama jika Anda ingin memainkan game eksklusif konsol.
+
+#### Hook VN dengan Textractor!
+- [Panduan VN](https://learnjapanese.moe/vn/)
+
+### Buku Audio & Podcast
+- ~~[Perpustakaan Buku Audio Itazuraneko](https://itazuraneko.neocities.org/library/onsei.html) - Memiliki beberapa buku audio 0 yen dari Audible.~~
+- [Koleksi Buku Audio](https://onedrive.live.com/?authkey=%21ACiYIpTlxCBAtvU&id=12E15D07EB9B7E28%212087&cid=12E15D07EB9B7E28) - Lebih banyak buku audio
+- [Spreadsheet Podcast Jepang](https://docs.google.com/spreadsheets/d/17P2dBQHnBnHcG3ua_24IO6sP9RDC-5b3WHV9Ri2N5qU/edit#gid=0)
+- [Republik Podcast](https://www.podcastrepublic.net/) - Ubah negara ke Jepang dan lihat yang populer.
+- [睡眠用ひろゆき](https://www.youtube.com/@kiriyuki_hiroyuki/videos)
+
+### Subtitle
+- [Subtitle Jepang Kitsunekko untuk anime](http://kitsunekko.net/dirlist.php?dir=subtitles%2Fjapanese%2F) - Kitsunekko memiliki jumlah subtitle Jepang terbanyak. Tetapi hindari subtitle yang dibuat oleh "kamigami", subtitle mereka mungkin memiliki kesalahan transkripsi (Saya katakan "mungkin", tetapi kenyataannya hampir selalu). **(CATATAN: Situs ini cenderung mati secara acak. Anda dapat melihat cadangan [di sini](/kitsubackup.html#/ja))**
+- [Jimaku.cc](https://jimaku.cc/) - situs baru sebagai alternatif yang lebih aman untuk kitsunekko
+- ~~[Subtitle Jepang Itazuraneko](https://itazuraneko.neocities.org/library/sub.html)~~
+- [Subtitle drama JP-Subbers](http://jpsubbers.xyz/Japanese-Subtitles/%40Mains/)
+- [Repo BritVSJapan](https://github.com/Matchoo95/JP-Subtitles) - Dari Netflix.
+- [Subtitle Film Jepang](https://github.com/eurusdagr/Japanese-Movies-Subtitles)
+- **[Pengaturan Ulang Waktu Subtitle Sepenuhnya Otomatis](https://youtu.be/x0h3ooBHrpk)**
+
+### Pencarian Kalimat
+- [Kit Imersi](https://www.immersionkit.com/) - Cari kalimat dari anime, game dll. dengan terjemahan. Dibuat oleh Game Gengo.
+- [Youglish](https://youglish.com/japanese) - Kalimat bersumber dari subtitle video YouTube. Ini adalah alat yang bagus untuk meningkatkan pengucapan Anda, karena kata-kata akan diucapkan oleh penutur asli yang berbicara secara alami.
+- [Massif](https://massif.la/) - Menggunakan novel syosetsu sebagai sumbernya.
+- [Yourei.jp](http://yourei.jp/) "Mesin Pencari Kalimat Jepang Terbesar di Dunia"
+- [Twitter](https://twitter.com/search?q=%E6%A4%9C%E7%B4%A2%E7%B5%90%E6%9E%9C&f=top) - Anda mungkin perlu masuk untuk menggunakan ini.
+- [SentenceSearch](https://sentencesearch.neocities.org/) - Kalimat bersumber dari berbagai sumber belajar. Anda juga bisa mendapatkan audio untuk kalimat di sini!
+- [Repo BritVSJapan](https://github.com/Matchoo95/JP-Subtitles)- (Gunakan fitur pencarian Repositori)
+- [Korpus Kotonoha](http://nlb.ninjal.ac.jp/search/)
+- [Pencarian BCCWJ](https://bonten.ninjal.ac.jp/bccwj/string_search)
+- [Pencarian NWJC](https://bonten.ninjal.ac.jp/nwjc/string_search)
+- [Jisho.org](https://jisho.org/search/%20%23sentences) - Dari proyek tatoeba.
+
+### Audio Terkondensasi
+- [Audio Terkondensasi 1](https://drive.google.com/drive/folders/1fqsc--ybDjxLLdJeGIxmQ3s-o4f2TIz8)
+- [Audio Terkondensasi 2](https://www.mediafire.com/folder/ndeu7h9zjgf1l/MIA_Condensed_Audio)
+- [Audio Terkondensasi 3](https://mega.nz/folder/8HhhWDyJ#SHw5xsYxyhWUX536UcqkeQ)
+- [Audio Terkondensasi 4](https://condensedaudiocatalog.com/#)
+- [Audio Terkondensasi 5](https://www.paliss.com/)
+- [Kondensasi audio Anda sendiri](https://ercanserteli.com/condenser/)
+
+### Penambangan
+- [※ AnimeCards](https://animecards.site/) - AnimeCards sangat bagus untuk memastikan Anda mengingat kata-kata yang Anda pelajari dari imersi Anda. Opsi lain di sini sangat terinspirasi olehnya.
+- [Kartu audio di Mac](https://sites.google.com/view/mac-audiocards) - Berdasarkan metode AnimeCards yang lebih lama tetapi menunjukkan kepada Anda cara membuat pengaturan berfungsi di Mac.
 - **[※ - The "Kanken Deck"](https://mega.nz/file/VVdkUZbI#lGvxw2hDkw7JCEWa90cViY7cpYatf1SPUrE0Aw0OdDQ) - The best way to learn how to write when you can already read.**
 - **[Kanken resource page](https://rentry.org/kankenbros/#random-links)** 
 - [Chronopolize's Kanji Components](https://ankiweb.net/shared/info/390273931) - An Anki deck to help you differentiate similar kanji by teaching components.  
