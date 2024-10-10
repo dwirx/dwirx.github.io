@@ -1,178 +1,176 @@
-# Are you using the right font? 
+# Apakah Anda menggunakan font yang tepat?
 
-![Chinese vs Japanese font](img/font1.png)
+![Font Cina vs Jepang](img/font1.png)
 
-By default, your computer / phone will display kanji in a Chinese font. Japanese kanji look slightly different, and it can be damaging if you learn the Chinese appearance of kanji rather than the Japanese ones.  
+Secara default, komputer / ponsel Anda akan menampilkan kanji dalam font Cina. Kanji Jepang terlihat sedikit berbeda, dan bisa merugikan jika Anda belajar penampilan kanji Cina daripada yang Jepang.
 
-**Verifying if your browser is currently using a Japanese font**
+**Memverifikasi apakah browser Anda saat ini menggunakan font Jepang**
 
-The one character that looks strikingly different between Japanese and Chinese fonts is [直](https://jisho.org/search/%E7%9B%B4%20%23kanji) which is used in the word [直す](https://jpdb.io/search?q=%E7%9B%B4%E3%81%99) (*naosu*) which means *cure, heal, fix*.  
+Satu karakter yang terlihat sangat berbeda antara font Jepang dan Cina adalah [直](https://jisho.org/search/%E7%9B%B4%20%23kanji) yang digunakan dalam kata [直す](https://jpdb.io/search?q=%E7%9B%B4%E3%81%99) (*naosu*) yang berarti *menyembuhkan, memperbaiki*.
 
 <figure>
   <img src="/img/font2.png" width="300" />
-  <figcaption>Naosu in a Chinese font (DengXian)</figcaption>
+  <figcaption>Naosu dalam font Cina (DengXian)</figcaption>
 </figure>
-
 
 <figure>
   <img src="/img/font3.png" width="300" />
-  <figcaption>Naosu in a Japanese font (IPAex Gothic)</figcaption>
+  <figcaption>Naosu dalam font Jepang (IPAex Gothic)</figcaption>
 </figure>
 
-If your 直 looks like the second image, congrats! You are using a Japanese font, if not, change your font.  
+Jika 直 Anda terlihat seperti gambar kedua, selamat! Anda menggunakan font Jepang, jika tidak, ubah font Anda.
 
 ## Windows 10
 
-++win+i++ to open **Settings** > **Apps** > **Optional features** > **Add a feature** > Search **"Japanese supplemental fonts"** and **Install**  
+++win+i++ untuk membuka **Pengaturan** > **Aplikasi** > **Fitur opsional** > **Tambahkan fitur** > Cari **"font tambahan Jepang"** dan **Instal**
 
-??? tip "Advanced Users: Powershell"
-	Japanese fonts can also be installed using **Windows Powershell (Administrator)**:
+??? tip "Pengguna Lanjutan: Powershell"
+	Font Jepang juga dapat diinstal menggunakan **Windows Powershell (Administrator)**:
 	```powershell
 	Get-WindowsCapability -Online -Name Language.Fonts.Jpan~~~und-JPAN* | Add-WindowsCapability -Online
 	```  
-	This does not require a restart.
-??? question "Also have Chinese supplemental fonts already installed?"
-	You will need to set your locale to Japanese (Japan).
-	!!! abstract "Setting Japanese locale"
-		1. Open the Run dialog box by pressing ++windows+r++
-		2. Type `intl.cpl` and press ++enter++
-		3. Click on the *Administrative* tab, go to *Change system locale...* and select **Japanese (Japan)** and click OK.
-		
-Now if you're using a Chromium based browser (e.g. Google Chrome, Brave), click the Menu :material-dots-vertical: > **Settings** > click on **Appearance** on the left > **Customize fonts**. Here's where you'll need to set your fonts.  
+	Ini tidak memerlukan restart.
+??? pertanyaan "Apakah Anda juga sudah menginstal font tambahan Cina?"
+	Anda perlu mengatur lokal Anda ke Jepang (Jepang).
+	!!! abstrak "Mengatur lokal Jepang"
+		1. Buka dialog Run dengan menekan ++windows+r++
+		2. Ketik `intl.cpl` dan tekan ++enter++
+		3. Klik pada tab *Administratif*, pergi ke *Ubah lokal sistem...* dan pilih **Jepang (Jepang)** dan klik OK.
 
-Standard font: Meiryo UI  
-Serif font: Yu Mincho  
-Sans-serif font: Meiryo	  
-Monospace: MS Gothic   
+Sekarang jika Anda menggunakan browser berbasis Chromium (misalnya Google Chrome, Brave), klik Menu :material-dots-vertical: > **Pengaturan** > klik pada **Tampilan** di sebelah kiri > **Sesuaikan font**. Di sinilah Anda perlu mengatur font Anda.
 
-If you're using Firefox it is already pre-configured. 
+Font standar: Meiryo UI  
+Font serif: Yu Mincho  
+Font sans-serif: Meiryo  
+Monospace: MS Gothic  
+
+Jika Anda menggunakan Firefox, itu sudah dikonfigurasi sebelumnya.
 
 ## macOS
 
-You just need to add Japanese as a preferred language in System Preferences.  
- > System Preferences, then click Language & Region. Click General, then Add a language and choose Japanese 日本語  
+Anda hanya perlu menambahkan Jepang sebagai bahasa yang diutamakan di Preferensi Sistem.  
+ > Preferensi Sistem, lalu klik Bahasa & Wilayah. Klik Umum, lalu Tambah bahasa dan pilih Jepang 日本語
 
 ## Linux
 
-You should have `ja_JP.UTF-8` as one of your locales. If not, uncomment the line `#ja_JP.UTF-8 UTF-8` in `/etc/locale.gen` and run:
+Anda harus memiliki `ja_JP.UTF-8` sebagai salah satu lokal Anda. Jika tidak, hapus komentar pada baris `#ja_JP.UTF-8 UTF-8` di `/etc/locale.gen` dan jalankan:
 
 ```bash
 sudo locale-gen
 ```
 
-Now install the [noto-fonts-cjk](https://archlinux.org/packages/extra/any/noto-fonts-cjk/) package. It is available on the official Arch repositories and it's known to set up the necessary fontconfig rules when installed in Arch.  
+Sekarang instal paket [noto-fonts-cjk](https://archlinux.org/packages/extra/any/noto-fonts-cjk/) . Ini tersedia di repositori resmi Arch dan dikenal untuk mengatur aturan fontconfig yang diperlukan saat diinstal di Arch.
 
-If _**any**_ part of that does not apply to you (p.e. different distro, different font, different method of installation), fontconfig may or may not have been set up properly.  
-If you don't know how to check that, simply create a new file with the necessary fontconfig rules in the `~/.config/fontconfig/conf.d` directory (create the directory if it doesn't exist) for Japanese text. You can use [this](https://wiki.archlinux.org/title/Font_configuration/Examples#Japanese) section of the Arch Wiki or [this](https://github.com/tatsumoto-ren/dotfiles/blob/main/.config/fontconfig/conf.d/99-japanese-fonts.conf) excellent example config file by tatsumoto-ren as references.  
+Jika _**bagian mana pun**_ dari itu tidak berlaku untuk Anda (misalnya distro yang berbeda, font yang berbeda, metode instalasi yang berbeda), fontconfig mungkin atau mungkin tidak telah diatur dengan benar.  
+Jika Anda tidak tahu cara memeriksa itu, cukup buat file baru dengan aturan fontconfig yang diperlukan di direktori `~/.config/fontconfig/conf.d` (buat direktori jika tidak ada) untuk teks Jepang. Anda dapat menggunakan [ini](https://wiki.archlinux.org/title/Font_configuration/Examples#Japanese) bagian dari Wiki Arch atau [ini](https://github.com/tatsumoto-ren/dotfiles/blob/main/.config/fontconfig/conf.d/99-japanese-fonts.conf) contoh file konfigurasi yang sangat baik oleh tatsumoto-ren sebagai referensi.
 
-#### Caveats
+#### Catatan
 
-#### Browsers
+#### Browser
 
-##### Chromium-based
+##### Berbasis Chromium
 
-Chinese fonts can still persist even with the right setup in place (no idea why), so you may need to force it by doing the following:
- 
-:material-dots-vertical: > **Settings** > click on **Appearance** on the left > **Customize fonts**
+Font Cina masih bisa muncul bahkan dengan pengaturan yang benar (tidak tahu mengapa), jadi Anda mungkin perlu memaksanya dengan melakukan hal berikut:
 
-Standard font: Noto Sans CJK JP Regular  
-Serif font: Noto Serif CJK JP Regular  
-Sans-serif font: Noto Sans CJK JP Regular  
+:material-dots-vertical: > **Pengaturan** > klik pada **Tampilan** di sebelah kiri > **Sesuaikan font**
+
+Font standar: Noto Sans CJK JP Regular  
+Font serif: Noto Serif CJK JP Regular  
+Font sans-serif: Noto Sans CJK JP Regular  
 
 ##### Firefox
 
-Unless Firefox has Japanese set as one of its languages or the webpage (or one of its sections) explicitly claims to be in Japanese (`lang="ja"`), it tends to fallback to Chinese characters. This is because Chinese fonts tend to have a more complete character coverage.  
-To counteract this, do the following:
+Kecuali Firefox telah mengatur Jepang sebagai salah satu bahasanya atau halaman web (atau salah satu bagiannya) secara eksplisit mengklaim berada dalam bahasa Jepang (`lang="ja"`), ia cenderung kembali ke karakter Cina.  
+Untuk mengatasi ini, lakukan hal berikut:
 
-1. Open a new tab to `about:config`
-2. Click through the warning page (if it appears)
-3. Search for `font.cjk_pref_fallback_order`
-4. Move `ja` to the front of the entire value
+1. Buka tab baru ke `about:config`
+2. Klik melalui halaman peringatan (jika muncul)
+3. Cari `font.cjk_pref_fallback_order`
+4. Pindahkan `ja` ke depan seluruh nilai
 
-!!! warning "The commas are important"  
-	They are there to separate the language values in that sentence, take care not to carelessly remove one.
+!!! peringatan "Koma itu penting"  
+	Mereka ada untuk memisahkan nilai bahasa dalam kalimat itu, hati-hati jangan sampai menghapusnya secara sembarangan.
 
-Before:
-![Firefox settings 1](img/font10.png)
+Sebelum:
+![Pengaturan Firefox 1](img/font10.png)
 
-After:
-![Firefox settings 2](img/font11.png)
+Setelah:
+![Pengaturan Firefox 2](img/font11.png)
 
 ## Android
 
-Just add Japanese (it looks like this: 日本語) as a secondary language, it won't change your display language unless you move it to the top.  
+Cukup tambahkan Jepang (ini terlihat seperti: 日本語) sebagai bahasa sekunder, itu tidak akan mengubah bahasa tampilan Anda kecuali Anda memindahkannya ke atas.
 
-![Android settings](img/font9.jpg)
+![Pengaturan Android](img/font9.jpg)
 
 ## iOS
 
-Adding the Japanese keyboard (kana or romaji whatever works) should do the trick.  
+Menambahkan keyboard Jepang (kana atau romaji apapun yang berfungsi) seharusnya sudah cukup.
 
 ## Anki
 
-I think Chinese fonts on Anki cards looks the worst because kana will be sans-serif and kanji will be serif AND out of proportion AND Chinese so it looks all out of place.
+Saya rasa font Cina di kartu Anki terlihat paling buruk karena kana akan sans-serif dan kanji akan serif DAN tidak proporsional DAN Cina sehingga terlihat sangat tidak sesuai.
 
 <figure>
   <img src="/img/font4.png" width="900" />
-  <figcaption>Oh god. Unironically a lot of people's cards look like this.</figcaption>
+  <figcaption>Oh tidak. Secara ironis banyak kartu orang terlihat seperti ini.</figcaption>
 </figure>
 
+Setelah Anda menginstal font Jepang di sistem Anda, itu *seharusnya* secara otomatis menggunakan font Jepang. Jika tidak, Anda perlu memaksanya.
 
-After you have installed Japanese fonts on your system it *should* automatically use Japanese fonts. If not, you will need to force it.  
+### Memaksa font Jepang di Anki
 
-### Forcing Japanese font in Anki   
+IPAex Gothic adalah font sans-serif Jepang yang baik yang saya rekomendasikan untuk Anki. Anda dapat mengunduhnya [di sini](https://moji.or.jp/wp-content/ipafont/IPAexfont/ipaexg00401.zip)
 
-IPAex Gothic is a good sans-serif Japanese font I recommend for Anki. You can download it [here](https://moji.or.jp/wp-content/ipafont/IPAexfont/ipaexg00401.zip)  
+Instal font ke sistem Anda dan reboot.
 
-Install the font onto your system and reboot.  
+Windows: Klik dua kali dan klik Instal  
+macOS: Seret font ke Font Book  
+Linux: Pindahkan file ke `~/.local/share/fonts/` dan kemudian jalankan `fc-cache -f -v`
 
-Windows: Double click and click Install  
-macOS: Drag the font into the Font Book  
-Linux: Move the file to `~/.local/share/fonts/` and then run `fc-cache -f -v`  
-
-Now in Anki click "Add" then click on "Cards" and then "Styling" and modify your font family accordingly.  
+Sekarang di Anki klik "Tambah" lalu klik "Kartu" dan kemudian "Gaya" dan modifikasi keluarga font Anda sesuai.
 
 ```css
 .card {
- font-family: IPAexGothic; /* here is where you set font */
+ font-family: IPAexGothic; /* di sini adalah tempat Anda mengatur font */
 }
 ```
 
-You can also change the font by putting the font into the Anki collection.media directory.  
+Anda juga dapat mengubah font dengan menempatkan font ke direktori collection.media Anki.
 
 Windows: `C:\Users\<user>\AppData\Roaming\Anki2\(profile)\collection.media`  
 macOS: ` ~/Library/Application Support/Anki2/(profile)/collection.media`  
 Linux: `~/.local/share/Anki2/(profile)/collection.media`  
-Android: `/storage/emulated/0/AnkiDroid/collection.media`  
+Android: `/storage/emulated/0/AnkiDroid/collection.media`
 
-Now in Anki click "Add" then click on "Cards" and then "Styling" and modify your font family accordingly.  
+Sekarang di Anki klik "Tambah" lalu klik "Kartu" dan kemudian "Gaya" dan modifikasi keluarga font Anda sesuai.
 
-!!! warning "Don't copy exactly!"
-	Just add what you don't already have. 
+!!! peringatan "Jangan salin persis!"  
+	Cukup tambahkan apa yang belum Anda miliki.
 
 ```css
 .card {
- font-family: CustomFont; /* here is where you set font */
+ font-family: CustomFont; /* di sini adalah tempat Anda mengatur font */
 
  @font-face { 
- 	font-family: CustomFont; src: url('ipaexg.ttf'); } /* here is where you define the font */
+ 	font-family: CustomFont; src: url('ipaexg.ttf'); } /* di sini adalah tempat Anda mendefinisikan font */
 
 }  
 ```
 
-Preview:
+Pratonton:
 
 <figure>
   <img src="/img/font5.png" width="900" />
-  <figcaption>With a full Japanese definition.</figcaption>
+  <figcaption>Dengan definisi Jepang penuh.</figcaption>
 </figure>
 
 <figure>
   <img src="/img/font6.png" width="900" />
-  <figcaption>With a bilingual definition.</figcaption>
+  <figcaption>Dengan definisi bilingual.</figcaption>
 </figure>
 
-Now also change your font for the Anki *editor*. Click on "Add" then "Fields" and change the Editing font of each field to any one of these (or any other font you know is a Japanese font)
+Sekarang juga ubah font Anda untuk *editor* Anki. Klik "Tambah" lalu "Bidang" dan ubah font Pengeditan setiap bidang ke salah satu dari ini (atau font lain yang Anda tahu adalah font Jepang)
 
 IPAexGothic  
 Meiryo  
@@ -181,11 +179,11 @@ Yu Gothic
 Hiragino Kaku Gothic Pro  
 Noto Sans CJK JP Regular  
 
-## Yomichan 
+## Yomichan
 
-Yomichan's font should change according to your browser's font, but you can force Japanese font if not.   
+Font Yomichan seharusnya berubah sesuai dengan font browser Anda, tetapi Anda dapat memaksa font Jepang jika tidak.
 
-Using Popup CSS...
+Menggunakan CSS Popup...
 
 ```css
 .kanji-link {
@@ -203,12 +201,9 @@ Using Popup CSS...
 .tag-label-content {
    font-family: IPAexGothic;
 }
-```  
-
+```
 
 <figure>
   <img src="/img/font7.png" width="900" />
-  <figcaption>Japanese to Japanese defintion with IPAexゴシック font.</figcaption>
+  <figcaption>Definisi Jepang ke Jepang dengan font IPAexゴシック.</figcaption>
 </figure>
-
-
