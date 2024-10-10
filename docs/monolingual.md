@@ -1,122 +1,122 @@
-# Monolingual Guide  
+# Panduan Monolingual  
 
-!!! info "Intermediate Learners"
-	This is a guide targeted at "intermediate" learners.
+!!! info "Pembelajar Menengah"
+	Panduan ini ditujukan untuk pembelajar "menengah".
 
-This guide will go through what the monolingual transition is and why you should do it, different mediums to access monolingual dictionaries and also ways to approach getting used to monolingual dictionaries. 
-This guide is **long.** But it is still simple, it’s just the initial setup that just feels long.
+Panduan ini akan membahas apa itu transisi monolingual dan mengapa Anda harus melakukannya, berbagai media untuk mengakses kamus monolingual, serta cara mendekati penggunaan kamus monolingual. 
+Panduan ini cukup **panjang.** Namun tetap sederhana, hanya saja pengaturan awal yang terasa panjang.
 
-### What is the monolingual transition
+### Apa itu transisi monolingual
 
-The monolingual transition is when you “transition" into getting used to a monolingual dictionary, often with the help of a bilingual dictionary as an aid. A monolingual dictionary is a dictionary that defines words of the language in that language. For example, the Oxford Dictionary is a monolingual English dictionary. The Kōjien (広辞苑) is a monolingual Japanese dictionary.
-Sites such as Jisho.org use the Japanese-English *bilingual* dictionary known as “JMdict (English)”. Jisho.org is not its own dictionary, it is only a portal that accesses JMdict. So keep that in mind.
+Transisi monolingual adalah ketika Anda “bertransisi" untuk terbiasa dengan kamus monolingual, sering kali dengan bantuan kamus bilingual sebagai alat bantu. Kamus monolingual adalah kamus yang mendefinisikan kata-kata dalam bahasa tersebut dengan bahasa itu sendiri. Misalnya, Oxford Dictionary adalah kamus monolingual bahasa Inggris. Kōjien (広辞苑) adalah kamus monolingual bahasa Jepang.
+Situs seperti Jisho.org menggunakan kamus bilingual Jepang-Inggris yang dikenal sebagai “JMdict (English)”. Jisho.org bukan kamus itu sendiri, hanya portal yang mengakses JMdict. Jadi ingatlah itu.
 
-### Why you should use a monolingual dictionary
-Monolingual dictionaries help you avoid making false associations with words from your native language (probably English) to Japanese. You may think, oh, what if I’m not even English? If you don’t use a monolingual dictionary, then you will make false associations anyway, no matter what your native language is. What if I’m German and I use the Wadoku (Japanese-German bilingual dictionary)? Same thing. You will still have this problem. There is no language that can express Japanese better than Japanese itself.
+### Mengapa Anda harus menggunakan kamus monolingual
+Kamus monolingual membantu Anda menghindari membuat asosiasi yang salah dengan kata-kata dari bahasa ibu Anda (mungkin bahasa Inggris) ke bahasa Jepang. Anda mungkin berpikir, oh, bagaimana jika saya bukan orang Inggris? Jika Anda tidak menggunakan kamus monolingual, maka Anda akan membuat asosiasi yang salah juga, tidak peduli apa bahasa ibu Anda. Bagaimana jika saya orang Jerman dan saya menggunakan Wadoku (kamus bilingual Jepang-Jerman)? Hal yang sama. Anda akan tetap memiliki masalah ini. Tidak ada bahasa yang dapat mengekspresikan bahasa Jepang lebih baik daripada bahasa Jepang itu sendiri.
 
-### What exactly do you mean by “false associations”?
-Bilingual definitions, 90% of the time are very vague, and do not capture the true feeling of the word. You may not think so, but I’ve been using monolingual dictionaries for a long time now and I can confirm bilingual definitions (especially those from the JMdict) do not capture the true feel of the word.
-Here’s an example: 
+### Apa yang Anda maksud dengan “asosiasi yang salah”?
+Definisi bilingual, 90% dari waktu, sangat samar, dan tidak menangkap perasaan sebenarnya dari kata tersebut. Anda mungkin tidak berpikir demikian, tetapi saya telah menggunakan kamus monolingual selama bertahun-tahun dan saya dapat mengonfirmasi bahwa definisi bilingual (terutama yang berasal dari JMdict) tidak menangkap perasaan sebenarnya dari kata tersebut.
+Berikut adalah contohnya: 
 > 悔しい [くやしい]  
 
-If you have been learning Japanese for a few months, you would know this word. And chances are you learned it using a bilingual dictionary. Let’s look at the bilingual definition.
+Jika Anda telah belajar bahasa Jepang selama beberapa bulan, Anda pasti tahu kata ini. Dan kemungkinan besar Anda mempelajarinya menggunakan kamus bilingual. Mari kita lihat definisi bilingualnya.
 
 > vexing; annoying  
 
-You may think, “what’s wrong with it?” I’ll tell you what’s wrong with it. It’s so vague to the point that it is literally wrong. Now let’s look at the monolingual definition.
+Anda mungkin berpikir, “apa yang salah dengan itu?” Saya akan memberi tahu Anda apa yang salah. Itu sangat samar sehingga secara harfiah salah. Sekarang mari kita lihat definisi monolingualnya.
 
-*Taken from the Hybrid Shinjirin (ハイブリッド新辞林)*
+*Diambil dari Hybrid Shinjirin (ハイブリッド新辞林)*
 
 > 失敗や恥辱を経験して，あきらめたり忘れたりできないさま。
 
-My translation of the definition:
+Terjemahan saya dari definisi tersebut:
 
-> Go through failure and dishonour and not being able to give up nor forget (about it).
+> Mengalami kegagalan dan kehormatan yang hilang dan tidak bisa menyerah atau melupakan (tentang itu).
 
-*And this gets less accurate when you put it into English.*
+*Dan ini menjadi kurang akurat ketika Anda menerjemahkannya ke dalam bahasa Inggris.*
 
-Did you get that from “vexing, annoying”? No. Probably not.
+Apakah Anda mendapatkan itu dari “vexing, annoying”? Tidak. Mungkin tidak.
 
-Not convinced? Let’s go through another example.
+Tidak yakin? Mari kita lihat contoh lain.
 > 悪い [わるい]
 
-Let me ask you one thing. What do you think this word means? If you answered, “bad”. Then you’re only half wrong. This word is not equal to the English word “bad”.
+Izinkan saya bertanya satu hal. Apa yang Anda pikirkan tentang arti kata ini? Jika Anda menjawab, “buruk”. Maka Anda hanya setengah salah. Kata ini tidak sama dengan kata bahasa Inggris “bad”.
 
-You can’t use 悪い to say that your skill at something is inferior/poor, like you can in English. You use a completely different word in Japanese, and that’s 下手 [へた]. See? And this is only scratching the surface of this problem.
+Anda tidak bisa menggunakan 悪い untuk mengatakan bahwa keterampilan Anda dalam sesuatu itu inferior/buruk, seperti yang bisa Anda lakukan dalam bahasa Inggris. Anda menggunakan kata yang sama sekali berbeda dalam bahasa Jepang, yaitu 下手 [へた]. Lihat? Dan ini hanya menggores permukaan masalah ini.
 
-The other reason why you should use monolingual definitions is because they help you think in Japanese. Like I said before, there is no language that can express Japanese as well as Japanese itself can. Dictionary definitions are a way of thinking about words. I’m sure dictionary authors (who are native speakers) put thought into each of their definitions when they wrote their definition, so by reading the definition and memorising it, you will have something *at least close* to what a native speaker may think of the word. If you learn words using a Japanese-English bilingual dictionary (such as JMdict) then you will have a GAIJIN way of thinking about things, and not even close to what a native may think about the word. This will set you back in getting a true understanding of the word. Don’t get me wrong, you can still get a true understanding with immersion, it just takes a lot longer than if you learned those words monolingually.
+Alasan lain mengapa Anda harus menggunakan definisi monolingual adalah karena mereka membantu Anda berpikir dalam bahasa Jepang. Seperti yang saya katakan sebelumnya, tidak ada bahasa yang dapat mengekspresikan bahasa Jepang sebaik bahasa Jepang itu sendiri. Definisi kamus adalah cara berpikir tentang kata-kata. Saya yakin penulis kamus (yang merupakan penutur asli) memikirkan setiap definisi mereka ketika mereka menulis definisi tersebut, jadi dengan membaca definisi dan menghafalnya, Anda akan memiliki sesuatu yang *setidaknya mendekati* apa yang mungkin dipikirkan oleh penutur asli tentang kata tersebut. Jika Anda mempelajari kata-kata menggunakan kamus bilingual Jepang-Inggris (seperti JMdict) maka Anda akan memiliki cara berpikir GAIJIN tentang hal-hal, dan tidak mendekati apa yang mungkin dipikirkan oleh penutur asli tentang kata tersebut. Ini akan menghambat Anda dalam mendapatkan pemahaman yang sebenarnya tentang kata tersebut. Jangan salah paham, Anda masih bisa mendapatkan pemahaman yang sebenarnya dengan imersi, hanya saja itu memakan waktu lebih lama daripada jika Anda mempelajari kata-kata tersebut secara monolingual.
 
-Monolingual dictionaries are very powerful, and you will only realise this once they become second nature to you.
+Kamus monolingual sangat kuat, dan Anda hanya akan menyadari hal ini setelah mereka menjadi hal yang kedua bagi Anda.
 
-### Why people find it hard to go monolingual.
-Two reasons:  
+### Mengapa orang merasa sulit untuk beralih ke monolingual.
+Dua alasan:  
 
-- They don’t know the words.  
-- Are not used to the written Japanese.
+- Mereka tidak tahu kata-katanya.  
+- Tidak terbiasa dengan tulisan bahasa Jepang.
 
-### Monolingual transition myths
+### Mitos transisi monolingual
 
-- A profound belief that "dictionary vocabulary" exist. 
+- Keyakinan mendalam bahwa "kosakata kamus" ada. 
   
-**The truth:** “Dictionary vocabulary” = words you don’t know because you don’t read enough.
+**Kebenarannya:** “Kosakata kamus” = kata-kata yang tidak Anda ketahui karena Anda tidak membaca cukup.
 
-### Using Morphman to assist the monolingual transition
-No.
+### Menggunakan Morphman untuk membantu transisi monolingual
+Tidak.
 
-Morphman is an Anki addon (?) which automatically decides what words to add to Anki for you. And for that reason it is a failure. Don’t leave it up to a silly computer program to help you decide what to add to Anki. Also most of what Morphman decides what to add for you is like “フゥ...”, “(♪～)”, “あっ...” so unless you’re into that I advise you to avoid using Morphman.  
-If you want guidelines on what to mine, then just mine every single word after you have read/watched it. The idea here is, when you are looking up stuff, it is inevitable you are going to remember some things but forget others, so when you go back and read/watch it again, you mine all the words you failed to remember the first time. You may think, “I probably don’t need those words though”. Wrong. Yes you do. You need every word that comes up in your immersion.
+Morphman adalah addon Anki (?) yang secara otomatis memutuskan kata-kata mana yang harus ditambahkan ke Anki untuk Anda. Dan untuk alasan itu, ini adalah kegagalan. Jangan serahkan kepada program komputer yang bodoh untuk membantu Anda memutuskan apa yang harus ditambahkan ke Anki. Juga sebagian besar dari apa yang diputuskan Morphman untuk ditambahkan untuk Anda adalah seperti “フゥ...”, “(♪～)”, “あっ...” jadi kecuali Anda menyukainya, saya sarankan Anda menghindari menggunakan Morphman.  
+Jika Anda ingin pedoman tentang apa yang harus ditambang, maka tambanglah setiap kata setelah Anda membacanya/menontonnya. Ide di sini adalah, ketika Anda mencari informasi, tidak dapat dihindari bahwa Anda akan mengingat beberapa hal tetapi melupakan yang lain, jadi ketika Anda kembali dan membacanya/menontonnya lagi, Anda menambang semua kata yang gagal Anda ingat pada percobaan pertama. Anda mungkin berpikir, “Saya mungkin tidak perlu kata-kata itu.” Salah. Ya, Anda perlu. Anda membutuhkan setiap kata yang muncul dalam imersi Anda.
 
-## Yomichan - the better way to go monolingual.  
+## Yomichan - cara yang lebih baik untuk beralih ke monolingual.  
 
-**I recommend doing the monolingual transition with Yomichan.**  
+**Saya merekomendasikan melakukan transisi monolingual dengan Yomichan.**  
 
 ![Image](img/monodemo1.png)
 
-Yomichan is a browser extension that allows you to look up Japanese words on a webpage by holding ++shift++ and hovering over it. It is supported by any Chromium or Firefox based browser. You can find out how to set up Yomichan [here](/yomichan)  
+Yomichan adalah ekstensi browser yang memungkinkan Anda mencari kata-kata Jepang di halaman web dengan menahan ++shift++ dan mengarahkan kursor ke atasnya. Ini didukung oleh browser berbasis Chromium atau Firefox mana pun. Anda dapat menemukan cara mengatur Yomichan [di sini](/yomichan)  
 
-### Optimizing Yomichan Settings 
+### Mengoptimalkan Pengaturan Yomichan 
 
-First you need to ensure that Advanced options is enabled.  
+Pertama, Anda perlu memastikan bahwa opsi Lanjutan diaktifkan.  
 ![Image](img/mono1.jpg)
 
-Second, we want to remove any and all scan delays because we will be making heavy use of this extension and wouldn't want to be slowed down by anything.  
+Kedua, kita ingin menghapus semua penundaan pemindaian karena kita akan banyak menggunakan ekstensi ini dan tidak ingin terhambat oleh apa pun.  
 
 ![Image](img/mono2.jpg)
 
-Now we will enable scanning within pop-ups, this is very important, as we want to be able to look up any words we don't know within a **definiton.**  
+Sekarang kita akan mengaktifkan pemindaian dalam pop-up, ini sangat penting, karena kita ingin dapat mencari kata-kata yang tidak kita ketahui dalam **definisi.**  
 ![Image](img/mono3.jpg)  
 
-You may want to increase the size of your Yomichan pop up window because by default it is pretty small and will become a hindrance when using monolingual dictionaries. To make enough headroom to use Yomichan dictionaries comfortably we are going to edit the following settings.  
+Anda mungkin ingin meningkatkan ukuran jendela pop-up Yomichan Anda karena secara default cukup kecil dan akan menjadi penghalang saat menggunakan kamus monolingual. Untuk memberikan cukup ruang untuk menggunakan kamus Yomichan dengan nyaman, kita akan mengedit pengaturan berikut.  
 
 ![Image](img/mono4.jpg)  
 
-Here's how our pop up looks now:  
+Inilah bagaimana tampilan pop-up kita sekarang:  
 ![Image](img/mono5.jpg) 
 
-Next, if you want, you don't need to but I recommend it, enable automatic audio playback, so we know how to pronounce a word correctly the moment we look it up. Also add the extra audio source because surprisingly it adds extra audio!  
+Selanjutnya, jika Anda mau, Anda tidak perlu melakukannya tetapi saya merekomendasikannya, aktifkan pemutaran audio otomatis, sehingga kita tahu bagaimana mengucapkan kata dengan benar saat kita mencarinya. Juga tambahkan sumber audio tambahan karena mengejutkan menambah audio ekstra!  
 
-You can also add the Forvo audio source in Yomichan. See [Yomichan Setup Tutorial](/yomichan) for more info.  
+Anda juga dapat menambahkan sumber audio Forvo di Yomichan. Lihat [Tutorial Pengaturan Yomichan](/yomichan) untuk informasi lebih lanjut.  
 
 ![Image](img/mono6.jpg)  
 
-**Update December 2021:** You should also add a text replacement rule for words with kanji repetition marks, they usually do not appear in monolingual dictionaries unless you repeat the kanji itself. Example:　囂々 won't appear in most monolingual dictionaries but 囂囂 will.
-Go to Settings -> Translation -> Custom Text Replacement Patterns and add the following rule:  
-Pattern: `(.)々`   
-Replacement: `$1$1`    
+**Pembaruan Desember 2021:** Anda juga harus menambahkan aturan penggantian teks untuk kata-kata dengan tanda pengulangan kanji, biasanya tidak muncul dalam kamus monolingual kecuali Anda mengulangi kanji itu sendiri. Contoh:　囂々 tidak akan muncul di sebagian besar kamus monolingual tetapi 囂囂 akan.
+Pergi ke Pengaturan -> Terjemahan -> Pola Penggantian Teks Kustom dan tambahkan aturan berikut:  
+Pola: `(.)々`   
+Penggantian: `$1$1`    
 
-I will touch on dictionaries in the next section.  
+Saya akan membahas kamus di bagian berikutnya.  
 
-### Getting and using monolingual dictionaries
+### Mendapatkan dan menggunakan kamus monolingual
 
-Again, I recommend you use monolingual dictionaries with Yomichan. I will talk about alternatives later.
+Sekali lagi, saya merekomendasikan Anda menggunakan kamus monolingual dengan Yomichan. Saya akan membahas alternatifnya nanti.
 
-You can find my dictionaries collection here: [shoui Yomichan Dictionaries Collection](https://learnjapanese.link/dictionaries)  
+Anda dapat menemukan koleksi kamus saya di sini: [Koleksi Kamus Yomichan shoui](https://learnjapanese.link/dictionaries)  
  
-Before we continue, have a read on recommended dictionaries and what they are exactly. 
+Sebelum kita melanjutkan, bacalah tentang kamus yang direkomendasikan dan apa itu sebenarnya. 
 
-### Recommended Dictionaries
+### Kamus yang Direkomendasikan
 
-#### Here’s what I recommend for first time monolingual users:
+#### Berikut adalah yang saya rekomendasikan untuk pengguna monolingual pemula:
 
 旺文社国語辞典 第十一版  
 明鏡国語辞典  
@@ -127,7 +127,7 @@ JMdict (English)
 研究社 新和英大辞典 第５版  
 デジタル大辞泉             
 
-#### My personal order, for 100% monolingual coverage:  
+#### Urutan pribadi saya, untuk cakupan monolingual 100%:  
 
 実用日本語表現辞典  
 大辞林 第三版  
@@ -146,183 +146,180 @@ JMdict (English)
 学研 四字熟語辞典  
 漢字遣い参考  
   
-### Every Dictionary Explained.
+### Setiap Kamus Dijelaskan.
 
-**広辞苑 第六版** - 6th edition of Koujien, 2008. It is quite an authoritative dictionary in Japan, however it is not the most popular. This dictionary sorts its definitions from oldest to newest, which is not useful to learners of modern Japanese. Nevertheless, this dictionary has its own charm that I like.  
+**広辞苑 第六版** - Edisi ke-6 Koujien, 2008. Ini adalah kamus yang cukup otoritatif di Jepang, namun tidak paling populer. Kamus ini mengurutkan definisinya dari yang tertua hingga yang terbaru, yang tidak berguna bagi pembelajar bahasa Jepang modern. Namun, kamus ini memiliki pesonanya sendiri yang saya suka.  
 
-**大辞林 第三版** - an extension of the 3rd edition of the Daijirin, 2015. It has a wide assortment of words, expressions, proper nouns, grammar and connectives (actually more important than you think!). It is a a great all-rounder and personally my most used dictionary.  
+**大辞林 第三版** - perpanjangan dari edisi ke-3 Daijirin, 2015. Ini memiliki berbagai macam kata, ungkapan, nama diri, tata bahasa, dan penghubung (sebenarnya lebih penting dari yang Anda pikirkan!). Ini adalah kamus serba bisa yang hebat dan pribadi saya yang paling sering digunakan.  
 
-**デジタル大辞泉** - Digital Daijisen, May 2021. The QUEEN of online dictionaries. This is the dictionary hosted on the [Goo Dictionary](https://dictionary.goo.ne.jp), it has a lot of new words, expressions, images and kanji entries. The previous issue where the headword was missing has been fixed. Currently images won't work for Anki cards. (See [Yomichan Issue #1741](https://github.com/FooSoft/yomichan/issues/1741))  
+**デジタル大辞泉** - Digital Daijisen, Mei 2021. Ratu kamus online. Ini adalah kamus yang dihosting di [Kamus Goo](https://dictionary.goo.ne.jp), memiliki banyak kata baru, ungkapan, gambar, dan entri kanji. Masalah sebelumnya di mana kata kunci hilang telah diperbaiki. Saat ini gambar tidak akan berfungsi untuk kartu Anki. (Lihat [Masalah Yomichan #1741](https://github.com/FooSoft/yomichan/issues/1741))  
 
-**旺文社国語辞典 第十一版** - Oubunsha Kokugo Dictionary 11th Editon. Short name: Oukoku (旺国) is a monolingual dictionary published by Oubunsha in 2013. This dictionary's main selling point is how precise and easy to understand it is. And rightfully so; comparitively this dictionary has the most easiest to understand definitions. It explains the difference between kanji usages, 逢う, 会う etc. and is also really nice for grammar definitions. It is my #1 recommendation for people new to monolingual dictionaries. This version has images. But currently images won't work for Anki cards. (See [Yomichan Issue #1741](https://github.com/FooSoft/yomichan/issues/1741])  
+**旺文社国語辞典 第十一版** - Kamus Kokugo Oubunsha Edisi ke-11. Nama pendek: Oukoku (旺国) adalah kamus monolingual yang diterbitkan oleh Oubunsha pada tahun 2013. Poin penjualan utama dari kamus ini adalah seberapa tepat dan mudah dipahami. Dan memang demikian; dibandingkan, kamus ini memiliki definisi yang paling mudah dipahami. Ini menjelaskan perbedaan penggunaan kanji, 逢う, 会う, dll. dan juga sangat baik untuk definisi tata bahasa. Ini adalah rekomendasi #1 saya untuk orang baru di kamus monolingual. Versi ini memiliki gambar. Namun saat ini gambar tidak akan berfungsi untuk kartu Anki. (Lihat [Masalah Yomichan #1741](https://github.com/FooSoft/yomichan/issues/1741])  
 
-**旺文社国語辞典 第十一版 画像無し** - No-image version of the above.
+**旺文社国語辞典 第十一版 画像無し** - Versi tanpa gambar dari yang di atas.
 
-**ハイブリッド新辞林** - Hybrid Shinjirin, 1998. This is based on the second edition of the Daijirin, but simplified. (actually was based on the 辞林21, which was also based on the Daijirin 2nd edition). It explains the difference between different kanji usages which is nice. My #3 recommendation for beginners. 
+**ハイブリッド新辞林** - Hybrid Shinjirin, 1998. Ini didasarkan pada edisi kedua Daijirin, tetapi disederhanakan. (sebenarnya didasarkan pada 辞林21, yang juga didasarkan pada edisi kedua Daijirin). Ini menjelaskan perbedaan antara penggunaan kanji yang berbeda yang sangat baik. Rekomendasi #3 saya untuk pemula. 
 
-**精選版 日本国語大辞典** - Seisenban Nihonkokugodaijiten, 2016(?). Short name: Nikkoku (日国) is the biggest Japanese monolingual dictionary ever published, the physical version has multiple fascicles. This dictionary is the great for how much 漢語 it has, expressions, proper nouns, and specializes in classical Japanese. The example sentences look quite archaic because they are, they show the first known use of the word. This is the dictionary found on [Kotobank](https://kotobank.jp) . Not recommended at all for beginners but you'll love this when you're advanced.  
+**精選版 日本国語大辞典** - Seisenban Nihonkokugodaijiten, 2016(?). Nama pendek: Nikkoku (日国) adalah kamus monolingual Jepang terbesar yang pernah diterbitkan, versi fisiknya memiliki beberapa fasikula. Kamus ini sangat baik untuk seberapa banyak 漢語 yang dimilikinya, ungkapan, nama diri, dan mengkhususkan diri dalam bahasa Jepang klasik. Kalimat contoh terlihat cukup kuno karena memang demikian, mereka menunjukkan penggunaan pertama yang diketahui dari kata tersebut. Ini adalah kamus yang ditemukan di [Kotobank](https://kotobank.jp). Tidak direkomendasikan sama sekali untuk pemula tetapi Anda akan menyukainya ketika Anda sudah mahir.  
 
-**明鏡国語辞典** - Meikyou Kokugo Dictionary is a Japanese monolingual dictionary published in 2002 and this is the first edition. What I like about the Meikyou is how it is easier to understand than dictionaries like the Daijirin and Daijsen, and also talks about the difference between kanji usage etc. 撃つ 打つ. It is also really nice for basic grammar definitions. This is my #2 recommendation for people new to monolingual dictionaries.   
+**明鏡国語辞典** - Kamus Kokugo Meikyou adalah kamus monolingual Jepang yang diterbitkan pada tahun 2002 dan ini adalah edisi pertama. Apa yang saya suka tentang Meikyou adalah bagaimana ia lebih mudah dipahami daripada kamus seperti Daijirin dan Daijsen, dan juga membahas perbedaan penggunaan kanji, dll. 撃つ 打つ. Ini juga sangat baik untuk definisi tata bahasa dasar. Ini adalah rekomendasi #2 saya untuk orang baru di kamus monolingual.   
 
-**岩波国語辞典** - Iwanami Kokugo Dictionary, 6th edition, 2000. I have not used this dictionary enough to know it's strong points but it has a similar feeling to the Meikyou.  
+**岩波国語辞典** - Kamus Kokugo Iwanami, edisi ke-6, 2000. Saya belum cukup menggunakan kamus ini untuk mengetahui keunggulannya tetapi memiliki perasaan yang mirip dengan Meikyou.  
 
-**新明解国語辞典 第五版** - Shinmeikai Kokugo Dictionary, 5th edition, 1999. This dictionary is widely known for it's unique style of defining words. It also uses simple-er language for definitions, but the explanations can get まわりくどい, and thus hard to understand for learners.  #4 recommendation for beginners.  
+**新明解国語辞典 第五版** - Kamus Kokugo Shinmeikai, edisi ke-5, 1999. Kamus ini dikenal luas karena gaya uniknya dalam mendefinisikan kata-kata. Ini juga menggunakan bahasa yang lebih sederhana untuk definisi, tetapi penjelasannya bisa menjadi まわりくどい, dan dengan demikian sulit dipahami bagi pembelajar. Rekomendasi #4 untuk pemula.  
 
-**新明解国語辞典 第七版** - Shinmeikai Kokugo Dictionary, 7th edition, 2017. Newer version of the above but can have troublesome formatting so I left the old version in the pack. This is the most popular dictionary in Japan. 
+**新明解国語辞典 第七版** - Kamus Kokugo Shinmeikai, edisi ke-7, 2017. Versi terbaru dari yang di atas tetapi dapat memiliki format yang bermasalah sehingga saya meninggalkan versi lama dalam paket. Ini adalah kamus yang paling populer di Jepang. 
 
-**実用日本語表現辞典** - Jitsuyou Nihongo Hyougen Jiten. This dictionary absolutely rocks! You need this! It will save your life! 
+**実用日本語表現辞典** - Kamus Jitsuyou Nihongo Hyougen. Kamus ini benar-benar luar biasa! Anda membutuhkannya! Ini akan menyelamatkan hidup Anda! 
 
-**新明解四字熟語辞典** - A yojijukugo dictionary from the Shinmeikai line of dictionaries.  
+**新明解四字熟語辞典** - Kamus yojijukugo dari lini kamus Shinmeikai.  
 
-**学研 四字熟語辞典** - A yojijukugo dictionary published by Gakken.  
+**学研 四字熟語辞典** - Kamus yojijukugo yang diterbitkan oleh Gakken.  
 
-**故事ことわざの辞典** - A proverbs/idioms dictionary.
+**故事ことわざの辞典** - Kamus peribahasa/idiom.
 
-**Weblio古語辞典** - A classical Japanese dictionary.  
+**Weblio古語辞典** - Kamus bahasa Jepang klasik.  
  
-### Continuation: Getting and using monolingual dictionaries  
+### Kelanjutan: Mendapatkan dan menggunakan kamus monolingual  
 
-Let's continue. 
-Import the set of dictionaries that best suits you in [Recommended Dictionaries](#recommended-dictionaries).  
+Mari kita lanjutkan. 
+Impor set kamus yang paling sesuai untuk Anda di [Kamus yang Direkomendasikan](#recommended-dictionaries).  
 
-※ You can change dictionary priority so you can match the order by editing the number next to the dictionary. Higher the number = higher up in list.
+※ Anda dapat mengubah prioritas kamus sehingga Anda dapat mencocokkan urutan dengan mengedit angka di samping kamus. Semakin tinggi angkanya = semakin tinggi dalam daftar.
 
 ![Image](img/mono8.jpg)  
 
-### Why do you say use a lot of dictionaries?
+### Mengapa Anda mengatakan menggunakan banyak kamus?
 
-You need to have a lot of dictionaries and have every one of them enabled because there will always be some words that are in some dictionaries and not in others. Take for example 禿同, that is only in 実用日本語表現辞典, and 夢海鼠, which is only in 日本国語大辞典. We want to use monolingual dictionaries as much as possible here. Another reason is that different dictionaries will describe a word in a different way, and in many cases you may not understand one dictionary's definition, but understand another.  
+Anda perlu memiliki banyak kamus dan mengaktifkan semuanya karena akan selalu ada beberapa kata yang ada di beberapa kamus dan tidak ada di yang lain. Ambil contoh 禿同, yang hanya ada di 実用日本語表現辞典, dan 夢海鼠, yang hanya ada di 日本国語大辞典. Kita ingin menggunakan kamus monolingual sebanyak mungkin di sini. Alasan lain adalah bahwa kamus yang berbeda akan mendeskripsikan kata dengan cara yang berbeda, dan dalam banyak kasus Anda mungkin tidak memahami definisi dari satu kamus, tetapi memahami dari yang lain.  
 
-!!! question "But you would have to do a lot of scrolling to get to the next word?" 
-	You should use the keyboard shortcut ++alt+down++  
+!!! question "Tapi Anda harus melakukan banyak scrolling untuk sampai ke kata berikutnya?" 
+	Anda harus menggunakan pintasan keyboard ++alt+down++  
 
-## Alternatives
+## Alternatif
 
-### Online Dictionaries
+### Kamus Daring
 
-[Sakura-Paris Kojien Free Search](https://sakura-paris.org/dict/)
+[Sakura-Paris Kojien Pencarian Gratis](https://sakura-paris.org/dict/)
 
-This site has **all** the major dictionaries, for free and online. You can’t view all the definitions at the same time though.  
+Situs ini memiliki **semua** kamus utama, gratis dan online. Namun, Anda tidak dapat melihat semua definisi sekaligus.  
 
-Weblio: <https://www.weblio.jp/> (Uses デジタル大辞泉, 実用日本語表現辞典)
+Weblio: <https://www.weblio.jp/> (Menggunakan デジタル大辞泉, 実用日本語表現辞典)
 
-Goo: <https://dictionary.goo.ne.jp/> (Uses デジタル大辞泉)
+Goo: <https://dictionary.goo.ne.jp/> (Menggunakan デジタル大辞泉)
 
-Kotobank: <https://kotobank.jp/> (Uses デジタル大辞泉 and 精選版 日本国語大辞典) 
+Kotobank: <https://kotobank.jp/> (Menggunakan デジタル大辞泉 dan 精選版 日本国語大辞典) 
 
-Google: search “[word] 意味” e.g. “侮る 意味” (Uses 岩波国語辞典)
+Google: cari “[kata] 意味” misalnya “侮る 意味” (Menggunakan 岩波国語辞典)
   
-### Offline Alternatives
+### Alternatif Offline
 
-You’re gonna be learning Japanese for a long time, so it is possible that your internet may go out when you’re tryna nihongo grind! So you’re basically screwed right? Nope! 
+Anda akan belajar bahasa Jepang untuk waktu yang lama, jadi mungkin saja internet Anda mati saat Anda sedang berusaha belajar nihongo! Jadi Anda benar-benar terjebak, kan? Tidak juga! 
 
-*You download anime right…?*
+*Anda mengunduh anime, kan…?*
 
 ### Yomichan Offline
-You can still use Yomichan offline. Here’s how.
+Anda masih bisa menggunakan Yomichan secara offline. Begini caranya.
 
 ![Image](img/mono9.jpg)
 
-That’s how.
+Begitulah.
 
-### Digital Dictionary Formats
+### Format Kamus Digital
 
-You can see:  
+Anda dapat melihat:  
 
-[Japanese MDict (MDX) Dictionaries](https://learnjapanese.moe/resources/#mdict-mdx) - newer, open source, up to date and lower in size. Encoded in UTF-8 which is a nice bonus for anyone wanting to convert these to other formats.  
+[Kamus MDict (MDX) Jepang](https://learnjapanese.moe/resources/#mdict-mdx) - lebih baru, sumber terbuka, terkini dan lebih kecil ukurannya. Dikenal dalam UTF-8 yang merupakan bonus bagus bagi siapa saja yang ingin mengonversi ini ke format lain.  
 
-[Japanese EPWING Dictionaries](https://learnjapanese.moe/resources/#epwing) - old, extremely esoteric but popular in 電子辞書's from the 90's. Some are 
-extremely bloated in file size. Encoded in EUC-JP which is a big spit in the face for anyone wanting to do any conversion with them.  
+[Kamus EPWING Jepang](https://learnjapanese.moe/resources/#epwing) - lama, sangat esoterik tetapi populer di 電子辞書 dari tahun 90-an. Beberapa sangat besar dalam ukuran file. Dikenal dalam EUC-JP yang merupakan tantangan besar bagi siapa saja yang ingin melakukan konversi dengan mereka.  
 
 ### Mobile  
 
-If you are using Android, you can download [EBPocket](https://learnjapanese.moe/resources/#android), and load [EPWING](https://learnjapanese.moe/resources/#epwing) or [MDict](https://learnjapanese.moe/resources/#mdict-mdx) dictionaries into the app.  
-[Typhon Reader](https://learnjapanese.moe/resources/#android) is a great ebook reader for Japanese learners that supports [EPWING](https://learnjapanese.moe/resources/#epwing) dictionaries.  
+Jika Anda menggunakan Android, Anda dapat mengunduh [EBPocket](https://learnjapanese.moe/resources/#android), dan memuat kamus [EPWING](https://learnjapanese.moe/resources/#epwing) atau [MDict](https://learnjapanese.moe/resources/#mdict-mdx) ke dalam aplikasi.  
+[Typhon Reader](https://learnjapanese.moe/resources/#android) adalah pembaca ebook yang hebat untuk pelajar Jepang yang mendukung kamus [EPWING](https://learnjapanese.moe/resources/#epwing).  
 
-If you are using iOS, you can download [EBPocket](https://learnjapanese.moe/resources/ios), and load [EPWING](https://learnjapanese.moe/resources/#epwing) or [MDict](https://learnjapanese.moe/resources/#mdict-mdx) dictionaries into the app using iTunes.  
+Jika Anda menggunakan iOS, Anda dapat mengunduh [EBPocket](https://learnjapanese.moe/resources/ios), dan memuat kamus [EPWING](https://learnjapanese.moe/resources/#epwing) atau [MDict](https://learnjapanese.moe/resources/#mdict-mdx) ke dalam aplikasi menggunakan iTunes.  
 
-## Approaching Monolingual Dictionaries
+## Pendekatan Kamus Monolingual
 
-There’s a few ways to approach getting used to monolingual dictionaries. I’ll go through each one of them.
+Ada beberapa cara untuk membiasakan diri dengan kamus monolingual. Saya akan menjelaskan masing-masing.
 
-Primarily in the AJATT community, there’s this one piece of advice:
+Terutama dalam komunitas AJATT, ada satu saran:
 
-### The “Throw away the bilingual dictionary forever, and start using the monolingual dictionary straight away!” Approach  
+### Pendekatan “Buang kamus bilingual selamanya, dan mulai gunakan kamus monolingual segera!”  
 
-This is something Khatzumoto of AJATT proposed.  
+Ini adalah sesuatu yang diusulkan oleh Khatzumoto dari AJATT.  
 
-I mean, if you read novels, this may be a pretty good approach, because you will already be familiar with the words, because novels generally just have more words than anime and manga. If you only watch anime and read manga, this may prove to be quite frustrating. When this piece of advice was put out, Yomichan didn’t exist. So people in that time would have found this piece of advice terrible and tiring to constantly look up everything in the definitions.  
+Maksud saya, jika Anda membaca novel, ini mungkin pendekatan yang cukup baik, karena Anda sudah familiar dengan kata-katanya, karena novel umumnya memiliki lebih banyak kata dibandingkan anime dan manga. Jika Anda hanya menonton anime dan membaca manga, ini mungkin akan sangat frustrasi. Ketika saran ini diberikan, Yomichan belum ada. Jadi orang-orang pada waktu itu akan menganggap saran ini sangat buruk dan melelahkan untuk terus mencari semua definisi.  
 
-This isn’t a fundamentally flawed approach, I think it’s pretty good how it says “just read the dictionary more!”, because that’s exactly what you need to do. 
+Ini bukan pendekatan yang sepenuhnya salah, saya pikir ini cukup baik karena mengatakan “hanya baca kamus lebih banyak!”, karena itu persis apa yang perlu Anda lakukan. 
 
-I just disagree with throwing away the bilingual dictionary completely, because you still need it in the beginning of the monolingual transition. 
+Saya hanya tidak setuju untuk membuang kamus bilingual sepenuhnya, karena Anda masih membutuhkannya di awal transisi monolingual. 
 
-### The Morphman Approach
-no  
+### Pendekatan Morphman
+tidak  
 
-### What you SHOULD do
+### Apa yang HARUS Anda lakukan
 
-How did I learn how to be comfortable with monolingual dictionaries? I read more. (novels, light novels, visual novels)  
+Bagaimana saya belajar untuk merasa nyaman dengan kamus monolingual? Saya membaca lebih banyak. (novel, novel ringan, novel visual)  
 
-When I read more novels I got more used to written Japanese, and when I looked up words, they were in monolingual, so when I learned more words, I got better at using the monolingual dictionary. Huh? Yeah. It’s really that simple. Read more. Read the novel more = reading the dictionary more because you need a dictionary to read novels :)
+Ketika saya membaca lebih banyak novel, saya menjadi lebih terbiasa dengan bahasa Jepang tertulis, dan ketika saya mencari kata, mereka ada dalam bentuk monolingual, jadi ketika saya belajar lebih banyak kata, saya menjadi lebih baik dalam menggunakan kamus monolingual. Huh? Ya. Sangat sederhana. Baca lebih banyak. Baca novel lebih banyak = membaca kamus lebih banyak karena Anda membutuhkan kamus untuk membaca novel :)
 
-### >What did you do when you came across a word you didn’t know in the definition?
+### >Apa yang Anda lakukan ketika Anda menemukan kata yang tidak Anda ketahui dalam definisi?
 
-I looked it up with Yomichan. I tried reading the monolingual definition. If there were too many words I didn’t know in the definition, I just looked at the English definition (as a last resort) and moved on. You just need to keep doing this. REPETITION.   
-Read more books. You will get comfortable with the monolingual dictionary if you just read a lot. Yes. Read more. Read a lot. That’s all there is to it.  Yomichan just makes the process easier, you don’t waste your energy manually searching, instead your energy goes into actually reading. That’s why I recommend using Yomichan.
+Saya mencarinya dengan Yomichan. Saya mencoba membaca definisi monolingual. Jika ada terlalu banyak kata yang tidak saya ketahui dalam definisi, saya hanya melihat definisi dalam bahasa Inggris (sebagai upaya terakhir) dan melanjutkan. Anda hanya perlu terus melakukan ini. REPETISI.   
+Baca lebih banyak buku. Anda akan merasa nyaman dengan kamus monolingual jika Anda hanya membaca banyak. Ya. Baca lebih banyak. Baca banyak. Itu saja. Yomichan hanya membuat prosesnya lebih mudah, Anda tidak membuang energi Anda untuk mencari secara manual, melainkan energi Anda digunakan untuk benar-benar membaca. Itulah sebabnya saya merekomendasikan menggunakan Yomichan.
 
-### >Soo… what’s the best way to approach monolingual?
+### >Jadi… apa cara terbaik untuk mendekati monolingual?
 
-Read more novels with a monolingual dictionary. I recommend reading novels on [Itazuraneko](https://itazuraneko.neocities.org/library/shousetu.html) using Yomichan.  
+Baca lebih banyak novel dengan kamus monolingual. Saya merekomendasikan membaca novel di [Itazuraneko](https://itazuraneko.neocities.org/library/shousetu.html) menggunakan Yomichan.  
 
-### >What if I don't like reading novels? I hate reading novels!  
+### >Bagaimana jika saya tidak suka membaca novel? Saya benci membaca novel!  
 
-Find something you like. It can be a light novel or visual novel too you know. I "hate" novels in English, I have never tried to read more than 1 page of them, why do I "hate" them? Because I haven't experienced how good they actually might be, and I don't care really. But in Japanese, not only am I better at reading novels in Japanese, I also really enjoy reading novels in this language, I can't say the same for English. So even though you may despise novels in whatever your native language is, if you give it a shot (it will be difficult at first, as is everything), you may find yourself actually enjoying reading novels.  
+Temukan sesuatu yang Anda suka. Itu bisa juga novel ringan atau novel visual. Saya "benci" novel dalam bahasa Inggris, saya tidak pernah mencoba membaca lebih dari 1 halaman, mengapa saya "benci" mereka? Karena saya belum mengalami seberapa baik mereka sebenarnya, dan saya tidak peduli. Tetapi dalam bahasa Jepang, tidak hanya saya lebih baik dalam membaca novel dalam bahasa Jepang, saya juga sangat menikmati membaca novel dalam bahasa ini, saya tidak bisa mengatakan hal yang sama untuk bahasa Inggris. Jadi meskipun Anda mungkin membenci novel dalam bahasa ibu Anda, jika Anda mencobanya (itu akan sulit pada awalnya, seperti segalanya), Anda mungkin menemukan diri Anda benar-benar menikmati membaca novel.  
 
-### >shoui have you completely 卒業'd the bilingual dictionary?
+### >shoui, apakah Anda sudah sepenuhnya 卒業 dari kamus bilingual?
 
-Yes indeed. I haven't used the JMdict or anything since last year. 
+Ya, benar. Saya belum menggunakan JMdict atau apa pun sejak tahun lalu. 
 
-### >But wouldn’t I be reading the dictionary more than the actual novel?
+### >Tapi bukankah saya akan membaca kamus lebih banyak daripada novel itu sendiri?
 
-So what? It’s good that you are reading the dictionary more. Think of the dictionary as something FUN. 
-It's fascinating in its own right.  
+Jadi apa? Bagus jika Anda membaca kamus lebih banyak. Anggaplah kamus sebagai sesuatu yang MENYENANGKAN. 
+Ini menarik dengan caranya sendiri.  
 
 ![Image](img/mono10.jpg)  
 
 
-#### 10 Important Tips and Tricks
+#### 10 Tips dan Trik Penting
 
-(壱). Read at least 1 novel (it can be a light novel or visual novel) before going monolingual.
+(壱). Bacalah setidaknya 1 novel (itu bisa novel ringan atau novel visual) sebelum beralih ke monolingual.
 
-(弐). Try to experiment with what dictionary order is the best for you.
+(弐). Cobalah bereksperimen dengan urutan kamus mana yang terbaik untuk Anda.
 
-(参). If the word you look up with Yomichan is only in a bilingual dictionary, try doing a kana search for it, or a full kanji search (Alt+Insert to get to the Yomichan search page)  
+(参). Jika kata yang Anda cari dengan Yomichan hanya ada di kamus bilingual, coba lakukan pencarian kana untuk itu, atau pencarian kanji penuh (Alt+Insert untuk menuju halaman pencarian Yomichan)  
 
-(肆). If you don’t understand the definition even if you looked up all the words, just look at/use the bilingual definition (last resort). You will get better at understanding when you use it more.
+(肆). Jika Anda tidak memahami definisi meskipun Anda telah mencari semua kata, cukup lihat/gunakan definisi bilingual (upaya terakhir). Anda akan lebih baik dalam memahami saat Anda menggunakannya lebih banyak.
 
-(伍). It is okay to check the bilingual definition to check that you’re getting the right basic idea.
+(伍). Tidak apa-apa untuk memeriksa definisi bilingual untuk memastikan bahwa Anda mendapatkan ide dasar yang benar.
 
-(陸). Don’t worry about how much time it will take to “transition”
+(陸). Jangan khawatir tentang berapa lama waktu yang dibutuhkan untuk “bertransisi”
 
-(漆). For monolingual Anki cards, just try to remember the gist of the definition. I tried to demonstrate this in [Japanese FAQ](/faq)  
+(漆). Untuk kartu Anki monolingual, coba ingat inti dari definisi. Saya mencoba menunjukkan ini dalam [FAQ Jepang](/faq)  
 
-(捌). Try to look up words you already know, in the monolingual dictionary, this is just to try to get accustomed to the dictionary at first hand.
+(捌). Cobalah mencari kata-kata yang sudah Anda ketahui, di kamus monolingual, ini hanya untuk mencoba membiasakan diri dengan kamus pada awalnya.
 
-(玖). Forget looking up very concrete nouns such as animals in the monolingual dictionary, you are better off just using Google Images instead.
+(玖). Lupakan mencari kata benda konkret seperti hewan dalam kamus monolingual, Anda lebih baik menggunakan Google Images sebagai gantinya.
 
-(拾). Don’t overdo yourself! If it's too hard, try to use the bilingual dictionary until you feel confident again!
+(拾). Jangan memaksakan diri! Jika terlalu sulit, coba gunakan kamus bilingual sampai Anda merasa percaya diri lagi!
 
-Have fun immersing!
+Selamat bersenang-senang dalam belajar!
 
-<h3>Found this useful? Consider supporting me on Patreon!</h3>   
+<h3>Menemukan ini berguna? Pertimbangkan untuk mendukung saya di Patreon!</h3>   
 
-[:fontawesome-brands-patreon: Support me on Patreon](https://www.patreon.com/shoui){: .md-button } 
+[:fontawesome-brands-patreon: Dukung saya di Patreon](https://www.patreon.com/shoui){: .md-button } 
 
-#### Walkthrough  
+#### Panduan  
 
-Need help with monolingual definitions? Not sure what all the symbols mean? I have written a guide for my Patreon. (Basic tier and over)  
+Butuh bantuan dengan definisi monolingual? Tidak yakin apa semua simbol berarti? Saya telah menulis panduan untuk Patreon saya. (Tingkat dasar dan lebih tinggi)  
 
-[:fontawesome-brands-patreon: Support me on Patreon](https://www.patreon.com/shoui){: .md-button }
-
-
+[:fontawesome-brands-patreon: Dukung saya di Patreon](https://www.patreon.com/shoui){: .md-button }
