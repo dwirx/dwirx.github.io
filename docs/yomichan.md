@@ -1,141 +1,141 @@
-# Yomichan Setup Tutorial
+# Tutorial Pengaturan Yomitan
 
-**New: Yomichan is no longer in development. Its successor is Yomitan.**
+**Baru: Yomichan tidak lagi dalam pengembangan. Penggantinya adalah Yomitan.**
 
-## What is Yomitan?
-Yomitan is a browser extension that allows you to look up Japanese words with both the meaning and the reading on web pages with ease.  
+## Apa itu Yomitan?
+Yomitan adalah ekstensi browser yang memungkinkan Anda mencari kata-kata bahasa Jepang dengan mudah, menampilkan baik arti maupun cara bacanya di halaman web.
 
-## Getting Started 
-Yomitan is available for both Chromium and Firefox based browsers. You can find the respective versions below.  
-[Chrome Web Store](https://chromewebstore.google.com/detail/yomitan/likgccmbimhjbgkjambclfkhldnlhbnn)  
-[Firefox](https://addons.mozilla.org/en-GB/firefox/addon/yomitan/)  
-Once installed, it will open a new tab page, just close it for now so we don't confuse each other.  
+## Memulai
+Yomitan tersedia untuk browser berbasis Chromium dan Firefox. Anda dapat menemukan versi masing-masing di bawah ini.
+[Chrome Web Store](https://chromewebstore.google.com/detail/yomitan/likgccmbimhjbgkjambclfkhldnlhbnn)
+[Firefox](https://addons.mozilla.org/en-GB/firefox/addon/yomitan/)
+Setelah diinstal, akan terbuka halaman tab baru, tutup saja untuk saat ini agar kita tidak saling membingungkan.
 
-## Acquiring Dictionaries
-When you first install Yomitan, you need to load dictionaries into it in order to use it.  
-These files use the `.zip` extension and **are not to be extracted by the user.**
+## Mendapatkan Kamus
+Ketika Anda pertama kali menginstal Yomitan, Anda perlu memuat kamus ke dalamnya agar dapat menggunakannya.
+File-file ini menggunakan ekstensi `.zip` dan **tidak boleh diekstrak oleh pengguna.**
 
-You can find my collection of Yomitan dictionaries below. This will have everything you need and (probably) don't need. :slight_smile:  
-→→→→[Shoui's Yomitan Dictionary Collection](https://learnjapanese.link/dictionaries)←←←←　　    
+Anda dapat menemukan koleksi kamus Yomitan saya di bawah ini. Ini akan memiliki semua yang Anda butuhkan dan (mungkin) tidak butuhkan. :slight_smile:
+→→→→[Koleksi Kamus Yomitan Shoui](https://learnjapanese.link/dictionaries)←←←←　　
 
-Dictionaries can be found in their respective folders.  
-I recommend you install the following dictionaries:  
-	- `Bilingual/[Bilingual] Jitendex (Recommended).zip`  
-	- `Bilingual/[Bilingual] 新和英.zip`  
-	- `Kanji/[Kanji] KANJIDIC (English).zip`  
-	- `Grammar/Dictionary of Japanese Grammar.zip`  
+Kamus dapat ditemukan di folder masing-masing.
+Saya merekomendasikan Anda menginstal kamus-kamus berikut:
+	- `Bilingual/[Bilingual] Jitendex (Recommended).zip`
+	- `Bilingual/[Bilingual] 新和英.zip`
+	- `Kanji/[Kanji] KANJIDIC (English).zip`
+	- `Grammar/Dictionary of Japanese Grammar.zip`
 	- `Pitch Accent/アクセント辞典v2 (Recommended).zip`
 
-## Installing dictionaries and basic usage
-  
-1. Click on the ![yomitan-icon](img/yomitan-icon.png) icon in the browser toolbar.  
-2. Click on the ![cog](img/yomitan-cog.png) icon to access the settings page.  
-3. On the left sidebar, click on "Dictionaries" and then click on "Configure installed and enabled dictionaries…"  
-4. Click the "Import" button on the bottom.  
-5. Here's where you select the dictionaries to import. Please only import the following. 
-	- `Bilingual/[Bilingual] Jitendex (Recommended).zip`  
-	- `Bilingual/[Bilingual] 新和英.zip`  
-	- `Kanji/[Kanji] KANJIDIC (English).zip`  
-	- `Grammar/Dictionary of Japanese Grammar.zip` 
+## Menginstal kamus dan penggunaan dasar
+
+1. Klik ikon ![yomitan-icon](img/yomitan-icon.png) di toolbar browser.
+2. Klik ikon ![cog](img/yomitan-cog.png) untuk mengakses halaman pengaturan.
+3. Di sidebar kiri, klik "Dictionaries" dan kemudian klik "Configure installed and enabled dictionaries…"
+4. Klik tombol "Import" di bagian bawah.
+5. Di sini Anda memilih kamus yang akan diimpor. Harap impor hanya yang berikut:
+	- `Bilingual/[Bilingual] Jitendex (Recommended).zip`
+	- `Bilingual/[Bilingual] 新和英.zip`
+	- `Kanji/[Kanji] KANJIDIC (English).zip`
+	- `Grammar/Dictionary of Japanese Grammar.zip`
 	- `Pitch Accent/アクセント辞典v2 (Recommended).zip`
 
-6. Please wait for the dictionaries to import. This could take a while.
-7. Once complete, you can test Yomitan by holding down the ++shift++ key and hovering over Japanese text. Here is a sample: 日本語. It will display a pop up box displaying the definitions separated by dictionary.  
+6. Harap tunggu sampai kamus selesai diimpor. Ini mungkin memakan waktu.
+7. Setelah selesai, Anda dapat menguji Yomitan dengan menahan tombol ++shift++ dan mengarahkan kursor ke teks bahasa Jepang. Berikut contohnya: 日本語. Ini akan menampilkan kotak pop-up yang menampilkan definisi yang dipisahkan berdasarkan kamus.
 
-![Yomichan Demo](img/yomidemo1.png) 
+![Demo Yomichan](img/yomidemo1.png)
 
-Click anywhere outside of the box or press the ++esc++ key to dismiss.
-Click on an individual kanji in the headword to view kanji information (only functional with KANJIDIC installed).
+Klik di mana saja di luar kotak atau tekan tombol ++esc++ untuk menutup.
+Klik pada kanji individual di kata utama untuk melihat informasi kanji (hanya berfungsi dengan KANJIDIC terinstal).
 
-You can click the ![audio](img/yomichan-audio.png) button to hear the word being pronounced by a native speaker.
+Anda dapat mengklik tombol ![audio](img/yomichan-audio.png) untuk mendengar kata tersebut diucapkan oleh penutur asli.
 
-In your browser extensions toolbar, if you click on the Yomitan logo, then on the ![search icon](img/yomitan-search.png) icon or by using the ++alt+insert++ keyboard shortcut, you can access Yomitan Search, this is where you can use Yomitan as a standalone Japanese to English dictionary. 
+Di toolbar ekstensi browser Anda, jika Anda mengklik logo Yomitan, kemudian pada ikon ![search icon](img/yomitan-search.png) atau dengan menggunakan pintasan keyboard ++alt+insert++, Anda dapat mengakses Pencarian Yomitan, di mana Anda dapat menggunakan Yomitan sebagai kamus mandiri Jepang ke Inggris.
 
-Pop up box size can be edited with advanced settings enabled.  
-A full dark mode can be enabled in the settings too.  
+Ukuran kotak pop-up dapat diedit dengan pengaturan lanjutan yang diaktifkan.
+Mode gelap penuh juga dapat diaktifkan di pengaturan.
 
-**Jitendex** is a free and openly licensed Japanese-to-English dictionary. Jitendex is built upon data provided by multiple free and open projects. Most notably the JMdict project, which is used on many Japanese dictionary projects such as Jisho.org, Akebi, Shirabe Jisho, Takoboto etc. 
+**Jitendex** adalah kamus Jepang-Inggris gratis dan berlisensi terbuka. Jitendex dibangun berdasarkan data yang disediakan oleh beberapa proyek gratis dan terbuka. Yang paling menonjol adalah proyek JMdict, yang digunakan pada banyak proyek kamus Jepang seperti Jisho.org, Akebi, Shirabe Jisho, Takoboto, dll.
 
-**新和英** (Shinwaei) is a Japanese-English dictionary intended for Japanese people. It has many example sentences which can prove to be very useful for Japanese learners. A variation of this with even more example sentences is called `[Bilingual] 研究社　新和英大辞典　第５版.zip` can also be found in my dictionaries collection.  
+**新和英** (Shinwaei) adalah kamus Jepang-Inggris yang ditujukan untuk orang Jepang. Ini memiliki banyak contoh kalimat yang dapat sangat berguna bagi pelajar bahasa Jepang. Variasi dari ini dengan lebih banyak contoh kalimat disebut `[Bilingual] 研究社　新和英大辞典　第５版.zip` juga dapat ditemukan dalam koleksi kamus saya.
 
-**KANJIDIC** is a kanji dictionary, it allows you to view information of individual kanji.  
+**KANJIDIC** adalah kamus kanji, yang memungkinkan Anda melihat informasi kanji individual.
 
-**Dictionary of Japanese Grammar**, or 日本語文法辞典(全集), is a dictionary that helps you look up grammar (duh!).  
+**Dictionary of Japanese Grammar**, atau 日本語文法辞典(全集), adalah kamus yang membantu Anda mencari tata bahasa (tentu saja!).
 
-**アクセント辞典v2** lets you see pitch accent information of words. 
+**アクセント辞典v2** memungkinkan Anda melihat informasi aksen nada kata-kata.
 
-## Recommended frequency dictionaries  
+## Kamus frekuensi yang direkomendasikan
 
-Yomitan supports the use of frequency dictionaries that tell you how common a word is.  
+Yomitan mendukung penggunaan kamus frekuensi yang memberi tahu Anda seberapa umum sebuah kata.
 
-**JPDB** - A frequency list made from jpdb.io, which is a site that has analyzed many light novels, visual novels, anime and j-drama. In turn, this is a frequency list from Japanese fictional media.  
+**JPDB** - Daftar frekuensi yang dibuat dari jpdb.io, yang merupakan situs yang telah menganalisis banyak light novel, visual novel, anime, dan drama Jepang. Dengan demikian, ini adalah daftar frekuensi dari media fiksi Jepang.
 
-**CC100** - Frequency list of corpus data from Japanese internet. Formal words will appear more common in this frequency list . Example: 審議会 (council) is 9733 frequency on CC100 and 58730 on JPDB.  
+**CC100** - Daftar frekuensi data korpus dari internet Jepang. Kata-kata formal akan muncul lebih umum dalam daftar frekuensi ini. Contoh: 審議会 (dewan) memiliki frekuensi 9733 di CC100 dan 58730 di JPDB.
 
-**What is a common word?**  
+**Apa itu kata yang umum?**
 
-Very common: 1-10,000  
-Commmon: 10,001-20,000    
-Fairly common: 20,001-30,000   
-Kind of uncommon: 30,001-40,000  
-Uncommon: 40,001-50,000  
-Rare: 50,001-80,000  
-Natives-probably-don't-know-it-level: 80,000+  
+Sangat umum: 1-10.000
+Umum: 10.001-20.000
+Cukup umum: 20.001-30.000
+Agak tidak umum: 30.001-40.000
+Tidak umum: 40.001-50.000
+Jarang: 50.001-80.000
+Tingkat-penutur-asli-mungkin-tidak-tahu: 80.000+
 
-## Allowing access to file URLs
+## Mengizinkan akses ke URL file
 
-Enabling this allows you to use Yomitan on local files such as .HTML files.  
+Mengaktifkan ini memungkinkan Anda menggunakan Yomitan pada file lokal seperti file .HTML.
 
-!!! failure "PDF Files"
-    On Chrome, you need to use [PDF.js](https://mozilla.github.io/pdf.js/web/viewer.html). Click on the diagonal up arrow thingy to load a pdf.  
+!!! failure "File PDF"
+    Pada Chrome, Anda perlu menggunakan [PDF.js](https://mozilla.github.io/pdf.js/web/viewer.html). Klik pada tanda panah diagonal ke atas untuk memuat pdf.
 
-Chromium:  
-	- Right click the ![yomi icon](img/yomichan-icon.png)  
-	- Click "Manage Extensions"  
-	- Enable "Allow access to file URLs"  
+Chromium:
+	- Klik kanan pada ikon ![yomi icon](img/yomichan-icon.png)
+	- Klik "Kelola Ekstensi"
+	- Aktifkan "Izinkan akses ke URL file"
 
-Firefox:  
-	- Enabled by default.  
+Firefox:
+	- Diaktifkan secara default.
 
-## Bonus: Adding Forvo extra audio source  
+## Bonus: Menambahkan sumber audio tambahan Forvo
 
-You may encounter missing audio with the default Yomitan audio sources, adding [Forvo](https://ja.forvo.com/) will help fill in the gaps.  
+Anda mungkin menemui audio yang hilang dengan sumber audio Yomitan default, menambahkan [Forvo](https://ja.forvo.com/) akan membantu mengisi celah tersebut.
 
-Thanks to [jamesnicholas](https://github.com/jamesnicolas/yomichan-forvo-server) for this wonderful add-on!
+Terima kasih kepada [jamesnicholas](https://github.com/jamesnicolas/yomichan-forvo-server) untuk add-on yang luar biasa ini!
 
-This requires you to have Anki (2.1 and newer) installed and open on your computer to work.  
+Ini memerlukan Anda memiliki Anki (2.1 dan lebih baru) terinstal dan terbuka di komputer Anda agar berfungsi.
 
-1. Copy this code `580654285`
-2. In Anki, in the menu at the top, click on **Tools**, then **Add-ons**.
-3. In the new window, click **Get Add-ons...** and paste the code `580654285` into the text box and click **OK**
-4. Restart Anki by closing it and opening it back up again.
-5. In the Yomitan settings page ![cog](img/yomitan-cog.png), click **Audio** on the left, and then click on **Configure audio playback sources...**
-6. Click **Add** and then select **Custom** from the drop down menu. 
-7. Now where it says **Custom audio source (?)**, select the type **JSON** from the drop down menu.
-8. In the URL text box, enter this `http://localhost:8770/?expression={expression}&reading={reading}`
+1. Salin kode ini `580654285`
+2. Di Anki, di menu bagian atas, klik **Tools**, lalu **Add-ons**.
+3. Di jendela baru, klik **Get Add-ons...** dan tempel kode `580654285` ke dalam kotak teks dan klik **OK**
+4. Restart Anki dengan menutupnya dan membukanya kembali.
+5. Di halaman pengaturan Yomitan ![cog](img/yomitan-cog.png), klik **Audio** di sebelah kiri, dan kemudian klik **Configure audio playback sources...**
+6. Klik **Add** dan kemudian pilih **Custom** dari menu drop-down.
+7. Sekarang di mana tertulis **Custom audio source (?)**, pilih tipe **JSON** dari menu drop-down.
+8. Di kotak teks URL, masukkan ini `http://localhost:8770/?expression={expression}&reading={reading}`
 
-## Bonus: Android use with Kiwi Browser  
+## Bonus: Penggunaan Android dengan Kiwi Browser
 
-Kiwi Browser is a Chromium browser that supports extensions, including Yomichan. You can download it below.  
-[Google Play](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser)  
- 
-You can access the Yomichan settings page by going in :material-dots-vertical: > Yomichan	![yomi icon](img/yomichan-icon.png) > Settings.  
+Kiwi Browser adalah browser Chromium yang mendukung ekstensi, termasuk Yomichan. Anda dapat mengunduhnya di bawah ini.
+[Google Play](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser)
 
-Please see above for link to download the extension, link to the dictionaries collection and recommended starter dictionaries.  
-Importing a dictionary is a very processor intensive process and will take a long time depending on your phone. Please be patient.  
+Anda dapat mengakses halaman pengaturan Yomichan dengan pergi ke :material-dots-vertical: > Yomichan	![yomi icon](img/yomichan-icon.png) > Settings.
 
-Tap on a word to look it up. In the case that it is not working, you may need to turn off the modifier key.  
+Silakan lihat di atas untuk tautan untuk mengunduh ekstensi, tautan ke koleksi kamus, dan kamus awal yang direkomendasikan.
+Mengimpor kamus adalah proses yang sangat intensif prosesor dan akan memakan waktu lama tergantung pada ponsel Anda. Harap bersabar.
 
-![Yomichan Android](img/yomichan_android_alt.png)  
+Ketuk pada kata untuk mencarinya. Jika tidak berfungsi, Anda mungkin perlu mematikan tombol modifier.
 
-## Anki Setup
+![Yomichan Android](img/yomichan_android_alt.png)
 
-See [kuri's website](https://donkuri.github.io/learn-japanese/setup/#anki-setup).
+## Pengaturan Anki
 
-## Offline audio server (+ More audios than default)  
+Lihat [situs web kuri](https://donkuri.github.io/learn-japanese/setup/#anki-setup).
 
-[Follow this guide to get local audio.](https://github.com/themoeway/local-audio-yomichan)  
+## Server audio offline (+ Lebih banyak audio daripada default)
 
-<h3>Found this useful? Consider supporting me on Patreon!</h3>   
+[Ikuti panduan ini untuk mendapatkan audio lokal.](https://github.com/themoeway/local-audio-yomichan)
 
-[:fontawesome-brands-patreon: Support me on Patreon](https://www.patreon.com/shoui){: .md-button }
+<h3>Merasa ini bermanfaat? Pertimbangkan untuk mendukung saya di Patreon!</h3>
+
+[:fontawesome-brands-patreon: Dukung saya di Patreon](https://www.patreon.com/shoui){: .md-button }
