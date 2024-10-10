@@ -1,37 +1,37 @@
-# Speaking Japanese
+# Berbicara dalam Bahasa Jepang
 
-*Input is the core of getting good at speaking a foreign language.*
-*Output is just the icing on the cake.*
+*Input adalah inti dari menjadi baik dalam berbicara bahasa asing.*
+*Output hanyalah hiasan di atas kue.*
 
-When it comes to learning a foreign language, we usually think, “Oh if I speak it a lot, I will get good!”. Unfortunately, this is in fact false.
-Immersion (input) is how you get good at Japanese. In other words, listening and reading native content in Japanese. Natural phrasing comes with thousands of hours of input *(specifically listening!)*. But you still have a “ceiling” you need to reach, you can do that with speaking practice.
-You need to input so that you already know what’s correct before speaking, because you have heard it in your input, so you will know exactly what natural thing to say before you have a conversation.
-With more input, your output ceiling rises, meaning you have higher output capacity. So speaking as a total beginner is pointless, your output ceiling is extremely low, so no amount of speaking practice can help you improve speaking. With a couple hundred hours more of input, your output ceiling will rise. Then you can practice speaking to hit your ceiling. You may know when you’ve hit your ceiling when you try to say something but don’t know how to express it naturally so you resort to translating from English to Japanese in your head using the grammar structures you memorized. When this happens it is clear you need more input. In other words if you can't think of how to express your thoughts, you need more input. After you feel confident again, you can go back to outputting.
+Ketika datang untuk belajar bahasa asing, kita biasanya berpikir, “Oh jika saya berbicara banyak, saya akan menjadi baik!”. Sayangnya, ini sebenarnya salah.
+Imersi (input) adalah cara untuk menjadi baik dalam bahasa Jepang. Dengan kata lain, mendengarkan dan membaca konten asli dalam bahasa Jepang. Frasa alami datang dengan ribuan jam input *(khususnya mendengarkan!)*. Namun, Anda masih memiliki “langit-langit” yang perlu Anda capai, Anda dapat melakukannya dengan latihan berbicara.
+Anda perlu melakukan input sehingga Anda sudah tahu apa yang benar sebelum berbicara, karena Anda telah mendengarnya dalam input Anda, sehingga Anda akan tahu persis apa yang alami untuk dikatakan sebelum Anda melakukan percakapan.
+Dengan lebih banyak input, langit-langit output Anda meningkat, yang berarti Anda memiliki kapasitas output yang lebih tinggi. Jadi berbicara sebagai pemula total adalah tidak ada gunanya, langit-langit output Anda sangat rendah, jadi tidak ada jumlah latihan berbicara yang dapat membantu Anda meningkatkan kemampuan berbicara. Dengan beberapa ratus jam lebih banyak input, langit-langit output Anda akan meningkat. Kemudian Anda dapat berlatih berbicara untuk mencapai langit-langit Anda. Anda mungkin tahu ketika Anda telah mencapai langit-langit Anda ketika Anda mencoba untuk mengatakan sesuatu tetapi tidak tahu bagaimana mengekspresikannya secara alami sehingga Anda terpaksa menerjemahkan dari bahasa Inggris ke bahasa Jepang dalam pikiran Anda menggunakan struktur tata bahasa yang telah Anda hafal. Ketika ini terjadi, jelas Anda membutuhkan lebih banyak input. Dengan kata lain, jika Anda tidak dapat memikirkan bagaimana mengekspresikan pikiran Anda, Anda membutuhkan lebih banyak input. Setelah Anda merasa percaya diri lagi, Anda dapat kembali ke output.
 
-Another reason why it is bad to output early is that you don’t know what’s right and what’s wrong, and a native speaker won’t inform you. So you could be making big mistakes but not realising.  Maybe you don't like making mistakes.
+Alasan lain mengapa buruk untuk output lebih awal adalah bahwa Anda tidak tahu apa yang benar dan apa yang salah, dan penutur asli tidak akan memberi tahu Anda. Jadi Anda bisa membuat kesalahan besar tetapi tidak menyadarinya. Mungkin Anda tidak suka membuat kesalahan.
 
-### But here’s why it may not be a good idea talking to natives.
-1. If you expect to be corrected, then you're out of luck. Natives will not correct you. It is impolite to correct someone’s speech, as they could take offense to it. It is not an exclusively Japanese thing. I tend to notice unnatural phrasing in non-English natives but I do not correct them, as I could come off as a “grammar n#zi”. I’m sure Japanese people would feel the same about correcting your Japanese too.
-2. Most native speakers on HelloTalk and similar apps don’t want to practice Japanese. They want to practice English with you. So they are stalling any chance of you ever practicing.
-3. When you do not have a decent grasp of the Japanese spoken language (e.g. understand most anime) and try to speak, it will be mistake-ridden and extremely frustrating to speak. It will be much more motivating to just immerse.
-4. Even if you ask them to correct you, they will not.
+### Tapi inilah mengapa mungkin bukan ide yang baik untuk berbicara dengan penutur asli.
+1. Jika Anda berharap untuk dikoreksi, maka Anda tidak beruntung. Penutur asli tidak akan mengoreksi Anda. Tidak sopan untuk mengoreksi ucapan seseorang, karena mereka bisa merasa tersinggung. Ini bukan hanya hal yang eksklusif untuk Jepang. Saya cenderung memperhatikan frasa yang tidak alami pada penutur non-Inggris tetapi saya tidak mengoreksi mereka, karena saya bisa terlihat seperti “n#zi tata bahasa”. Saya yakin orang Jepang juga akan merasa sama tentang mengoreksi bahasa Jepang Anda.
+2. Sebagian besar penutur asli di HelloTalk dan aplikasi serupa tidak ingin berlatih bahasa Jepang. Mereka ingin berlatih bahasa Inggris dengan Anda. Jadi mereka menghambat setiap kesempatan Anda untuk berlatih.
+3. Ketika Anda tidak memiliki pemahaman yang baik tentang bahasa Jepang yang diucapkan (misalnya, memahami sebagian besar anime) dan mencoba berbicara, itu akan penuh dengan kesalahan dan sangat frustrasi untuk berbicara. Akan jauh lebih memotivasi untuk hanya terjun ke dalam imersi.
+4. Bahkan jika Anda meminta mereka untuk mengoreksi Anda, mereka tidak akan melakukannya.
 
-### Here’s why it may be a good idea talking to natives
-1. It is fun. There is no denying outputting is fun when you are able to do it correctly. In my case when I output naturally and my Japanese friends understand exactly what I want to say, that’s a motivation boost for me. And hey, if you want to speak, then do it! There is no one stopping you. :slight_smile:
-2. It's better than speaking to learners, for sure.
+### Inilah mengapa mungkin ide yang baik untuk berbicara dengan penutur asli
+1. Ini menyenangkan. Tidak dapat disangkal bahwa output itu menyenangkan ketika Anda dapat melakukannya dengan benar. Dalam kasus saya, ketika saya berbicara secara alami dan teman-teman Jepang saya memahami persis apa yang ingin saya katakan, itu adalah dorongan motivasi bagi saya. Dan hei, jika Anda ingin berbicara, maka lakukanlah! Tidak ada yang menghentikan Anda. :slight_smile:
+2. Ini lebih baik daripada berbicara dengan sesama pelajar, pasti.
 
-### What if I make a mistake?
-Get over it and move on. It’s not a big deal. As long as you are immersing everyday it is no big deal!
-**Can I talk to other learners?**
-Using Japanese regularly, regardless of who you are using it to talk to is essential in expanding your active vocabularly. As long as you are immersing, there is no harm in talking to other learners.  
+### Apa yang harus saya lakukan jika saya membuat kesalahan?
+Lupakan saja dan lanjutkan. Itu bukan masalah besar. Selama Anda terjun ke dalam imersi setiap hari, itu bukan masalah besar!
+**Bisakah saya berbicara dengan pelajar lain?**
+Menggunakan bahasa Jepang secara teratur, terlepas dari siapa yang Anda ajak bicara, sangat penting dalam memperluas kosakata aktif Anda. Selama Anda terjun ke dalam imersi, tidak ada salahnya berbicara dengan pelajar lain.
 
-### Other Links
-[AntiMoon Article](http://www.antimoon.com/other/myths-speaking.htm)  
-[Main Guide](/guide)  
+### Tautan Lain
+[Artikel AntiMoon](http://www.antimoon.com/other/myths-speaking.htm)  
+[Panduan Utama](/guide)  
 
-Have fun immersing!
+Selamat bersenang-senang dengan imersi!
 
-### Extra Note: Reading overload
+### Catatan Tambahan: Kelebihan Membaca
 
-I spoke quite a lot about how you shouldn't read until you got a lot of listening immersion. This is because it is to ensure you get a good accent in the end. The reason why you should listen to Japanese first is to build a model of how Japanese sounds in your head, to get you used to how Japanese sounds, for example how Japanese "ra ri ru re ro" sounds are much different than the English sounds. If you read without this knowledge, you may end up speaking with a foreign accent. Foreign accents happen when you think a sound in the target language is the same as a *similar* sounding sound in your native because you haven't listened long enough. It is almost impossible to read a language without applying any phonetic component to it, so even if you read in your head, you may still get this problem.
-Of course, if you don't care about accent, and would be fine with a gaijin accent, then you don't really need to listen. If you don't listen at all but just learn how to read that's fine if you still want to watch anime with subtitles, and just want to play VNs or whatever. Methods of approaching Japanese are never one-size-fits-all. But, I think it will really hurt your ego if you can read chuuni visual novels but can't understand anime, and you may not be motivated to start mass listening late because it's like, "Why would I listen, I don't understand it. I can play so much cool VNs in Japanese so I'd rather just do that". That's why I encourage listening right from the beginning. I hope you understand.
+Saya telah berbicara cukup banyak tentang bagaimana Anda seharusnya tidak membaca sampai Anda mendapatkan banyak imersi mendengarkan. Ini karena untuk memastikan Anda mendapatkan aksen yang baik pada akhirnya. Alasan mengapa Anda harus mendengarkan bahasa Jepang terlebih dahulu adalah untuk membangun model tentang bagaimana suara bahasa Jepang di kepala Anda, untuk membiasakan diri dengan bagaimana suara bahasa Jepang terdengar, misalnya bagaimana suara "ra ri ru re ro" dalam bahasa Jepang sangat berbeda dari suara dalam bahasa Inggris. Jika Anda membaca tanpa pengetahuan ini, Anda mungkin akan berbicara dengan aksen asing. Aksen asing terjadi ketika Anda berpikir bahwa suara dalam bahasa target sama dengan suara *serupa* dalam bahasa ibu Anda karena Anda belum mendengarkan cukup lama. Hampir tidak mungkin untuk membaca sebuah bahasa tanpa menerapkan komponen fonetik apapun padanya, jadi bahkan jika Anda membaca dalam pikiran Anda, Anda mungkin masih mengalami masalah ini.
+Tentu saja, jika Anda tidak peduli tentang aksen, dan akan baik-baik saja dengan aksen gaijin, maka Anda tidak benar-benar perlu mendengarkan. Jika Anda tidak mendengarkan sama sekali tetapi hanya belajar membaca, itu baik-baik saja jika Anda masih ingin menonton anime dengan subtitle, dan hanya ingin bermain VN atau apapun. Metode pendekatan terhadap bahasa Jepang tidak pernah satu ukuran untuk semua. Namun, saya pikir itu akan sangat menyakiti ego Anda jika Anda dapat membaca novel visual chuuni tetapi tidak dapat memahami anime, dan Anda mungkin tidak termotivasi untuk mulai mendengarkan secara massal nanti karena itu seperti, "Mengapa saya harus mendengarkan, saya tidak memahaminya. Saya bisa memainkan banyak VN keren dalam bahasa Jepang jadi saya lebih suka melakukan itu". Itulah mengapa saya mendorong mendengarkan sejak awal. Saya harap Anda mengerti.
