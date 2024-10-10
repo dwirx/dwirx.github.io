@@ -1,8 +1,8 @@
 site_name: TheMoeWay
 site_description: Moe Moe Moe Moe Moe Moe Moe
-site_url: https://learnjapanese.moe
+site_url: https://dwirx.github.io/
 site_author: shoui  
-repo_url: https://github.com/shoui520/shoui520.github.io
+repo_url: https://github.com/dwirx/dwirx.github.io
 repo_name: Open a pull request
 nav:
   - Home: 'index.md'
