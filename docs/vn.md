@@ -1,115 +1,115 @@
-# Visual Novel Guide 
+# Panduan Visual Novel
 
-### What are Visual Novels?
+### Apa itu Visual Novel?
 
-Visual Novels (often abbreviated as **VN**) can be described as sort of a mix of a novel and a game, they feature a text-based storyline and only little interaction from the player. Most VNs have anime-like visuals, and are usually accompanied by voice acting, background music and sound effects. Throughout the game, the player may be given choices, which will affect how the story will play out, so if you play it a second time, with different choices, you may get an entirely different plot.
+Visual Novel (sering disingkat sebagai **VN**) dapat digambarkan sebagai semacam perpaduan antara novel dan permainan, yang menampilkan cerita berbasis teks dengan sedikit interaksi dari pemain. Kebanyakan VN memiliki visual bergaya anime, dan biasanya disertai dengan pengisi suara, musik latar, dan efek suara. Sepanjang permainan, pemain mungkin diberi pilihan yang akan mempengaruhi bagaimana cerita akan berkembang, jadi jika Anda memainkannya untuk kedua kalinya dengan pilihan yang berbeda, Anda mungkin akan mendapatkan alur cerita yang sama sekali berbeda.
 
-![Image](img/vn1.jpg)
+![Gambar](img/vn1.jpg)
 
-### Why Visual Novels?
-Reading Japanese is extremely important, but not everyone loves reading books, you may feel fatigued after a while reading a standard, text-only novel but oddly enough you may be able to read VNs for hours without feeling fatigued. VNs have a mix of literary prose and conversational Japanese, so it is perfect for reading immersion.
-For the people that probably don't enjoy reading, and even find manga boring, VNs might just be perfect for you.
-![Image](img/vn2.jpg)
+### Mengapa Visual Novel?
+Membaca bahasa Jepang sangat penting, tetapi tidak semua orang suka membaca buku. Anda mungkin merasa lelah setelah beberapa saat membaca novel standar yang hanya berisi teks, tetapi anehnya Anda mungkin bisa membaca VN selama berjam-jam tanpa merasa lelah. VN memiliki campuran prosa sastra dan bahasa Jepang percakapan, sehingga sangat cocok untuk latihan membaca yang mendalam.
+Bagi orang-orang yang mungkin tidak suka membaca, dan bahkan merasa manga membosankan, VN mungkin cocok untuk Anda.
+![Gambar](img/vn2.jpg)
 
-### Playing visual novels to learn Japanese
+### Bermain visual novel untuk belajar bahasa Jepang
 
-This guide will go over how to play visual novels in Japanese and learn Japanese from them, this guide assumes you already have a Japanese visual novel set up and working, if not, check out [Cross Platform VN Setup](/vn-setup).
+Panduan ini akan membahas cara bermain visual novel dalam bahasa Jepang dan belajar bahasa Jepang darinya. Panduan ini mengasumsikan Anda sudah memiliki visual novel Jepang yang terpasang dan berfungsi. Jika belum, lihat [Pengaturan VN Lintas Platform](/vn-setup).
 
-Requirements:
+Persyaratan:
 
 [Textractor](https://github.com/Artikash/Textractor/releases)  
 [Yomichan](https://foosoft.net/projects/yomichan/)  
-[Clipboard Inserter](https://github.com/kmltml/clipboard-inserter) ([Firefox Version Here](https://addons.mozilla.org/en-US/firefox/addon/lap-clipboard-inserter/))  
-[Texthooking Page](https://learnjapanese.moe/texthooker.html)  
+[Clipboard Inserter](https://github.com/kmltml/clipboard-inserter) ([Versi Firefox di Sini](https://addons.mozilla.org/en-US/firefox/addon/lap-clipboard-inserter/))  
+[Halaman Texthooking](https://learnjapanese.moe/texthooker.html)  
 
-A detailed Yomichan setup tutorial can be found [here](/yomichan)
+Tutorial pengaturan Yomichan yang detail dapat ditemukan [di sini](/yomichan)
 
-For most applications, use the x86 executable of Textractor.
+Untuk sebagian besar aplikasi, gunakan executable x86 dari Textractor.
 
 !!! info "Steins;Gate"
-	If you wish to hook Steins;Gate and Steins;Gate 0, please check out [Steins;Gate Textractor](https://github.com/shiiion/steinsgate_textractor)  
+	Jika Anda ingin menghook Steins;Gate dan Steins;Gate 0, silakan lihat [Steins;Gate Textractor](https://github.com/shiiion/steinsgate_textractor)  
 
-Launch your VN and Textractor and first remove all the unneeded extensions by pressing the ++delete++ key. 
+Jalankan VN Anda dan Textractor, lalu pertama-tama hapus semua ekstensi yang tidak diperlukan dengan menekan tombol ++delete++. 
 
-Remove the following:
+Hapus yang berikut:
 
 - Bing Translate
-- Any other translate
+- Terjemahan lainnya
 - Extra Window
 - Extra Newlines
 - Styler 
 
-![Image](img/textractor1.png)  
+![Gambar](img/textractor1.png)  
 
-!!! warning "Order of extensions" 
-	Your order of extensions is important. Here is what I usually recommend:  
+!!! warning "Urutan ekstensi" 
+	Urutan ekstensi Anda penting. Berikut adalah yang biasanya saya rekomendasikan:  
 	- Remove Repeated Characters  
 	- Remove Repeated Phrases  
-	- Regex Filter (optional, but needs to be above clipboard)  
+	- Regex Filter (opsional, tapi harus di atas clipboard)  
 	- Copy to Clipboard  
 
-Now we need to *attach* Textractor to your VN. 
+Sekarang kita perlu *menghubungkan* Textractor ke VN Anda. 
 
-![Image](img/textractor2.png)  
+![Gambar](img/textractor2.png)  
 
-When it is attached, advance the text in the VN then cycle through the hooks to find the hook that matches the text displayed on the VN.  
+Ketika terhubung, majukan teks di VN kemudian beralih melalui hook untuk menemukan hook yang cocok dengan teks yang ditampilkan di VN.  
 
-![Image](img/textractor3.png)  
+![Gambar](img/textractor3.png)  
 
-Now open your browser, head over to my [texthooking page](https://learnjapanese.moe/texthooker.html) make sure **Clipboard Inserter** is installed and enabled and then advance the text in the VN again.  
+Sekarang buka browser Anda, buka [halaman texthooking](https://learnjapanese.moe/texthooker.html) saya, pastikan **Clipboard Inserter** terpasang dan diaktifkan, lalu majukan teks di VN lagi.  
 
-![Image](img/textractor4.png)  
+![Gambar](img/textractor4.png)  
 
-You can then just press ++shift++ to use Yomichan.  
+Anda kemudian bisa menekan ++shift++ untuk menggunakan Yomichan.  
 
-![Image](img/textractor5.png)  
+![Gambar](img/textractor5.png)  
 
-All done! Enjoy the reading!! :smirk_cat:
+Selesai! Nikmati membacanya!! :smirk_cat:
 
-You can track how much characters you have read using the indicator in the top right corner of the texthooking page.
-You can choose to keep the text when you refresh the page, or just the character count, or nothing.  
-The texthooking page has an "accurate character count", meaning it does not count special characters and punctuation such as 。「」 in the count.   
+Anda dapat melacak berapa banyak karakter yang telah Anda baca menggunakan indikator di pojok kanan atas halaman texthooking.
+Anda dapat memilih untuk menyimpan teks ketika Anda merefresh halaman, atau hanya jumlah karakter, atau tidak sama sekali.  
+Halaman texthooking memiliki "penghitungan karakter yang akurat", artinya tidak menghitung karakter khusus dan tanda baca seperti 。「」 dalam hitungan.   
 
-!!! info "Can't hook?"
-	Try referring to the [H-Code list @ Visual Novel Texthooking Wiki](https://vn-hooking.fandom.com/wiki/H-Code)  
-	Little Busters! players, use the Ecstasy version and see [this](https://cdn.discordapp.com/attachments/813105334763126814/1047252417735036988/little_busters.png)  
+!!! info "Tidak bisa hook?"
+	Coba lihat [Daftar H-Code @ Visual Novel Texthooking Wiki](https://vn-hooking.fandom.com/wiki/H-Code)  
+	Pemain Little Busters!, gunakan versi Ecstasy dan lihat [ini](https://cdn.discordapp.com/attachments/813105334763126814/1047252417735036988/little_busters.png)  
 
-### Need a walkthrough?
-If you are not used to visual novels, or games that make you make choices that decide the fate of the story, you may want to use a walkthrough. After all, you wouldn't want to get a bad ending.  
-You can find walkthroughs by searching “[vn name] 攻略” e.g. “Angel Beats! -1st Beat- 攻略”.  
+### Butuh panduan?
+Jika Anda tidak terbiasa dengan visual novel, atau permainan yang membuat Anda membuat pilihan yang menentukan nasib cerita, Anda mungkin ingin menggunakan panduan. Bagaimanapun, Anda tidak ingin mendapatkan ending yang buruk.  
+Anda dapat menemukan panduan dengan mencari "[nama vn] 攻略" misalnya "Angel Beats! -1st Beat- 攻略".  
 
-If you insist on not using a walkthrough, it is a wise decision to create a save file everytime you are faced with a choice. VN's often have 99+ save data slots, because they assume you'll be populating them with every decision point in the game.  
+Jika Anda bersikeras untuk tidak menggunakan panduan, adalah keputusan yang bijak untuk membuat file simpanan setiap kali Anda dihadapkan pada pilihan. VN sering memiliki 99+ slot data simpanan, karena mereka mengasumsikan Anda akan mengisinya dengan setiap titik keputusan dalam permainan.  
 
-### Unsure what to play?
+### Tidak yakin apa yang harus dimainkan?
 
-Have a look at visual novel lists below
+Lihat daftar visual novel di bawah ini
 
-[jamal's list](https://anacreondjt.gitlab.io/vn-chart/)  
-[This infamous list](https://docs.google.com/document/u/1/d/1KnyyDt7jimEz-dgeMSKymRaT2r3QKBPm9AzqZ6oUWAs/pub)  
-[Dinuz's list](/dinuzlist)  
-[Chronopolize's list](https://docs.google.com/spreadsheets/d/18vCgQHhBNBeRJdcTcyUi2Atq-nAapQW--33qrwl5Yfw)  
-[The best visual novels ever made (according to VNDB rankings)](https://vndb.org/v?f=022gja3gja&s=34w)  
+[Daftar jamal](https://anacreondjt.gitlab.io/vn-chart/)  
+[Daftar terkenal ini](https://docs.google.com/document/u/1/d/1KnyyDt7jimEz-dgeMSKymRaT2r3QKBPm9AzqZ6oUWAs/pub)  
+[Daftar Dinuz](/dinuzlist)  
+[Daftar Chronopolize](https://docs.google.com/spreadsheets/d/18vCgQHhBNBeRJdcTcyUi2Atq-nAapQW--33qrwl5Yfw)  
+[Visual novel terbaik yang pernah dibuat (menurut peringkat VNDB)](https://vndb.org/v?f=022gja3gja&s=34w)  
 
-Have fun reading!
+Selamat membaca!
 
-Consider joining our **VN Club** in the [Discord](https://discord.gg/nhqjydaR8j)!
+Pertimbangkan untuk bergabung dengan **VN Club** kami di [Discord](https://discord.gg/nhqjydaR8j)!
 
-### Bonus: Using Textractor for PPSSPP Visual Novels
-Hooking PPSSPP Visual Novels require you to use the x86 (32-bit) version of PPSSPP along with the x86 version of Textractor.  
+### Bonus: Menggunakan Textractor untuk Visual Novel PPSSPP
+Menghook Visual Novel PPSSPP mengharuskan Anda menggunakan versi x86 (32-bit) dari PPSSPP bersama dengan versi x86 dari Textractor.  
  
-1. Launch PPSSPP (32-bit)  
-2. Launch the Visual Novel.  
-3. Attach Textractor (x86) to PPSSPP (32-bit)  
-4. Advance the text in the VN (O button)  
-5. Using the "Search for hooks" feature, select "search for specific text"  
-6. Search for the specific text that is on the PPSSPP VN. It needs to be **exact.**  
-7. It will take a while to search for the hook, your emulator may start to lag for a while.  
-8. If Textractor asks, (keep an eye on the Console) frantically advance the text (O button) on the PPSSPP VN.  
-9. Now it will have found the hook.  
-10. Advance the text once more (O button)  
-11. Cycle through the hooks to see which hook has the newly advanced text.   
-12. That's it! :tada: You could save the hook to make the process more convenient later.  
+1. Jalankan PPSSPP (32-bit)  
+2. Jalankan Visual Novel.  
+3. Hubungkan Textractor (x86) ke PPSSPP (32-bit)  
+4. Majukan teks di VN (tombol O)  
+5. Menggunakan fitur "Search for hooks", pilih "search for specific text"  
+6. Cari teks spesifik yang ada di VN PPSSPP. Harus **persis sama.**  
+7. Akan memakan waktu untuk mencari hook, emulator Anda mungkin mulai lag untuk sementara.  
+8. Jika Textractor bertanya, (perhatikan Console) dengan cepat majukan teks (tombol O) pada VN PPSSPP.  
+9. Sekarang hook akan ditemukan.  
+10. Majukan teks sekali lagi (tombol O)  
+11. Beralih melalui hook untuk melihat hook mana yang memiliki teks yang baru dimajukan.   
+12. Itu saja! :tada: Anda bisa menyimpan hook untuk membuat proses lebih mudah nanti.  
 
-Proof of texthooking working with PPSSPP:  
+Bukti texthooking bekerja dengan PPSSPP:  
   
-![Image](img/vnpsp2.jpg)  
+![Gambar](img/vnpsp2.jpg)  
