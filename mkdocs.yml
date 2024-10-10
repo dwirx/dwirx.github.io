@@ -89,8 +89,8 @@ plugins:
         - en
         - ja
   - open-in-new-tab
-# extra:
-#   alternate:
+extra:
+  alternate:
 #     - name: English
 #       link: /
 #       lang: en
@@ -112,9 +112,9 @@ plugins:
 #     - name: Русский
 #       link: /ru/
 #       lang: ru
-#     - name: Bahasa Indonesia
-#       link: /id/
-#       lang: id
+    - name: Bahasa Indonesia
+      link: /id/
+      lang: id
 #     - name: tiếng Việt
 #       link: /viet/
 #       lang: viet
