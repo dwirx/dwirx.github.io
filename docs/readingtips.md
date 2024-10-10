@@ -1,360 +1,360 @@
-# Reading Techniques and Strategies
+# Teknik dan Strategi Membaca
 
-The REAL Getting Started with Reading Guide
+Panduan Sungguhan untuk Memulai Membaca
 
-Reading is pretty much the most effective way to get better at Japanese. There is no doubt about it.  
+Membaca adalah cara paling efektif untuk meningkatkan kemampuan berbahasa Jepang. Tidak diragukan lagi.  
 
-"Read more" is often the first piece of Japanese learning advice that advanced learners of Japanese will give to any beginner, and for good reason.  
-This article aims to give you tips and talk about worries that you may have when reading.  
+"Baca lebih banyak" sering kali merupakan saran pertama yang diberikan oleh pelajar Jepang tingkat lanjut kepada pemula, dan ini memiliki alasan yang kuat.  
+Artikel ini bertujuan untuk memberikan tips dan membahas kekhawatiran yang mungkin Anda miliki saat membaca.  
 
-## Reading Tips 
+## Tips Membaca 
 
-### I am JUST starting out, what should I do?  
+### Saya BARU memulai, apa yang harus saya lakukan?  
 
-Just starting out = don't know Japanese? See [UsagiSpoon](/routine).   
+Baru memulai = tidak tahu bahasa Jepang? Lihat [UsagiSpoon](/routine).   
 
-Noob friendly reading practice = anime with Japanese subtitles, it's described in [UsagiSpoon](/routine)  
+Latihan membaca ramah pemula = anime dengan subtitle bahasa Jepang, dijelaskan di [UsagiSpoon](/routine).  
 
-Or maybe just starting out = "I have been learning Japanese for a while with [x] method, and I want to start reading for real! What should I do?"  
+Atau mungkin baru memulai = "Saya telah belajar bahasa Jepang untuk beberapa waktu dengan metode [x], dan saya ingin mulai membaca dengan serius! Apa yang harus saya lakukan?"  
 
-Then read the rest of the article.  
+Kemudian baca sisa artikel ini.  
 
-### Are visual novels better for beginners?
+### Apakah novel visual lebih baik untuk pemula?
 
-Visual novels are better for beginners because they don't have to rely on a lot more descriptive text in order to create a story because visual novels have pictures on the screen, etc.  
+Novel visual lebih baik untuk pemula karena mereka tidak perlu mengandalkan teks deskriptif yang banyak untuk membuat cerita karena novel visual memiliki gambar di layar, dll.  
 
-Visual novels also help you make sense out of hard to understand texts due to images on the screen and more obvious contexts. 
+Novel visual juga membantu Anda memahami teks yang sulit dipahami karena adanya gambar di layar dan konteks yang lebih jelas. 
 
-They are easier to approach than novels, difficulty-wise, and therefore they are perfect for easing yourself into reading.  
+Mereka lebih mudah diakses daripada novel, dari segi kesulitan, dan oleh karena itu mereka sempurna untuk mempermudah Anda dalam membaca.  
 
-See [my visual novel guide](/vn) to learn how to learn Japanese with visual novels.  
+Lihat [panduan novel visual saya](/vn) untuk belajar bagaimana belajar bahasa Jepang dengan novel visual.  
 
-### Yomichan + Textractor + Texthooker page  
+### Yomichan + Textractor + Halaman Texthooker  
 
-The holy trinity of Japanese learning (for visual novel enjoyers).  
+Tritunggal suci belajar bahasa Jepang (untuk penggemar novel visual).  
 
-Everything you need to know is in [The VN guide](/vn)  
+Semua yang perlu Anda ketahui ada di [Panduan VN](/vn).  
 
-### Read a book of something you've seen.  
+### Baca buku dari sesuatu yang sudah Anda lihat.  
 
-Did you know many people become readers (in their native language) because they read the book of a movie they liked or something?  
+Tahukah Anda banyak orang menjadi pembaca (dalam bahasa asli mereka) karena mereka membaca buku dari film yang mereka sukai atau sesuatu?  
 
-Learning how to visualize scenes in your head is a different skill than just "being native."  
+Belajar bagaimana memvisualisasikan adegan di kepala Anda adalah keterampilan yang berbeda daripada hanya "menjadi native."  
 
-You can apply the same exact strategy to Japanese.  
+Anda dapat menerapkan strategi yang sama persis ini ke dalam bahasa Jepang.  
 
-And it's the strategy that I recommend everyone take when they get into reading.  
+Dan ini adalah strategi yang saya rekomendasikan kepada semua orang ketika mereka mulai membaca.  
 
-**Read the light novel series of an anime you enjoyed.**  
+**Baca seri novel ringan dari anime yang Anda nikmati.**  
 
-Read the novel after you watch the anime, or even while watching the anime. And after you've seen the anime, still refer to the anime to help you read.  
+Baca novel setelah Anda menonton anime, atau bahkan saat menonton anime. Dan setelah Anda melihat anime, tetap rujuk ke anime untuk membantu Anda membaca.  
 
-Anyway, this is obviously a God tier reading strategy because, by watching the anime, you have given context to the text on the page, which translates into i+1 Krashen approved effective language learning gains, and the light novel will have multiple volumes, which is great for learners because getting used to one author's writing style is easier than reading a different author every time.  
+Bagaimanapun, ini jelas merupakan strategi membaca tingkat dewa karena, dengan menonton anime, Anda telah memberikan konteks pada teks di halaman, yang diterjemahkan menjadi i+1 yang disetujui Krashen untuk peningkatan pembelajaran bahasa yang efektif, dan novel ringan akan memiliki beberapa volume, yang sangat baik untuk pelajar karena terbiasa dengan gaya penulisan satu penulis lebih mudah daripada membaca penulis yang berbeda setiap kali.  
 
 
 ### Yomichan, Itazuraneko, EPUBs+ッツ Reader  
 
-The holy trinity of Japanese learning (for novel enjoyers).  
+Tritunggal suci belajar bahasa Jepang (untuk penggemar novel).  
 
-- Set up Yomichan [here](/yomichan)  
-- Itazuraneko in [Resources](/resources)  
-- EPUBs... many ways you can get them. ([Itazuraneko ebook list](https://itazuraneko.neocities.org/library/shousetu/shousetulist), Kindle 1.19 for Windows+[UnpackKindleS](https://github.com/Aeroblast/UnpackKindleS/releases), [PeepoHappyBooks](https://nyaa.si/view/1350523))  
+- Atur Yomichan [di sini](/yomichan)  
+- Itazuraneko di [Sumber](/resources)  
+- EPUBs... banyak cara untuk mendapatkannya. ([Daftar ebook Itazuraneko](https://itazuraneko.neocities.org/library/shousetu/shousetulist), Kindle 1.19 untuk Windows+[UnpackKindleS](https://github.com/Aeroblast/UnpackKindleS/releases), [PeepoHappyBooks](https://nyaa.si/view/1350523))  
 - [ッツ Reader](https://reader.ttsu.app/manage)  
 
 ### Manga
 
-Manga is good reading practice. Of course it is, there is no way it can't be.   
+Manga adalah latihan membaca yang baik. Tentu saja, tidak ada cara untuk tidak demikian.   
 
-But you should kind of be aware that they only have speech and short descriptions most of the time.  
+Tetapi Anda harus menyadari bahwa mereka hanya memiliki dialog dan deskripsi singkat sebagian besar waktu.  
 
-Nevertheless, they are still good for reading, and you can obviously learn tons of words from manga, and you'll get good at reading manga by reading a lot of manga.  
+Namun demikian, mereka masih baik untuk dibaca, dan Anda jelas dapat belajar banyak kata dari manga, dan Anda akan menjadi baik dalam membaca manga dengan membaca banyak manga.  
 
-### Yomichan, Mokuro, and a good OCR  
+### Yomichan, Mokuro, dan OCR yang baik  
 
-The holy trinity of Japanese learning (for manga enjoyers).  
+Tritunggal suci belajar bahasa Jepang (untuk penggemar manga).  
 
 ### Pomodoro / Timeboxing  
 
-This is another God tier strategy that I'd like to introduce to you.  
+Ini adalah strategi tingkat dewa lainnya yang ingin saya perkenalkan kepada Anda.  
 
-The Pomodoro method requires you to focus on a task for a set amount of time (usually 25 minutes), after which the timer rings and you take a short (5-minute) break.  
+Metode Pomodoro mengharuskan Anda untuk fokus pada tugas selama waktu yang ditentukan (biasanya 25 menit), setelah itu timer berbunyi dan Anda mengambil istirahat singkat (5 menit).  
 
-So you will be reading in 25 minute sessions.  
+Jadi Anda akan membaca dalam sesi 25 menit.  
 
-It doesn't really sound like much, but it is actually a very useful method.  
+Ini tidak terdengar banyak, tetapi sebenarnya ini adalah metode yang sangat berguna.  
 
-I usually drink water, get up, or walk around during break times; it helps to get refreshed before reading again.   
+Saya biasanya minum air, berdiri, atau berjalan-jalan selama waktu istirahat; ini membantu untuk menyegarkan diri sebelum membaca lagi.   
 
-Here's the Pomodoro timer that I use. **[Pomofocus.io](https://pomofocus.io/)**  
+Berikut adalah timer Pomodoro yang saya gunakan. **[Pomofocus.io](https://pomofocus.io/)**  
 
-The default settings are 25 minutes of focus, a 5 minute short break, and a 15 minute long break.  
+Pengaturan default adalah 25 menit fokus, 5 menit istirahat singkat, dan 15 menit istirahat panjang.  
 
-However, I feel like the 25 minutes are too much, so I recommend **20 minutes** instead.  
+Namun, saya merasa 25 menit terlalu banyak, jadi saya merekomendasikan **20 menit** sebagai gantinya.  
 
-You can click *Setting* at the top to change this. Also, I recommend you turn on Auto Start Breaks and Pomodoros.  
+Anda dapat mengklik *Pengaturan* di bagian atas untuk mengubah ini. Juga, saya merekomendasikan Anda mengaktifkan Istirahat dan Pomodoro Otomatis.  
 
-### The act of making reading a habit — baby steps!  
+### Tindakan menjadikan membaca sebagai kebiasaan — langkah kecil!  
 
-You aren't going to become a crazy reader seen at the top of TheMoeWay's Discord reading leaderboard overnight.  
+Anda tidak akan menjadi pembaca gila yang terlihat di puncak papan peringkat membaca Discord TheMoeWay dalam semalam.  
 
-You need to make reading a habit; read in amounts that are manageable for you every day.  
+Anda perlu menjadikan membaca sebagai kebiasaan; baca dalam jumlah yang dapat Anda kelola setiap hari.  
 
-And overtime, when you do this every day, it will become a habit, and you may feel like reading without thinking about "time to improve my Japanese," because reading every single day will become a normal thing for you.  
+Dan seiring waktu, ketika Anda melakukan ini setiap hari, itu akan menjadi kebiasaan, dan Anda mungkin merasa ingin membaca tanpa berpikir tentang "waktu untuk meningkatkan bahasa Jepang saya," karena membaca setiap hari akan menjadi hal yang normal bagi Anda.  
 
-### Setting yourself goals every day  
+### Menetapkan tujuan setiap hari  
 
-Setting yourself a goal that you can reach everyday is an amazing way to keep up motivation to read every day.  
+Menetapkan tujuan yang dapat Anda capai setiap hari adalah cara yang luar biasa untuk menjaga motivasi agar tetap membaca setiap hari.  
 
-Try to find a concrete goal for yourself.  
+Cobalah untuk menemukan tujuan konkret untuk diri Anda.  
 
-Try to read for how long you are willing to read for the day, and then check how many characters (if it's a digital novel or visual novel) or pages (if it's manga or physical novel) you managed to read.  
+Cobalah untuk membaca selama berapa lama Anda bersedia membaca untuk hari itu, dan kemudian periksa berapa banyak karakter (jika itu novel digital atau novel visual) atau halaman (jika itu manga atau novel fisik) yang berhasil Anda baca.  
 
-Then take that amount of characters or pages and increase it by a bit (round it up or something) and make that your goal to read every day.  
+Kemudian ambil jumlah karakter atau halaman itu dan tingkatkan sedikit (bulatkan ke atas atau sesuatu) dan jadikan itu sebagai tujuan Anda untuk membaca setiap hari.  
 
-### The usefulness of grammar study and some specific Yomichan dictionaries.  
+### Kegunaan studi tata bahasa dan beberapa kamus Yomichan tertentu.  
 
-Honestly grammar study is very useful for reading.  
+Jujur, studi tata bahasa sangat berguna untuk membaca.  
 
-If you haven't studied a lot of grammar and don't know all JLPT N5, N4, N3, N2 and N1 grammar points, then I highly recommend you study them. But I don't mean this to say "study JLPT grammar before reading." I mean, "study JLPT grammar to improve your reading, which you should be doing, probably right about now"  
+Jika Anda belum banyak mempelajari tata bahasa dan tidak tahu semua poin tata bahasa JLPT N5, N4, N3, N2, dan N1, maka saya sangat merekomendasikan Anda mempelajarinya. Tetapi saya tidak bermaksud mengatakan "pelajari tata bahasa JLPT sebelum membaca." Saya maksudkan, "pelajari tata bahasa JLPT untuk meningkatkan membaca Anda, yang seharusnya Anda lakukan, mungkin tepat sekarang."  
 
-I want you to watch [Cure Dolly's playlist](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj) (your basic fundamentals) then study JLPT grammar with [medamayaki's JLPT grammar deck](https://cdn.discordapp.com/attachments/778430038159655012/972368473751703572/Nihongo-Kyoshi-complete.apkg).  
+Saya ingin Anda menonton [daftar putar Cure Dolly](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj) (fundamental dasar Anda) kemudian pelajari tata bahasa JLPT dengan [deck tata bahasa JLPT medamayaki](https://cdn.discordapp.com/attachments/778430038159655012/972368473751703572/Nihongo-Kyoshi-complete.apkg).  
 
-Listen, I don't care if JLPT grammar is not "actually grammar."  
+Dengarkan, saya tidak peduli jika tata bahasa JLPT tidak "benar-benar tata bahasa."  
 
-They are useful to study because they are phrases and structures in Japanese that have a rather ambiguous meaning just from the words alone, so you are likely to miss them in immersion.  
+Mereka berguna untuk dipelajari karena mereka adalah frasa dan struktur dalam bahasa Jepang yang memiliki makna yang agak ambigu hanya dari kata-kata saja, jadi Anda mungkin akan melewatkannya dalam imersi.  
 
-You really can't go wrong studying JLPT grammar.  
+Anda benar-benar tidak bisa salah mempelajari tata bahasa JLPT.  
 
-Now, the Yomichan dictionaries I really want you to use are:   
+Sekarang, kamus Yomichan yang benar-benar ingin saya Anda gunakan adalah:   
 
-- EVERY GRAMMAR ONE  
+- SEMUA TATA BAHASA  
 - 実用日本語表現辞典  
-- Your favorite monolingual dictionary. (if you dont have a favourite then use either one of my favourites: 新明解国語辞典 第七版、明鏡国語辞典 第二版 (doesn't work with Anki, btw.) or 旺文社国語辞典 第十一版)  
+- Kamus monolingual favorit Anda. (jika Anda tidak memiliki favorit, maka gunakan salah satu favorit saya: 新明解国語辞典 第七版、明鏡国語辞典 第二版 (tidak berfungsi dengan Anki, btw.) atau 旺文社国語辞典 第十一版)  
 
-If you can't understand monolingual dictionaries yet, still keep them because if you ever get stuck on what a word actually means, the monolingual dictionary will come through.  
+Jika Anda belum bisa memahami kamus monolingual, tetap simpan karena jika Anda pernah terjebak dengan apa arti sebenarnya dari sebuah kata, kamus monolingual akan membantu.  
 
-### My Comprehension Tip 
+### Tips Pemahaman Saya 
 
-*This is a tip for more experienced learners*  
+*Ini adalah tips untuk pelajar yang lebih berpengalaman*  
 
-This is the only comprehension tip that actually works for me.  
+Ini adalah satu-satunya tips pemahaman yang benar-benar berhasil untuk saya.  
 
-The trick is to focus on nouns (and numbers).  
+Triknya adalah fokus pada kata benda (dan angka).  
 
-I came up with the idea when I noticed that when I read in English, the nouns stand out.  
+Saya mendapatkan ide ini ketika saya menyadari bahwa ketika saya membaca dalam bahasa Inggris, kata benda menonjol.  
 
-Nouns are names, people, objects, places, etc.  
+Kata benda adalah nama, orang, objek, tempat, dll.  
 
-I felt like there was some type of word hierarchy.  
+Saya merasa ada semacam hierarki kata.  
 
-Any nouns/numbers → "action" verbs → adjectives → "abstract" verbs.  
+Setiap kata benda/angka → kata kerja "aksi" → kata sifat → kata kerja "abstrak".  
 
-And of course, within nouns, there is also a noun hierarchy, with names, pronouns, and physical objects at the top.  
+Dan tentu saja, dalam kata benda, ada juga hierarki kata benda, dengan nama, kata ganti, dan objek fisik di atas.  
 
-I noticed that when I read Japanese, it feels a lot more hazy because my brain just doesn't make the nouns stand out more than adjectives or verbs.   
-I started to "focus" (I hate to use this term because that's not what I am actually doing, it's more like noticing) on the nouns in sentences and noticed how my comprehension skyrocketed without losing speed.  
+Saya menyadari bahwa ketika saya membaca bahasa Jepang, itu terasa jauh lebih kabur karena otak saya tidak membuat kata benda menonjol lebih dari kata sifat atau kata kerja.   
+Saya mulai "fokus" (saya tidak suka menggunakan istilah ini karena itu bukan yang saya lakukan, lebih seperti memperhatikan) pada kata benda dalam kalimat dan menyadari bagaimana pemahaman saya melonjak tanpa kehilangan kecepatan.  
 
-It can be a little tricky to notice nouns every time they come up, but trust me, this is an S-tier strategy, and all you need is practice.   
+Ini bisa sedikit sulit untuk memperhatikan kata benda setiap kali mereka muncul, tetapi percayalah, ini adalah strategi S-tier, dan yang Anda butuhkan hanyalah latihan.   
 
-### Comprehension Tip: Bilingual vs Monolingual: The difference between not knowing what's going on and actually understanding?
+### Tips Pemahaman: Bilingual vs Monolingual: Perbedaan antara tidak tahu apa yang terjadi dan benar-benar memahami?
 
-In many cases, yes.  
+Dalam banyak kasus, ya.  
 
-Bilingual definitions can be too ambiguous sometimes, so it is always best to check the monolingual dictionary.  
+Definisi bilingual bisa terlalu ambigu kadang-kadang, jadi selalu yang terbaik untuk memeriksa kamus monolingual.  
 
 ## Reading nayamigoto (aka: stuff you worry too much about)  
 
-### How many words you should I look up?    
+### Berapa banyak kata yang harus saya cari?    
 
-I don't know because I was looking up every single thing since the beginning, and I think it worked out fine?  
+Saya tidak tahu karena saya mencari setiap hal sejak awal, dan saya rasa itu berjalan dengan baik?  
 
-Yomichan makes everything so easy.  
+Yomichan membuat semuanya sangat mudah.  
 
-If I had to use copy paste into external apps or write out the word or even worse, use a physical dictionary then I would probably not look up many words.  
+Jika saya harus menyalin dan menempel ke aplikasi eksternal atau menulis kata tersebut atau bahkan lebih buruk, menggunakan kamus fisik, maka saya mungkin tidak akan mencari banyak kata.  
 
-But YOU are living in 2023. YOU have Yomichan. Take advantage of it.  
+Tetapi ANDA hidup di tahun 2023. ANDA memiliki Yomichan. Manfaatkan itu.  
 
-Install a frequency dictionary (I recommend JPDB) so you can see what words are actually common. Below 10,000 frequency is a sign that it comes up a lot in books and anime.  
+Instal kamus frekuensi (saya merekomendasikan JPDB) sehingga Anda dapat melihat kata-kata mana yang sebenarnya umum. Di bawah 10.000 frekuensi adalah tanda bahwa itu muncul banyak dalam buku dan anime.  
 
-### Reading Speed  
+### Kecepatan Membaca  
 
-I'm just going to go out and say this right now.  
+Saya akan langsung mengatakan ini sekarang.  
 
-You will only get faster at reading by reading more.  
+Anda hanya akan lebih cepat membaca dengan membaca lebih banyak.  
 
-You are only able to read at the speed you are reading at right now because that is the speed someone, who has read the amount you have and the material you have, would be reading at in a perfectly normal situation.  
+Anda hanya dapat membaca dengan kecepatan yang Anda baca saat ini karena itu adalah kecepatan seseorang, yang telah membaca jumlah yang Anda miliki dan materi yang Anda miliki, akan membaca dalam situasi yang sepenuhnya normal.  
 
 
-### READING SPEED TIPS AND TRICKS  
+### TIPS DAN TRIK KECEPATAN MEMBACA  
 
-I have some breaking news for you... the best way to increase your reading speed is to read more.  
+Saya memiliki berita penting untuk Anda... cara terbaik untuk meningkatkan kecepatan membaca Anda adalah dengan membaca lebih banyak.  
 
-But let me explain the magic behind it and the magic behind reading speed.  
+Tapi biarkan saya menjelaskan sihir di baliknya dan sihir di balik kecepatan membaca.  
 
-Reading speed is comprehension.  
+Kecepatan membaca adalah pemahaman.  
 
-When you read more, you will comprehend more.  
+Ketika Anda membaca lebih banyak, Anda akan memahami lebih banyak.  
 
-Do not be worrying about reading speed if you don't already understand a lot/know all of the words in most books!  
+Jangan khawatir tentang kecepatan membaca jika Anda belum memahami banyak/mengerti semua kata dalam sebagian besar buku!  
 
-#### **Q:** Should I read a lot of manga if I want to improve my Wikipedia reading speed?
+#### **Q:** Haruskah saya membaca banyak manga jika saya ingin meningkatkan kecepatan membaca Wikipedia saya?
 
-A: No. Specialization is required to get faster at reading at what you want.  
+A: Tidak. Spesialisasi diperlukan untuk menjadi lebih cepat dalam membaca apa yang Anda inginkan.  
 
 
-### Comprehension Nayamigoto Type 1  
+### Nayamigoto Pemahaman Tipe 1  
 
-Type 1: "I have been staring at this sentence/paragraph/word/thing for ages and I have no idea what it is saying."
+Tipe 1: "Saya telah menatap kalimat/paragraph/kata/hal ini selama berjam-jam dan saya tidak tahu apa yang dikatakannya."
 
-Solution?  
+Solusi?  
 
-The obvious thing to do is to look up the words and grammar used in the sentence, and also refer to the context (read previous lines).  
+Hal yang jelas untuk dilakukan adalah mencari kata-kata dan tata bahasa yang digunakan dalam kalimat, dan juga merujuk pada konteks (baca baris sebelumnya).  
 
-But what if you've already done that but still don't understand?  
+Tetapi bagaimana jika Anda sudah melakukan itu tetapi masih tidak mengerti?  
 
-The simple answer is to read more.  
+Jawaban sederhana adalah membaca lebih banyak.  
 
-Because comprehension is a gradual process.  
+Karena pemahaman adalah proses bertahap.  
 
-The factors that go into "comprehending/understanding" are much more broad than "knowing the word" and "having studied the grammar."
+Faktor-faktor yang terlibat dalam "memahami" jauh lebih luas daripada "mengetahui kata" dan "telah mempelajari tata bahasa."
 
-When you read more, you will see words used in many, many different contexts.  
+Ketika Anda membaca lebih banyak, Anda akan melihat kata-kata digunakan dalam banyak, banyak konteks yang berbeda.  
 
-And it is through your exposure to these words in various contexts that you will learn to comprehend more sentences.  
+Dan melalui paparan Anda terhadap kata-kata ini dalam berbagai konteks, Anda akan belajar untuk memahami lebih banyak kalimat.  
 
-As much as I don't like to admit it, there is another way of training comprehension too. And that is by analyzing the sentence by referring to grammar points, dictionary definitions, example sentences, HiNative and Yahoo!知恵袋 answers, etc. If you have the drive to do all of that, then I'd say you can't go wrong with that, but at the same time, there is no way you aren't improving by just reading more, so I would say this decision is all on you. Perhaps learning to balance analyzing with just reading more is a useful skill to have.  
+Sebanyak saya tidak suka mengakuinya, ada cara lain untuk melatih pemahaman juga. Dan itu adalah dengan menganalisis kalimat dengan merujuk pada poin tata bahasa, definisi kamus, contoh kalimat, jawaban HiNative dan Yahoo!知恵袋, dll. Jika Anda memiliki dorongan untuk melakukan semua itu, maka saya katakan Anda tidak bisa salah dengan itu, tetapi pada saat yang sama, tidak ada cara Anda tidak akan meningkat hanya dengan membaca lebih banyak, jadi saya akan mengatakan keputusan ini sepenuhnya ada pada Anda. Mungkin belajar untuk menyeimbangkan menganalisis dengan hanya membaca lebih banyak adalah keterampilan yang berguna untuk dimiliki.  
 
-Anyway, the ultimate solution is to try your best and read more.  
+Bagaimanapun, solusi utama adalah berusaha sebaik mungkin dan membaca lebih banyak.  
 
-### Comprehension Nayamigoto Type 1.5   
+### Pemahaman Nayamigoto Tipe 1.5   
 
-Type 1.5: "I have type 1 comprehension anxiety. I absolutely despise not understanding, I want to understand everything. I am a high believer in analyzing sentences. But how much should I actually do it?"   
+Tipe 1.5: "Saya memiliki kecemasan pemahaman tipe 1. Saya sangat membenci tidak mengerti, saya ingin memahami segalanya. Saya sangat percaya pada analisis kalimat. Tapi seberapa banyak saya harus melakukannya?"   
 
-And as a high believer in reading more and an ex-high believer in analyzing sentences, I'd say there is only so much comprehension you can get out of analyzing unfamiliar sentences; the learner that has read a ton will understand a lot more than the learner that just analyzes everything.  
+Sebagai seseorang yang sangat percaya pada membaca lebih banyak dan mantan penggemar analisis kalimat, saya katakan bahwa hanya ada begitu banyak pemahaman yang bisa Anda dapatkan dari menganalisis kalimat yang tidak dikenal; pelajar yang telah membaca banyak akan memahami jauh lebih banyak daripada pelajar yang hanya menganalisis segalanya.  
 
-Analyzing is by no means bad; I just think you should do it in moderation because reading more sentences will benefit you more than hyperfocusing on the same one.  
+Menganalisis bukanlah hal yang buruk; saya hanya berpikir Anda harus melakukannya dengan moderasi karena membaca lebih banyak kalimat akan lebih menguntungkan Anda daripada terlalu fokus pada yang sama.  
 
-### Comprehension Nayamigoto Type 1.5 Variation 2  
+### Pemahaman Nayamigoto Tipe 1.5 Variasi 2  
 
-Variation 2: "But wouldn't analyzing everything make me improve faster!"  
+Variasi 2: "Tapi bukankah menganalisis segalanya akan membuat saya lebih cepat berkembang!"  
 
-In my experience, it is nearly inevitable that you'll have the urge to analyze everything.  
+Dalam pengalaman saya, hampir tidak mungkin untuk tidak memiliki dorongan untuk menganalisis segalanya.  
 
-After all, it seems like a very good reading strategy, and it is, to a certain extent.  
+Bagaimanapun, itu tampak seperti strategi membaca yang sangat baik, dan memang demikian, sampai batas tertentu.  
 
-There are books I read 3 times (Volumes 1-3 of 龍ヶ嬢七々々の埋蔵金 each 3 times) and then some because I was doing sentence cards and mined unknown words from the books with their sentences, so I ended up reading the same sentences over and over again.  
+Ada buku yang saya baca 3 kali (Volume 1-3 dari 龍ヶ嬢七々々の埋蔵金 masing-masing 3 kali) dan beberapa lainnya karena saya melakukan kartu kalimat dan menambang kata-kata yang tidak dikenal dari buku dengan kalimatnya, jadi saya akhirnya membaca kalimat yang sama berulang kali.  
 
-I analyzed the crap out of those books.  
+Saya menganalisis buku-buku itu dengan sangat mendalam.  
 
-And guess what? When I went back and read those books after reading a lot of other books, I realized **how much I had missed**.  
+Dan tebak apa? Ketika saya kembali dan membaca buku-buku itu setelah membaca banyak buku lainnya, saya menyadari **betapa banyak yang saya lewatkan**.  
 
-This goes back to the whole "the person that reads a lot will understand more than the person that analyzes the same stuff."    
+Ini kembali ke seluruh "orang yang membaca banyak akan memahami lebih banyak daripada orang yang menganalisis hal yang sama."    
 
-You will come across a ton of sentences in a ton of contexts when you read more, and you'll improve a lot when doing so.  
+Anda akan menemukan banyak kalimat dalam banyak konteks ketika Anda membaca lebih banyak, dan Anda akan banyak berkembang saat melakukannya.  
 
-Now back to the question, would it make you improve faster than "just reading" more?  
+Sekarang kembali ke pertanyaan, apakah itu akan membuat Anda berkembang lebih cepat daripada "hanya membaca" lebih banyak?  
 
-Hard to say, but when reading, I always thought about what I was reading. I always thought about the meaning of what I was reading. I felt like everyone did this though, but sometimes you end up reading words without thinking about their meaning, which is another question I'd like to answer.  
-#### **Q:** What should I do when I end up reading words without thinking about their meaning?  
+Sulit untuk dikatakan, tetapi ketika membaca, saya selalu memikirkan apa yang saya baca. Saya selalu memikirkan arti dari apa yang saya baca. Saya merasa semua orang melakukan ini, tetapi terkadang Anda berakhir membaca kata-kata tanpa memikirkan artinya, yang merupakan pertanyaan lain yang ingin saya jawab.  
+#### **Q:** Apa yang harus saya lakukan ketika saya berakhir membaca kata-kata tanpa memikirkan artinya?  
 
-I think in every book they have those useless/less important lines, right? I think it is perfectly fine not to think too deeply about them.  
+Saya pikir di setiap buku ada kalimat yang tidak berguna/kurang penting, bukan? Saya pikir tidak masalah jika tidak memikirkan terlalu dalam tentang mereka.  
 
-And there are lines that make you want to stop reading sometimes, right? I think it's fine if you don't think deeply about them either.  
+Dan ada kalimat yang membuat Anda ingin berhenti membaca kadang-kadang, bukan? Saya pikir tidak masalah jika Anda tidak memikirkan terlalu dalam tentang mereka juga.  
 
-However everything else is a matter of a few different factors. There's comprehension, focus, and fatigue.  
+Namun, segala sesuatu yang lain adalah masalah dari beberapa faktor yang berbeda. Ada pemahaman, fokus, dan kelelahan.  
 
-With really hard sentences, it is very common to end up reading the words without taking in the meaning. Read the sentence again 2 times. If you don't understand it after that, it is way above your ability, and you should just move on. I know I sound like a broken record, but I'll say it again, you get better at reading harder sentences by reading more because you see words used in tons of different contexts.  
+Dengan kalimat yang sangat sulit, sangat umum untuk berakhir membaca kata-kata tanpa memahami maknanya. Bacalah kalimat itu lagi 2 kali. Jika Anda tidak memahaminya setelah itu, itu jauh di atas kemampuan Anda, dan Anda sebaiknya melanjutkan. Saya tahu saya terdengar seperti rekaman yang rusak, tetapi saya akan mengatakannya lagi, Anda menjadi lebih baik dalam membaca kalimat yang lebih sulit dengan membaca lebih banyak karena Anda melihat kata-kata digunakan dalam banyak konteks yang berbeda.  
 
-Losing focus when reading is actually a thing. And getting fatigued is also a thing. While I can't give much advice about maintaining focus other than getting rid of distractions, I can say fatigue happens at around 20 minutes of reading for me. After a Pomodoro break, I am able to read the same sentences with a new set of eyes.    
+Kehilangan fokus saat membaca adalah hal yang nyata. Dan kelelahan juga merupakan hal yang nyata. Meskipun saya tidak bisa memberikan banyak saran tentang mempertahankan fokus selain menghilangkan gangguan, saya bisa mengatakan bahwa kelelahan terjadi sekitar 20 menit membaca bagi saya. Setelah istirahat Pomodoro, saya dapat membaca kalimat yang sama dengan cara pandang yang baru.    
 
-Anyway, here's what you shouldn't forget:  
+Bagaimanapun, inilah yang tidak boleh Anda lupakan:  
 
-Is it enjoyable? ← This is the most important question.  
+Apakah itu menyenangkan? ← Ini adalah pertanyaan yang paling penting.  
 
-I am unable to draw an objective conclusion about analyzing everything vs. just reading, but what matters most is that you are having fun, being interested, and wanting to read.  
+Saya tidak dapat menarik kesimpulan objektif tentang menganalisis segalanya vs. hanya membaca, tetapi yang paling penting adalah Anda bersenang-senang, tertarik, dan ingin membaca.  
 
 
-### Comprehension Nayamigoto Type 2  
+### Pemahaman Nayamigoto Tipe 2  
 
-Type 2: "When I am reading for a while, my brain turns to mush, and I read too fast, and things slip through my comprehension."  
+Tipe 2: "Ketika saya membaca untuk sementara waktu, otak saya menjadi tidak berfungsi, dan saya membaca terlalu cepat, dan hal-hal terlewat dari pemahaman saya."  
 
-Honest advice: I think you should just suck it up and read slower. Also, take breaks. I often have times where, after a break, I comprehend the same sentences more.  
+Saran jujur: Saya pikir Anda sebaiknya bersikap tegas dan membaca lebih lambat. Juga, ambil istirahat. Saya sering mengalami saat-saat di mana, setelah istirahat, saya memahami kalimat yang sama lebih baik.  
 
-### Comprehension Nayamigoto Type 3
+### Pemahaman Nayamigoto Tipe 3
 
-Type 3: "I can read all the words, I know all their meanings, but I can't visualize the scene! I don't understand what is actually going on! I have to analyze and even then I have no clue what is happening. What should I do?"  
+Tipe 3: "Saya bisa membaca semua kata, saya tahu semua artinya, tetapi saya tidak bisa memvisualisasikan adegannya! Saya tidak mengerti apa yang sebenarnya terjadi! Saya harus menganalisis dan bahkan kemudian saya tidak punya petunjuk tentang apa yang terjadi. Apa yang harus saya lakukan?"  
 
-I know this is very hard for you, but here's what you need to do:
+Saya tahu ini sangat sulit bagi Anda, tetapi inilah yang perlu Anda lakukan:
 
-- <h3>Read more<h3>  
+- <h3>Baca lebih banyak<h3>  
 
 
 
-#### **Q:** Is that it? Come on! I'm sure there is something else I could do that would really improve my situation right now.  
+#### **Q:** Apakah itu saja? Ayo! Saya yakin ada sesuatu yang bisa saya lakukan yang benar-benar akan memperbaiki situasi saya sekarang.  
 
-A: Well everything boils down to "read more." I answered with "read more" because the theory behind it is: Your comprehension lacks because the kinds of sentences you struggle with are ones you are unfamiliar with. In language acquisition, force feeding yourself too-unfamiliar sentences is not as effective as understanding i+1 sentences. (Only one thing in the sentence that aren't so comfortable with; these "things" may not even be identifiable.) When you read more, **you will come across a crap ton of sentences**, and within these sentences, there will be plenty of i+1 sentences, and this is the peak of your language acquisition gains. As a result of reading a lot, you'll improve your Japanese and find it easier to understand those difficult sentences.  
+A: Nah, semuanya kembali ke "baca lebih banyak." Saya menjawab dengan "baca lebih banyak" karena teori di baliknya adalah: Pemahaman Anda kurang karena jenis kalimat yang Anda kesulitan adalah kalimat yang tidak Anda kenal. Dalam akuisisi bahasa, memaksa diri Anda untuk membaca kalimat yang terlalu tidak dikenal tidak seefektif memahami kalimat i+1. (Hanya satu hal dalam kalimat yang tidak begitu nyaman bagi Anda; "hal-hal" ini mungkin tidak dapat diidentifikasi.) Ketika Anda membaca lebih banyak, **Anda akan menemukan banyak kalimat**, dan di dalam kalimat-kalimat ini, akan ada banyak kalimat i+1, dan ini adalah puncak dari keuntungan akuisisi bahasa Anda. Sebagai hasil dari membaca banyak, Anda akan meningkatkan bahasa Jepang Anda dan menemukan lebih mudah untuk memahami kalimat-kalimat sulit itu.  
 
-### Comprehension Nayamigoto Type 4  
+### Pemahaman Nayamigoto Tipe 4  
 
-Type 4: "I've been studying for a while, with [x] method, I've learned [x] amount of words and grammar. However, when I try to read I don't know any of the words. Reading is a huge struggle. What should I do?"  
+Tipe 4: "Saya telah belajar selama beberapa waktu, dengan metode [x], saya telah mempelajari [x] jumlah kata dan tata bahasa. Namun, ketika saya mencoba membaca, saya tidak tahu kata-kata apa pun. Membaca adalah perjuangan besar. Apa yang harus saya lakukan?"  
 
-I'm sure you can already anticipate the answer.  
+Saya yakin Anda sudah bisa memperkirakan jawabannya.  
 
-Let me just go ahead and say it: It is impossible to get good at reading without reading. It is impossible to learn most of the words you need to a high degree of understanding just with Anki, without reading.  
+Izinkan saya untuk langsung mengatakan: Tidak mungkin untuk menjadi baik dalam membaca tanpa membaca. Tidak mungkin untuk mempelajari sebagian besar kata yang Anda butuhkan dengan tingkat pemahaman yang tinggi hanya dengan Anki, tanpa membaca.  
 
-There is nothing else you can be doing than reading more.  
+Tidak ada yang bisa Anda lakukan selain membaca lebih banyak.  
 
-Of course, you can study more grammar, and learn more vocab with Anki, which will of course help.  
+Tentu saja, Anda bisa mempelajari lebih banyak tata bahasa, dan mempelajari lebih banyak kosakata dengan Anki, yang tentu saja akan membantu.  
 
-But you will only get good at reading by reading more.  
+Tetapi Anda hanya akan menjadi baik dalam membaca dengan membaca lebih banyak.  
 
-### The case for reading faster  
+### Kasus untuk membaca lebih cepat  
 
-OK, in my experience, trying to make yourself read faster just makes you understand less. But we all want to be able to keep our comprehension whilst also reading faster, right? Yes, but you can only get to that level if you read a lot.  
+Oke, dalam pengalaman saya, mencoba membuat diri Anda membaca lebih cepat hanya membuat Anda memahami lebih sedikit. Tetapi kita semua ingin dapat mempertahankan pemahaman kita sambil juga membaca lebih cepat, bukan? Ya, tetapi Anda hanya bisa mencapai tingkat itu jika Anda membaca banyak.  
 
-If you a read a lot, you will end up reading sentences/words in clumps, right?  
+Jika Anda membaca banyak, Anda akan berakhir membaca kalimat/kata dalam kelompok, bukan?  
 
-I consciously made mental conceptualizations of parts of sentences in order to read them in clumps.  
+Saya secara sadar membuat konseptualisasi mental dari bagian-bagian kalimat untuk membacanya dalam kelompok.  
 
-This is just a fancy way of saying, *"This means [x] and there is no need to read word this for word. I'll keep a mental note/recognition of the fact that I can read this as a "shape" to get its meaning instead of reading it word for word"*
+Ini hanya cara yang rumit untuk mengatakan, *"Ini berarti [x] dan tidak perlu membaca ini kata demi kata. Saya akan menyimpan catatan mental/pengetahuan bahwa saya bisa membaca ini sebagai "bentuk" untuk mendapatkan maknanya daripada membacanya kata demi kata."*
 
-#### **Q:** No subvocalization = no comprehension?  
+#### **Q:** Tidak ada subvokal = tidak ada pemahaman?  
 
-In my experience, when the words/sentences you are choosing not to subvocalize are not that familiar to you (i.e., you cannot understand them just by glancing at them.) (An example that experienced readers should understand without reading it word for word is なければならない) then you will end up not understanding what it is actually saying.  
+Dalam pengalaman saya, ketika kata-kata/kalimat yang Anda pilih untuk tidak subvokal tidak begitu akrab bagi Anda (yaitu, Anda tidak dapat memahaminya hanya dengan melihatnya.) (Contoh yang harus dipahami oleh pembaca berpengalaman tanpa membacanya kata demi kata adalah なければならない) maka Anda akan berakhir tidak memahami apa yang sebenarnya dikatakan.  
 
-Subvocalizing is a useful reading technique, and most people do it; if you read a lot, your subvocalization will just get faster.  
+Subvokal adalah teknik membaca yang berguna, dan kebanyakan orang melakukannya; jika Anda membaca banyak, subvokalisasi Anda hanya akan semakin cepat.  
 
-So don't stop subvocalizing because you think it's slowing you down. It is not. The only things slowing you down are: You worrying too much about speed and character count, the fact that you haven't read enough, and the fact that it is pretty much common sense that you wouldn't be lightning fast at reading a text in a language you basically don't have much experience with when compared to a native.  
+Jadi jangan berhenti subvokal karena Anda berpikir itu memperlambat Anda. Itu tidak. Satu-satunya hal yang memperlambat Anda adalah: Anda terlalu khawatir tentang kecepatan dan jumlah karakter, fakta bahwa Anda belum membaca cukup, dan fakta bahwa itu adalah hal yang cukup umum bahwa Anda tidak akan sangat cepat dalam membaca teks dalam bahasa yang pada dasarnya Anda tidak memiliki banyak pengalaman dibandingkan dengan penutur asli.  
 
-<h3><strong>Reading more is the crux of increasing reading speed, so don't forget!</strong></h3>  
+<h3><strong>Membaca lebih banyak adalah inti dari meningkatkan kecepatan membaca, jadi jangan lupakan!</strong></h3>  
 
 
-### I can't read! I am not a reader in my native lang! I am too dumb/adhd/young/bad memory to read!
+### Saya tidak bisa membaca! Saya bukan pembaca dalam bahasa asli saya! Saya terlalu bodoh/adhd/muda/memori buruk untuk membaca!
 <h2><strong>C O P E.</strong></h2>  
 
-And a cope I lived with until I realized all you need is a good book.  
+Dan itu adalah cara yang saya jalani sampai saya menyadari yang Anda butuhkan hanyalah buku yang bagus.  
 
-And timeboxing.  
-
-
+Dan pengaturan waktu.  
 
 
-### OK BUT how MUCH do I have to read???
 
-It's a silly question because you never stop reading because you can always improve.
 
-But how much do you need to read in order to get really proficient, you may ask?  
+### OK TAPI SEBERAPA BANYAK saya harus membaca???
 
-I don't know the exact number, but after 300 novels, you would be pretty good.  
+Ini adalah pertanyaan konyol karena Anda tidak pernah berhenti membaca karena Anda selalu bisa meningkatkan.
 
-If you mine the entirety of 30 to 40 novels and use monolingual dictionaries, you will have a very large vocabulary and will understand a lot more from listening and so on.
+Tetapi seberapa banyak Anda perlu membaca untuk menjadi benar-benar mahir, mungkin Anda bertanya?  
 
-But knowing the words is only the beginning of being a proficient reader imo.  
+Saya tidak tahu angka pastinya, tetapi setelah 300 novel, Anda akan cukup baik.  
 
-Anyway, stop worrying about how much you need to read because it's a waste of time calculating how many books you need to read until you never look at text again.  
+Jika Anda menambang seluruh 30 hingga 40 novel dan menggunakan kamus monolingual, Anda akan memiliki kosakata yang sangat besar dan akan memahami jauh lebih banyak dari mendengarkan dan sebagainya.
 
-## Shameless plug  
+Tetapi mengetahui kata-kata hanyalah awal dari menjadi pembaca yang mahir menurut saya.  
 
-I make everything for free (and intend to continue making everything free), but I would highly appreciate some Patreon subs.
+Bagaimanapun, berhentilah khawatir tentang seberapa banyak Anda perlu membaca karena itu adalah pemborosan waktu untuk menghitung berapa banyak buku yang perlu Anda baca sampai Anda tidak pernah melihat teks lagi.  
+
+## Promosi tanpa rasa malu  
+
+Saya membuat semuanya secara gratis (dan berniat untuk terus membuat semuanya gratis), tetapi saya sangat menghargai beberapa dukungan Patreon.
 
 [:fontawesome-brands-patreon: パトロンになる](https://www.patreon.com/shoui){: .md-button }   
