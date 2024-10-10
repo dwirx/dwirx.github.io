@@ -1,46 +1,45 @@
-# Anime Japanese
+# Bahasa Jepang Anime
 
 ![LoveLive! Muse](img/muse1_crop.jpg)
 
-In the Japanese learning world, it is common to come across the saying, "Don't/You can't learn Japanese from anime, no one talks that way!". However, this is in fact, false.
-First, let's consider just exactly why this argument exists in the first place.
-Usually when people say this, they don't know why the argument exists anyway, in other words, most people saying this don't know what they're talking about.
-The argument comes from the fact that if you learn Japanese using anime, you will think, "おい、てめぇなにやってんだ！コラァ！" and "ちっ、オラぁ一番強ぇんだぜ", "コラァ！何ブツブツ言ってんだ？打っ殺すぞ！" is natural. (Just imagine some very cringe and rude things if you cant read it haha)
-In actual fact, this is not true at all.
-It is important to remember that every anime is different, some speak more natural than others, some may sound more masculine than others, some may sound more feminine than others. For example, "Kimi no Na wa." is more natural than "Dragon Ball Z".
-And "Love Live!" is more natural than "Kill la Kill".
-In anime such as "Kaguya-sama wa Kokurasetai: Tensai-tachi no Ren'ai Zunousen", each character speaks different. Some characters speak like an "anime", while others actually sound pretty natural.
-Second, please take time to think: "What is "real" Japanese?"
+Dalam dunia pembelajaran bahasa Jepang, umum untuk mendengar ungkapan, "Jangan/Anda tidak bisa belajar bahasa Jepang dari anime, tidak ada yang berbicara seperti itu!". Namun, ini sebenarnya salah.
+Pertama, mari kita pertimbangkan mengapa argumen ini ada di tempat pertama.
+Biasanya ketika orang mengatakan ini, mereka tidak tahu mengapa argumen ini ada, dengan kata lain, kebanyakan orang yang mengatakan ini tidak tahu apa yang mereka bicarakan.
+Argumen ini berasal dari fakta bahwa jika Anda belajar bahasa Jepang menggunakan anime, Anda akan berpikir, "おい、てめぇなにやってんだ！コラァ！" dan "ちっ、オラぁ一番強ぇんだぜ", "コラァ！何ブツブツ言ってんだ？打っ殺すぞ！" adalah hal yang alami. (Bayangkan beberapa hal yang sangat cringe dan kasar jika Anda tidak bisa membacanya haha)
+Sebenarnya, ini sama sekali tidak benar.
+Penting untuk diingat bahwa setiap anime berbeda, beberapa berbicara lebih alami daripada yang lain, beberapa mungkin terdengar lebih maskulin daripada yang lain, beberapa mungkin terdengar lebih feminin daripada yang lain. Misalnya, "Kimi no Na wa." lebih alami daripada "Dragon Ball Z".
+Dan "Love Live!" lebih alami daripada "Kill la Kill".
+Dalam anime seperti "Kaguya-sama wa Kokurasetai: Tensai-tachi no Ren'ai Zunousen", setiap karakter berbicara berbeda. Beberapa karakter berbicara seperti "anime", sementara yang lain sebenarnya terdengar cukup alami.
+Kedua, luangkan waktu untuk berpikir: "Apa itu bahasa Jepang yang 'nyata'?"
 
-### "Real" Japanese
+### Bahasa Jepang "Nyata"
 
-Anime is often argued to be not "real" Japanese. People arguing this only say this because it is different from the artificial, watered-down mess they learn in the textbooks. In fact, textbook Japanese is very unnatural, and can be argued that it is not "real" Japanese.
-There's many forms of Japanese. Just like how there are many forms of English. Do you speak in the same exact way as someone else you know? Probably not. But does this mean they are wrong and their English is not "real"? Absolutely not. 
-Each person is unique to their own idiolects, different places have their own dialects, and so on. There are billions of different kinds of Japanese, so much so that it is not possible to point to a single form of Japanese and say that that one is the "real" Japanese.
-Anime in fact, is actually sometimes pretty natural, when I have conversations with Japanese friends what they say is close to what I've heard in anime before.
-Meanwhile, I have yet to experience Japanese people speaking sentences from textbooks. IN FACT... in *Terrace House* (the reality show with natural unscripted Japanese) they were making fun of textbook Japanese!
+Anime sering kali diperdebatkan sebagai bukan bahasa Jepang yang "nyata". Orang-orang yang berargumen ini hanya mengatakan ini karena berbeda dari kekacauan buatan yang mereka pelajari di buku teks. Faktanya, bahasa Jepang dalam buku teks sangat tidak alami, dan bisa diperdebatkan bahwa itu bukan bahasa Jepang yang "nyata".
+Ada banyak bentuk bahasa Jepang. Sama seperti ada banyak bentuk bahasa Inggris. Apakah Anda berbicara dengan cara yang sama persis seperti orang lain yang Anda kenal? Mungkin tidak. Tapi apakah ini berarti mereka salah dan bahasa Inggris mereka bukan "nyata"? Tentu saja tidak.
+Setiap orang unik dengan idiolek mereka sendiri, tempat yang berbeda memiliki dialek mereka sendiri, dan seterusnya. Ada miliaran jenis bahasa Jepang yang berbeda, sehingga tidak mungkin untuk menunjuk satu bentuk bahasa Jepang dan mengatakan bahwa itu adalah bahasa Jepang yang "nyata".
+Anime sebenarnya, kadang-kadang cukup alami, ketika saya berbicara dengan teman-teman Jepang, apa yang mereka katakan mendekati apa yang saya dengar di anime sebelumnya.
+Sementara itu, saya belum pernah mengalami orang Jepang berbicara kalimat dari buku teks. FAKTANYA... di *Terrace House* (acara realitas dengan bahasa Jepang yang alami dan tidak terencana) mereka sedang mengejek bahasa Jepang dari buku teks!
 
-### So what exactly is real Japanese?
+### Jadi apa sebenarnya bahasa Jepang yang nyata?
 
-Simple Answer. Japanese made by a NATIVE FOR NATIVES. Anime is scripted by natives. Movies are scripted by natives. J-Drama is scripted by natives. These content are made for Japanese people, and aren't necessarily intended for learning but surprisingly they are an incredibly powerful tool for learning.
-Textbooks, although they may be written by a native, they are made for foreigners. The Japanese gets watered down, artificial and filtered, for foreigners. That's why you shouldn't use content dumbed down for learners unless you are starting Japanese from scratch, in that case it is okay, but you should let go of it as soon as possible.
+Jawaban sederhana. Bahasa Jepang yang dibuat oleh PENUTUR ASLI UNTUK PENUTUR ASLI. Anime ditulis oleh penutur asli. Film ditulis oleh penutur asli. J-Drama ditulis oleh penutur asli. Konten ini dibuat untuk orang Jepang, dan tidak selalu dimaksudkan untuk pembelajaran tetapi secara mengejutkan mereka adalah alat yang sangat kuat untuk belajar.
+Buku teks, meskipun mungkin ditulis oleh penutur asli, dibuat untuk orang asing. Bahasa Jepang menjadi encer, buatan dan disaring, untuk orang asing. Itulah sebabnya Anda tidak boleh menggunakan konten yang disederhanakan untuk pelajar kecuali Anda memulai bahasa Jepang dari awal, dalam hal ini tidak apa-apa, tetapi Anda harus melepaskannya sesegera mungkin.
 
-###Do not generalize Anime!
+### Jangan menggeneralisasi Anime!
 
-It is annoying to constantly hear people saying that anime will make you always sound like you're about to kill someone, as demonstrated earlier. This is just people picking examples of anime that fit their argument, and completely disregarding the plethora of natural-talking anime that exist.
-Older anime sometimes have unusual, outdated slang, take for example, "ダチ" slang for *a friend* is pretty outdated by today and would sound funny if you said it to a Japanese person. 
-Anime makes use of [役割語](https://en.wikipedia.org/wiki/Yakuwarigo) *yakuwarigo* (role language), where the use of language is changed to fit how the character is like. For example, the anime villain may say [貴様](https://jisho.org/word/%E8%B2%B4%E6%A7%98) *kisama*, or [てめぇ](https://jisho.org/search/%E3%81%A6%E3%82%81%E3%81%87%20%23sentences) a lot of the time, but anyone with a brain would know they shouldn't talk like that guy, so you won't end up saying it to a Japanese person.
-Because anime makes use of 役割語, you will get a **broad sense of immersion** which means you would know what sounds masculine, what sounds feminine, arrogant, polite, sarcastic etc. Which makes it a very **valuable immersion resource.** Not every anime character sounds like Gokuu or Naruto or some other shounen MC, like I said, every anime is different, "Kimi no Na wa." actually sounds pretty natural.
-### Why you should learn from anime
-1. Widely available. There is a big community effort to make just about every anime available for free even on public trackers like Nyaa.si.
-2. No one is new to anime. You're learning Japanese, chances are anime was your motivation to start learning. Why not learn from the very thing that wanted to make you start learning the language?
-3. A wide sense of 役割語. This is essential.
-4. Close to real life speech, depending on what anime you watch. (e.g. Shinkai Makoto movies)
-5. Way better than boring textbooks, in terms of the actual Japanese and how much fun you're having too.
+Sangat menjengkelkan untuk terus mendengar orang mengatakan bahwa anime akan membuat Anda selalu terdengar seperti Anda akan membunuh seseorang, seperti yang ditunjukkan sebelumnya. Ini hanya orang-orang yang memilih contoh anime yang sesuai dengan argumen mereka, dan sepenuhnya mengabaikan banyak anime yang berbicara secara alami yang ada.
+Anime lama kadang-kadang memiliki slang yang tidak biasa dan ketinggalan zaman, ambil contoh, "ダチ" slang untuk *teman* cukup ketinggalan zaman saat ini dan akan terdengar lucu jika Anda mengatakannya kepada orang Jepang.
+Anime menggunakan [役割語](https://en.wikipedia.org/wiki/Yakuwarigo) *yakuwarigo* (bahasa peran), di mana penggunaan bahasa diubah untuk sesuai dengan karakter. Misalnya, penjahat anime mungkin sering mengatakan [貴様](https://jisho.org/word/%E8%B2%B4%E6%A7%98) *kisama*, atau [てめぇ](https://jisho.org/search/%E3%81%A6%E3%82%81%E3%81%87%20%23sentences) banyak sekali, tetapi siapa pun yang memiliki otak akan tahu bahwa mereka tidak seharusnya berbicara seperti orang itu, jadi Anda tidak akan mengatakannya kepada orang Jepang.
+Karena anime menggunakan 役割語, Anda akan mendapatkan **rasa imersi yang luas** yang berarti Anda akan tahu apa yang terdengar maskulin, apa yang terdengar feminin, angkuh, sopan, sarkastik, dll. Ini menjadikannya **sumber imersi yang sangat berharga.** Tidak setiap karakter anime terdengar seperti Gokuu atau Naruto atau MC shounen lainnya, seperti yang saya katakan, setiap anime berbeda, "Kimi no Na wa." sebenarnya terdengar cukup alami.
+### Mengapa Anda harus belajar dari anime
+1. Tersedia secara luas. Ada upaya komunitas besar untuk membuat hampir setiap anime tersedia secara gratis bahkan di pelacak publik seperti Nyaa.si.
+2. Tidak ada yang baru dalam anime. Anda sedang belajar bahasa Jepang, kemungkinan besar anime adalah motivasi Anda untuk mulai belajar. Mengapa tidak belajar dari hal yang ingin membuat Anda mulai belajar bahasa?
+3. Rasa 役割語 yang luas. Ini sangat penting.
+4. Dekat dengan percakapan kehidupan nyata, tergantung pada anime yang Anda tonton. (misalnya film Shinkai Makoto)
+5. Jauh lebih baik daripada buku teks yang membosankan, dalam hal bahasa Jepang yang sebenarnya dan seberapa banyak Anda bersenang-senang juga.
 
 ![LoveLive! Muse](img/muse2_crop.jpg)
-PS: Your anime needs to have either **Japanese subtitles** or in **entirely raw.**
-People on Reddit may argue that people have watched anime for so long with English subtitles but still don't know Japanese, they're right. However, we don't use English subtitles, we watch raw or with Japanese subtitles at least.
+PS: Anime Anda perlu memiliki **subtitle Jepang** atau dalam **bentuk mentah sepenuhnya.**
+Orang-orang di Reddit mungkin berargumen bahwa orang-orang telah menonton anime selama begitu lama dengan subtitle bahasa Inggris tetapi masih tidak tahu bahasa Jepang, mereka benar. Namun, kami tidak menggunakan subtitle bahasa Inggris, kami menonton mentah atau dengan subtitle Jepang setidaknya.
 
-
-Have fun immersing! :smile:
+Selamat bersenang-senang dengan imersi! :smile:
