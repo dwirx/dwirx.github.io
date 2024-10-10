@@ -1,271 +1,367 @@
-# Japanese FAQ
-Welcome to the Japanese FAQ. This is probably the most complete Japanese FAQ you can find anywhere.
+# FAQ Bahasa Jepang
+Selamat datang di FAQ Bahasa Jepang. Ini mungkin adalah FAQ Bahasa Jepang yang paling lengkap yang dapat Anda temukan di mana saja.
 
-Due to the FAQ becoming ridiculously long, it can be hard to quickly find what you want. In that case, use the search bar or ++ctrl+f++. 
+Karena FAQ ini menjadi sangat panjang, mungkin sulit untuk dengan cepat menemukan apa yang Anda inginkan. Dalam hal ini, gunakan bilah pencarian atau ++ctrl+f++.
 
+### Mengapa FAQ ini dibuat
 
-### Why this FAQ was made
+FAQ ini bertujuan untuk membantu Anda dalam belajar mandiri. Ketika datang untuk belajar bahasa Jepang, hampir tidak mungkin Anda tidak akan sering bertanya tentang banyak hal. Saya tidak akan selalu ada di sini untuk membantu Anda, jadi saya lebih baik menumpahkan semua pengetahuan saya di sini. Saya yakin pertanyaan Anda akan terjawab di FAQ ini. Jika tidak, saya bersedia menjawab pertanyaan apa pun yang Anda miliki jika Anda berlangganan Patreon saya.
 
-This FAQ aims to assist you with your self study. When it comes to learning Japanese, it is almost inevitable that you will often wonder about a lot of things. I’m not going to always be here to help you out, so I might as well dump all my knowledge here. I am sure your question will be answered in this FAQ. If not, I'm willing to answer any question you have if you sub to my Patreon.
-### How do I learn Japanese?
-Through massive amounts of *input*, in other words **immersion.** See [the guide](/guide) for more info.
-### Can you teach me Japanese?
-It is a common misconception that someone can just "teach" you the language and expect to make any meaningful progress, if at all. Learning a language requires personal study. You need to learn it yourself. Read my guide to get started.
-### Where can I find a Japanese language tutor?
-You don’t need one. Why? Because you can self study. Anyone can self study. It is not as hard as you think. It will actually be easier since you can go at your own pace and study with what you like such as anime. I think tutors/teachers will slow you down.
-### When will I be fluent?
-It heavily depends on your method (*how* you are learning Japanese) and how long you spend learning Japanese per day. But assuming everything is done correctly, a generous estimate would be 4 years with 6 hours per day. 
-### You say listen and read, but what should I listen to and read?
-Raw anime, untranslated manga, light novels and visual novels. Unsubbed J-drama, Unsubbed Japanese Movies. In other words… **NATIVE CONTENT: CONTENT MADE BY NATIVES, FOR NATIVES**
-### When should I start using Anki?
-You can start to use Anki whenever you want actually, you can even learn the kana with it. However I recommend you start using Anki when you already have a grasp of the kana and basic grammar, after that you can download and start working on the Kaishi 1.5k Anki deck. (Mining comes after)
-### When (what time of day) should I do Anki?
-I recommend doing Anki the first thing in the morning. (As early as possible)
-### How long should I spend on Anki?
-No more than 1 hour per day. Prioritise immersion time, not flashcards. They are only a supplement to your immersion. 
-### About grammar, should I do Tae Kim or Cure Dolly? Pls answer
-Do what works for you!  
-### My JLPT N3 friend told me.... Blah blah blah blah
-Well you can pay a visit to TheMoeWay Discord where you can challenge their claims to the hundreds of members far above that level.  
-### Easiest anime/manga/light novel/visual novel?
-Mitsuboshi Colors/Yotsubato!/GJ bu/Hanahira  
-### How to study kanji?
-By reading. Just read, look up words. If you can read the words in their kanji in this sentence: うさぎには様々な種類がいるのをご存知ですか？。then you “know” the kanji. If you look up the words and then remember them then you'll know more kanji, well done.
-### How much kanji are used in Japanese?
-The 常用 (Jouyou, kanji required to be taught in the Japanese school curriculum) kanji list has 2136 kanji. But don’t let this fool you. Approximately 3000 kanji are used in Japanese, outside of newspapers and JLPT/learner oriented material. Don’t worry too much about how much kanji are used in Japanese. I literally only think about how much kanji are used when I write guides and FAQs such as this one, it’s pretty irrelevant. You should just read.
-### How do I look up words easier on webpages?
-Yomitan. You can find it on the Chrome Web Store or whatever Firefox uses. Load dictionaries into it and hover over text while holding the ++shift++ key. I went into more detail in [Yomitan Guide](/yomichan) , so check that out.
-### How do I look up words easier in manga?
-[Mokuro](https://www.mokuro.moe/)  
-### How do I look up words?
-Using yomitan.  
-### How to learn Japanese slang monolingually? Most J-J dictionaries don’t have slang
-Using the yomitan dictionaries in my collection.  
-### Is it useful learning kanji radicals?
-You don’t need them but if kanji still look like scribbles to you after months of reading, then you might want to do RRTK 450.
-### I have extreme difficulty remembering a certain word/kanji (outside of SRS)
-Read more. Listen more. You don’t need to believe me if you don’t want to but you will eventually remember it with more immersion. I kept on forgetting 蝸牛[かたつむり] no matter how much times I looked it up, or so I thought. After about my 80th look-up I was able to remember it. So yeah. Or you could make an Anki card for it…
-### I am trying to learn grammar but I keep on forgetting the grammar points and I don’t understand the grammar points.
-Try to rethink your approach to grammar. You need to immerse while following a grammar guide. Recommended grammar guides include Tae Kim and Cure Dolly. You can find these in [Resources](/resources). Listen more. Read more.
-### Is remembering the kanji form of words usually written in kana useful? For example 蒟蒻 is the kanji form of コンニャク
-Yes.
-### Best dictionary for first-time monolingual users?
-There is no single dictionary I can point to and say it's the best. Every dictionary has their weak points and strong points. Use every dictionary together. If you’re interested in my order of dictionaries in Yomichan, you can find that at [Monolingual Guide](/monolingual)
-### I don’t understand this sentence even though I know all the words.
-Just forget about it for now. Listen more. Read more. It will come to you soon.
-### When I’m listening I don’t understand but when I looked at the subtitles/transcript I actually knew the words, why is this?
-You need to listen more. Stop using subtitles.
-### When I’m reading I don’t understand, and I even looked up the words…
-Read more.
-### Increase reading speed???
-Read more.
-### Can I use Japanese music to learn Japanese?
-By just listening to it? No.
-What you can do is look at the lyric sheet and look up the words.
-### But they don’t speak like real life in anime though?
+### Bagaimana cara saya belajar bahasa Jepang?
+Melalui banyak *input*, dengan kata lain **immersi.** Lihat [panduan](/guide) untuk informasi lebih lanjut.
+
+### Bisakah Anda mengajari saya bahasa Jepang?
+Ini adalah kesalahpahaman umum bahwa seseorang dapat "mengajari" Anda bahasa tersebut dan mengharapkan kemajuan yang berarti, jika ada. Belajar bahasa memerlukan studi pribadi. Anda perlu belajar sendiri. Bacalah panduan saya untuk memulai.
+
+### Di mana saya bisa menemukan tutor bahasa Jepang?
+Anda tidak membutuhkannya. Kenapa? Karena Anda bisa belajar sendiri. Siapa pun bisa belajar sendiri. Ini tidak sesulit yang Anda pikirkan. Sebenarnya akan lebih mudah karena Anda bisa belajar dengan kecepatan Anda sendiri dan dengan apa yang Anda suka seperti anime. Saya pikir tutor/guru akan memperlambat Anda.
+
+### Kapan saya akan fasih?
+Ini sangat tergantung pada metode Anda (*bagaimana* Anda belajar bahasa Jepang) dan berapa lama Anda menghabiskan waktu untuk belajar bahasa Jepang setiap hari. Tetapi dengan asumsi semuanya dilakukan dengan benar, perkiraan yang baik adalah 4 tahun dengan 6 jam per hari.
+
+### Anda bilang dengarkan dan baca, tetapi apa yang harus saya dengarkan dan baca?
+Anime mentah, manga yang tidak diterjemahkan, novel ringan, dan novel visual. J-drama tanpa subtitle, film Jepang tanpa subtitle. Dengan kata lain… **KONTEN ASLI: KONTEN YANG DIBUAT OLEH ORANG ASLI, UNTUK ORANG ASLI**
+
+### Kapan saya harus mulai menggunakan Anki?
+Anda bisa mulai menggunakan Anki kapan saja sebenarnya, Anda bahkan bisa belajar kana dengan itu. Namun, saya sarankan Anda mulai menggunakan Anki ketika Anda sudah memahami kana dan tata bahasa dasar, setelah itu Anda bisa mengunduh dan mulai bekerja pada dek Anki Kaishi 1.5k. (Mining datang setelahnya)
+
+### Kapan (jam berapa) saya harus melakukan Anki?
+Saya sarankan melakukan Anki pertama kali di pagi hari. (Sebisa mungkin)
+
+### Berapa lama saya harus menghabiskan waktu di Anki?
+Tidak lebih dari 1 jam per hari. Utamakan waktu immersi, bukan kartu flash. Mereka hanya merupakan suplemen untuk immersi Anda.
+
+### Tentang tata bahasa, apakah saya harus menggunakan Tae Kim atau Cure Dolly? Tolong jawab
+Lakukan apa yang cocok untuk Anda!
+
+### Teman saya yang JLPT N3 bilang.... Blah blah blah blah
+Nah, Anda bisa mengunjungi Discord TheMoeWay di mana Anda bisa menantang klaim mereka kepada ratusan anggota yang jauh di atas level itu.
+
+### Anime/manga/novel ringan/novel visual termudah?
+Mitsuboshi Colors/Yotsubato!/GJ bu/Hanahira
+
+### Bagaimana cara belajar kanji?
+Dengan membaca. Cukup baca, cari kata. Jika Anda bisa membaca kata-kata dalam kanji dalam kalimat ini: うさぎには様々な種類がいるのをご存知ですか？. maka Anda “tahu” kanji tersebut. Jika Anda mencari kata-kata dan kemudian mengingatnya, maka Anda akan tahu lebih banyak kanji, selamat.
+
+### Berapa banyak kanji yang digunakan dalam bahasa Jepang?
+Daftar kanji 常用 (Jouyou, kanji yang diperlukan untuk diajarkan dalam kurikulum sekolah Jepang) memiliki 2136 kanji. Tetapi jangan biarkan ini menipu Anda. Sekitar 3000 kanji digunakan dalam bahasa Jepang, di luar surat kabar dan materi yang ditujukan untuk JLPT/pembelajar. Jangan terlalu khawatir tentang berapa banyak kanji yang digunakan dalam bahasa Jepang. Saya benar-benar hanya memikirkan berapa banyak kanji yang digunakan ketika saya menulis panduan dan FAQ seperti ini, itu cukup tidak relevan. Anda seharusnya hanya membaca.
+
+### Bagaimana cara saya mencari kata dengan lebih mudah di halaman web?
+Yomitan. Anda dapat menemukannya di Chrome Web Store atau apa pun yang digunakan Firefox. Muat kamus ke dalamnya dan arahkan kursor ke teks sambil menahan tombol ++shift++ . Saya menjelaskan lebih detail di [Panduan Yomitan](/yomichan), jadi periksa itu.
+
+### Bagaimana cara saya mencari kata dengan lebih mudah di manga?
+[Mokuro](https://www.mokuro.moe/)
+
+### Bagaimana cara saya mencari kata?
+Menggunakan yomitan.
+
+### Bagaimana cara belajar bahasa Jepang slang secara monolingual? Kebanyakan kamus J-J tidak memiliki slang
+Menggunakan kamus yomitan dalam koleksi saya.
+
+### Apakah berguna belajar radikal kanji?
+Anda tidak membutuhkannya tetapi jika kanji masih terlihat seperti coretan bagi Anda setelah berbulan-bulan membaca, maka Anda mungkin ingin melakukan RRTK 450.
+
+### Saya sangat kesulitan mengingat kata/kanji tertentu (di luar SRS)
+Baca lebih banyak. Dengarkan lebih banyak. Anda tidak perlu mempercayai saya jika Anda tidak mau tetapi Anda pada akhirnya akan mengingatnya dengan lebih banyak immersi. Saya terus lupa 蝸牛[かたつむり] tidak peduli berapa kali saya mencarinya, atau begitu saya pikir. Setelah sekitar pencarian ke-80 saya bisa mengingatnya. Jadi ya. Atau Anda bisa membuat kartu Anki untuk itu...
+
+### Saya mencoba belajar tata bahasa tetapi saya terus lupa poin-poin tata bahasa dan saya tidak mengerti poin-poin tata bahasa.
+Cobalah untuk memikirkan kembali pendekatan Anda terhadap tata bahasa. Anda perlu melakukan immersi sambil mengikuti panduan tata bahasa. Panduan tata bahasa yang direkomendasikan termasuk Tae Kim dan Cure Dolly. Anda dapat menemukan ini di [Sumber](/resources). Dengarkan lebih banyak. Bacalah lebih banyak.
+
+### Apakah mengingat bentuk kanji dari kata-kata yang biasanya ditulis dalam kana berguna? Misalnya 蒟蒻 adalah bentuk kanji dari コンニャク
+Ya.
+
+### Kamus terbaik untuk pengguna monolingual pemula?
+Tidak ada kamus tunggal yang bisa saya tunjukkan dan katakan itu yang terbaik. Setiap kamus memiliki titik lemah dan kekuatan mereka. Gunakan setiap kamus bersama-sama. Jika Anda tertarik dengan urutan kamus saya di Yomichan, Anda dapat menemukannya di [Panduan Monolingual](/monolingual)
+
+### Saya tidak mengerti kalimat ini meskipun saya tahu semua kata.
+Lupakan saja untuk sekarang. Dengarkan lebih banyak. Bacalah lebih banyak. Itu akan datang kepada Anda segera.
+
+### Ketika saya mendengarkan saya tidak mengerti tetapi ketika saya melihat subtitle/transkrip saya sebenarnya tahu kata-katanya, mengapa ini?
+Anda perlu mendengarkan lebih banyak. Hentikan penggunaan subtitle.
+
+### Ketika saya membaca saya tidak mengerti, dan saya bahkan sudah mencari kata-katanya...
+Baca lebih banyak.
+
+### Meningkatkan kecepatan membaca???
+Baca lebih banyak.
+
+### Bisakah saya menggunakan musik Jepang untuk belajar bahasa Jepang?
+Dengan hanya mendengarkannya? Tidak.
+Apa yang bisa Anda lakukan adalah melihat lembar lirik dan mencari kata-katanya.
+
+### Tapi mereka tidak berbicara seperti kehidupan nyata di anime, kan?
 [anime japanese](/animejp)
-### I am going to immerse with J-drama instead because they don’t talk real life in anime.
-Cool. 
-it depends on the j-drama though, if it is unrealistic fiction (e.g. Ikebukuro West Gate Park) then it will be as unnatural as anime, if it's realistic fiction (e.g. Nigeru wa Haji da ga Yaku ni Tatsu) then it will be pretty close to real life Japanese.
-### I want to be able to understand anime without subtitles, will your guide work?
-Yes.
-### I want to be able to speak with natives naturally, will your guide work?
-Yes.  
-### How long should I immerse per day?
-As much as you can. The more Japanese you do, the more gains you get.
-### This method seems too hardcore for me…
-That’s ok. You don’t need to do it if you don’t want to.  
-### When is hiragana, katakana and kanji used?
-Go learn with immersion. 
-Please note that the usages of these are not consistent. So I can’t really say for sure. Hiragana is used for words not written in kanji (such as こと which also has a kanji form 事), whatever sticks out at the end of a verb (e.g. 味わう, 掛ける. 怯む), things like “だろう, でしょう”, particles (such as を、の、は、に、が、で etc.), someone's name (like ゆみ, this can also be in kanji too because like I said it’s not consistent). Katakana is mainly used for foreign/imported words such as コミュニケーション (communication from English), レントゲン (Röntgen from German), オブラート (oblaat from Dutch). But katakana is used in 擬音語 (*giongo*, onomatopoeic word). There are a lot of these in Japanese. But not all giongo are written in katakana, things like あっさり are almost always in hiragana, things like ゴワゴワ are more likely to be in katakana. A change in nuance perhaps? Katakana can also be used for foreign names. Kanji is used when it is used. Yes. Kanji is used when it’s used. I recommend you just learn the usages through immersion. I have a picture in [the guide](/guide) about these writing systems too by the way.
-### How many words do I need to know to understand EVERYTHING?
-Around 30k. You may think, but uh with 2k I can understand 80%? Yeah but it gets very steep after that. 10k is around 98%, 20k is around 99% and 30k is like 99.9% because I can’t guarantee that you can understand 100% with 30k. But it is definitely a good number to aim for. I don't understand everything in English so is it really worth the endeavour? That is your decision.
-### HUH? NO FURIGANA? THAT’S IMPOSSIBLE TO READ THEN!!!
-Furigana has never been necessary and relying on it only holds you back becoming able to read fluently. You should learn how to function without it. In my opinion furigana is pretty useless apart from when it's on names.
-### I don’t have that green + button like you do in Yomichan
-Setup AnkiConnect. <https://foosoft.net/projects/anki-connect/>
-Make sure you also have a proper card type and have filled in the fields correctly.
-### Should I follow JLPT lists?
-No, the JLPT is very restrictive. Just learn what you come across in your immersion.
-Are you learning Japanese to pass an exam?  
-### I'm not ready for watching anime or anything without subtitles yet... that's for like, advanced learners like JLPT N1!  
-It’s never too early to watch anime without subtitles. You need to watch anime without subtitles to get good at it anyway.
+
+### Saya akan melakukan immersi dengan J-drama karena mereka tidak berbicara kehidupan nyata di anime.
+Bagus.
+itu tergantung pada j-drama-nya, jika itu fiksi yang tidak realistis (misalnya Ikebukuro West Gate Park) maka itu akan sama tidak naturalnya dengan anime, jika itu fiksi yang realistis (misalnya Nigeru wa Haji da ga Yaku ni Tatsu) maka itu akan cukup dekat dengan bahasa Jepang kehidupan nyata.
+
+### Saya ingin bisa memahami anime tanpa subtitle, apakah panduan Anda akan berhasil?
+Ya.
+
+### Saya ingin bisa berbicara dengan orang asli secara alami, apakah panduan Anda akan berhasil?
+Ya.
+
+### Berapa lama saya harus melakukan immersi per hari?
+Sebanyak yang Anda bisa. Semakin banyak bahasa Jepang yang Anda lakukan, semakin banyak keuntungan yang Anda dapatkan.
+
+### Metode ini tampaknya terlalu keras bagi saya...
+Tidak apa-apa. Anda tidak perlu melakukannya jika Anda tidak mau.
+
+### Kapan hiragana, katakana, dan kanji digunakan?
+Pelajari dengan immersi.
+Harap dicatat bahwa penggunaan ini tidak konsisten. Jadi saya tidak bisa benar-benar mengatakan dengan pasti. Hiragana digunakan untuk kata-kata yang tidak ditulis dalam kanji (seperti こと yang juga memiliki bentuk kanji 事), apa pun yang menonjol di akhir kata kerja (misalnya 味わう, 掛ける. 怯む), hal-hal seperti “だろう, でしょう”, partikel (seperti を、の、は、に、が、で, dll.), nama seseorang (seperti ゆみ, ini juga bisa dalam kanji karena seperti yang saya katakan tidak konsisten). Katakana terutama digunakan untuk kata-kata asing/impor seperti コミュニケーション (komunikasi dari bahasa Inggris), レントゲン (Röntgen dari bahasa Jerman), オブラート (oblaat dari bahasa Belanda). Tetapi katakana juga digunakan dalam 擬音語 (*giongo*, kata onomatopoeik). Ada banyak dari ini dalam bahasa Jepang. Tetapi tidak semua giongo ditulis dalam katakana, hal-hal seperti あっさり hampir selalu dalam hiragana, hal-hal seperti ゴワゴワ lebih mungkin ditulis dalam katakana. Mungkin perubahan nuansa? Katakana juga dapat digunakan untuk nama asing. Kanji digunakan ketika digunakan. Ya. Kanji digunakan ketika digunakan. Saya sarankan Anda hanya belajar penggunaannya melalui immersi. Saya memiliki gambar di [panduan](/guide) tentang sistem penulisan ini juga.
+
+### Berapa banyak kata yang perlu saya ketahui untuk memahami SEMUANYA?
+Sekitar 30k. Anda mungkin berpikir, tetapi dengan 2k saya bisa memahami 80%? Ya tetapi setelah itu menjadi sangat curam. 10k sekitar 98%, 20k sekitar 99% dan 30k sekitar 99.9% karena saya tidak bisa menjamin bahwa Anda bisa memahami 100% dengan 30k. Tetapi itu pasti angka yang baik untuk dituju. Saya tidak memahami semuanya dalam bahasa Inggris jadi apakah itu benar-benar sepadan? Itu keputusan Anda.
+
+### HUH? TIDAK ADA FURIGANA? ITU TIDAK MUNGKIN UNTUK DIBACA!!!
+Furigana tidak pernah diperlukan dan bergantung padanya hanya akan menghambat Anda untuk bisa membaca dengan lancar. Anda harus belajar bagaimana berfungsi tanpanya. Menurut pendapat saya, furigana cukup tidak berguna kecuali ketika ada di nama.
+
+### Saya tidak memiliki tombol hijau + seperti yang Anda lakukan di Yomichan
+Atur AnkiConnect. <https://foosoft.net/projects/anki-connect/>
+Pastikan Anda juga memiliki jenis kartu yang tepat dan telah mengisi kolom dengan benar.
+
+### Haruskah saya mengikuti daftar JLPT?
+Tidak, JLPT sangat membatasi. Cukup pelajari apa yang Anda temui dalam immersi Anda.
+Apakah Anda belajar bahasa Jepang untuk lulus ujian?
+
+### Saya belum siap untuk menonton anime atau apa pun tanpa subtitle... itu untuk pembelajar tingkat lanjut seperti JLPT N1!
+Tidak pernah terlalu awal untuk menonton anime tanpa subtitle. Anda perlu menonton anime tanpa subtitle untuk menjadi baik dalam hal itu.
+
 ### Reddit
-Communities like Reddit are essentially crab buckets. They don't want you to succeed. Tell them you've accomplished something great? They'll all collectively say you're a special unicorn and no one else can expect to do what you do. Complain about Japanese being impossible? 10k upvotes! Featured on the front page! People on Reddit love negativity. 
-### I don’t have time to learn Japanese
-You may have more time than you think you do to learn Japanese. Stop playing video games. Stop going on Reddit. Wake up early. Do your Anki reps in the morning. Stop talking on Discord. Stop consuming content in English. Or if you really don’t have any time and it isn’t just you saying “I’d rather spend my time doing other things.” then just try to squeeze in even the smallest amount of Japanese into your day, it won’t be much but “barely any Japanese” is better than “no Japanese”
-### I'm hearing the ga sound but it sounds like nga or something?   
-[鼻濁音](https://youtu.be/xpzpbuFHVVU)  
-### I am actively immersing, you say just pay attention to what they’re saying, can you go into more detail?
-It depends on your comprehension I guess. If you’re below 40%, just listen out for what words you can pickout, try to guess the meaning of phrases, try to like, listen to the sounds. When you’re at like 80% comprehension, pay attention to the plot of the anime and try to just get the meaning of sentences but not necessarily how it was said specifically e.g. what form a verb was in. For example if you came across the sentence 俺を誰だと思っている, you would know the message the sentence is trying to send but you wouldn’t pay attention to the particle を being used because you don’t need to to understand the overall meaning of the sentence. When you get about 90%+ comprehension, pay attention to the form; how the sentence is expressed, before you may not have payed attention to the には in あなたには関係ありません but now you should. Also pay attention to what specific words are used to express specific ideas in specific situations.
-### Will re-watching shows I have already immersed with be useful?
-Yes but once you get bored, switch!
-### Can I get fluent with only 1 hour of immersion?
-Unfortunately, it takes a lot of time and dedication to get fluent at a language.  
-### Is Genki worth it?
-In my humble opinion, no. Genki is not worth your time. Genki is inferior to the free resources I’m giving you such as Tae Kim and Cure Dolly. Genki is also not meant to be used for self study, it needs at least 2 people and 1 Japanese teacher in the room. You need someone who knows what they’re doing (e.g. a Japanese teacher) in the room because if you just do it alone you will be heavily misguided. Ridiculous. I also think Genki explains things poorly, they basically teach English but force Japanese into it.
-### Can you tell me what this kanji is?
-Google Lens and Jisho is your friend
-### I can’t read kanji yet…
-I absolutely hate it when people say “I can’t read kanji”. People that say this have no idea what they’re talking about. You mean, “words”; you can’t “read the words”? If you mean that then just look up the words then. If you can’t read this sentence “爆発が起こった刹那”, then don't say, “I can’t read the kanji”, say “I can’t read the words”. If you can’t “read kanji” then learn how to; by learning how to read. That’s just it, just learn how to read.
-### How do I learn how to read?
-By looking up the words. Look at the Japanese sentence I gave above. Chances are you don’t know 刹那. Copy it into a dictionary or use Yomichan, it will show you the reading (せつな) and the meaning (きわめて短い時間)(if you are learning it bilingually it might be *moment; instant*). Congratulations you now know how to read more Japanese.
-### JLPT Grammar
-It's important to learn them.  
-### How do you learn how to write Japanese?
-with Quizmaster's kanken deck!
-### It's been a few months of learning. Why does it feel like nothing is clicking?
-I think you need to up your active immersion. Make sure you are grading your Anki cards correctly. Make sure you are ACTIVELY immersing, not passive, ACTIVE immersion. Maybe you should go over Cure Dolly/Tae Kim again. If it’s been a few months learning then learn how to read manga, I think all of this will really help you. If you feel demotivated try to watch the first thing you immersed with, so you can see how much more you can understand now versus when you first watched it. Look at your Anki stats, so you can see how much you have actually learned. You could just be in the intermediate blues stage where progress doesn't feel as noticeable as it was in the beginner stage but trust me, every minute spent with the language is always going to improve your skills.  
-### I don't understand anything when immersing. Why is that? How long will it take for me to understand what I'm listening to?**
-That’s cause you haven’t listened and read enough. Try looking up words you hear clearly enough. It will only take a few months of listening+looking up+japanese subtitles+anki to understand 80% of your immersion. That 20% is still the actual important details so you will still have a long way to go though. Hang in there.
-### I'm trying to translate Japanese into English while immersing. Is this wrong?
-Yes. But as a beginner it is hard to *not* translate to English. Try to use your willpower to try and not translate, overtime it will just go away and you will understand and think about Japanese you hear, in Japanese.
-### How often should I study and for how long?
-Try to study everyday, so it will eventually become a habit. I don’t even need to think to open up Anki, click my deck and then click “Study Now”. It’s all inertia to me. Try to study as long as you can. If you have free time, try to use it for Japanese.
-### What are the requirements for reading Japanese? How long will it take for me to get there?
-Like legit reading manga and books? You can start reading Japanese after some listening immersion. How much? Let’s just say, 6 hours everyday for a month. Around 180 hours? Around 40 12 episode anime? Or maybe even less?
-After that you can get into reading.
-### At what point do you begin learning how to read kanji?
-See above.
-### What is good immersion material for beginners?
-Most anime. Pretty much every slice of life anime. But don’t restrict yourself to just slice of life anime. Some things are surprisingly incredibly good for beginners such as Kimetsu no Yaiba (Demon Slayer). Just find what interests you. You just need to immerse with whatever interests you because that makes it fun.
-### I have no idea how to start making decks and memorizing kanji. What do I do?
-Making decks - Just follow [donkuri guide](https://donkuri.github.io/learn-japanese/mining/) or [Xelieu's lazy guide](https://xelieu.github.io/jp-lazy-guide/).
-Memorizing kanji - Just do reading practice, and make cards if you wish.
-### How many new cards per day?
-Just do 10. If you feel like it is too less, do 15 or 20. Please bear in mind that the more new cards you do, the more reviews you’ll get.
-### Mining Mentality: When to mine (add to Anki) or just to look up and carry on?
-Honestly I've never worried about this because of my mining method. The only things I mine are from anime I have already seen, or from books I’ve already read. The point is that if you’re looking up, you will remember about maybe half of what you looked up, I can’t say for sure though. So you go back to the content you just watched/read and mine whatever you didn’t remember. I’ve been doing this for nearly 6 months and it has worked great for me, and I think it will do for you too.  
-EDIT uhh I just mine everything when i see it now no matter how ridiculous it is  
-### How many cards do you make per day?
-One anime episode worth of cards per day. I mine anime I have already watched. When I run out of new cards I mine another episode to stock up on more cards to learn. I also mine books I’ve already read. I add 20 cards to review for the next day.
-### When is Kun-yomi and On-yomi used?
-Wait, wait, wait. Stop right there. Get everything you know about kanji out of your head because it’s probably horribly misguided. Done? Good. Forget Kun and On and just read. I’ve never worried about these On’s and Kun’s in my entire life. It’s ridiculous and almost sad seeing people struggle because they have such a terrible misunderstanding of it. Learn words, then you will know all these On’s and Kun’s. Just read and remember words how they are, for example in this sentence: “造化の巧み”, look up the words and remember them. Screw On and Kun why is there even the distinction, it just confuses you. Yes I know in the sentence the first word is “onyomi” and the second is “kunyomi” but who cares? The problem is people get into such a conundrum over "kun vs on" due to poor explanation and communication from classes, textbooks and Japanese learning courses. It is honestly very sad. Next question.
-### Are mnemonics for kana, kanji and words and such good?
-No.
-### What should I do when I come across a kanji I don’t know?
-Correction: A word you don't know. Look it up. If you don’t remember it then that’s ok. Chances are you will see it in your immersion again, and that will be your chance to remember it :slight_smile:
-### What should I do when I come across a word I don’t know (in reading)?
-See above. This is a better worded question than above.
-### What should I do when I come across a word I don’t know (in listening)?
-It largely depends on how many words in the sentence you don’t know. If it has 2 words you don’t know, you can choose to look up one of the words. If it has 1 word you don’t know, definitely look it up. - This is a “low hanging fruit”. If any more than 2 words, don’t look up if you want to guarantee you remember them.
-### But can't I learn Japanese by focusing on the audio while using the English subs as a guide?
-It's complicated. You won't have the natural ability to parse full Japanese sentences correctly without subtitles if you keep using English subs. It is true you can learn words with them at more advanced stages though. I can't recommend English subs to anyone that can't write a full length explanation to why each line was translated that way. So just use Japanese subs or watch raw.  
-### What if I can't find anything I enjoy immersing with?
-keep on looking  
-### Can I use romanji?
-First of all, it’s *romaji* not romanji. And second, no. Don’t use romaji. Learn the kana as quickly as you can.
-### Kana or Romaji input method (IME)?
-For your PC, definitely romaji input. For your phone, kana input. No questions asked.
-### Should I use Japanese subs?
-I might have already answered this but… not always. Only in the beginning. Split your time up between watching raw and in Japanese subs. The reason you need to watch raw is so you get the best accent in the end and also because using subs all the time means you won't really be training your listening ability at all.  
-### How much should I balance my listening and reading?
-I think, when you’re at the stage where you can go on to reading without messing up your accent, you should read more than you listen. Why is this? Well, reading is probably the best way I currently know of to increase your vocabulary. These new vocabulary you acquired can easily transfer to your listening. Most of my vocabulary is what I learned from reading. There’s about a 90% chance you will hear these new words in the next anime you watch. It happens every time. Learned 滑稽 from reading one day, heard it in the anime I watched the next. I cannot think of any exception. Reading is a powerful tool. But don’t slack on the listening! That’s still very important.
-But, I can admit that reading for long hours is harder than listening for long hours so even if your reading hours are a little shorter than your listening hours (e.g. 4 listening hours 2.5 reading hours), you are still making some serious gains. Don’t see this as an excuse to slack reading though.
-### Should I study other languages along with Japanese?
-If you don’t want to get remotely good at any of the languages, then ok. But if you want to get good at Japanese, then don’t study any other languages while studying Japanese.
-### I am learning Japanese with (n) textbook, is it bad?
-Yes. Please follow the [Japanese Guide](/guide).
-### Is X textbook better than Y textbook?
-Both aren't going to make you good at Japanese.  
-### Pitch Accent?
-[Usagi Pronunciation Guide](https://docs.google.com/document/d/1ReBf08JFK4n0PXdOxThAfWuiK9UWVZEWWzeKSECWTQo)  
-### I don’t want to believe anything you’re saying and I would rather stick with what I’m doing if that’s okay with you?
-Okay
-### Where to find anime for learning Japanese?
-Check out nyaa.si, anime-raws list, Crunchyroll and animelon in [Resources](/resources)
-If you have money check out Netflix. Crunchyroll is free but with ads. You can turn off subs on desktop but not on mobile. I’ve heard VRV works but it’s blocked in my region \;(
-### Where to find j-drama for learning Japanese?
-Check out nyaa.si, rakuten viki, the j-drama google drive folder in the [Resources](/resources). Chinese streaming sites seem to also have a lot of Chinese sub j-dramas, so you can use them if you can’t speak/read Chinese.
-If you have money check out Netflix and Hulu JP. If you’re lucky enough to be on AvistaZ private tracker then you have access to just about any J-drama you like. ~~If you ask me (shoui) nicely I can find something on AvistaZ for you.~~ I can't. My ratio on AvistaZ is really bad and I have no buffer and I don't want to download stuff I'm not going to watch :slight_smile: Maybe you can ask in the TheMoeWay Discord.
-### Where to find manga for learning Japanese?
-Check out nyaa.si and itazuraneko in 
-If you have money you can buy digital manga from Amazon JP.
-### Where to find light novels for learning Japanese?
-Itazuraneko. 
-If you have money you can buy digital light novels from Amazon JP.
-### Where to find visual novels for learning Japanese?
-(listed in [Resources](/resources)), ryuublogger, (sukebei)nyaa.si.
-If you have money you can buy visual novels from Steam. If you are lucky enough to be on AnimeBytes private tracker then you have access to just about any visual novel you like. If you ask me (shoui) nicely I can find something on AnimeBytes for you. No seriously, I will. Just make sure it isn't already on the free resources available to you.
-### How to text-hook visual novels?
-[vn guide](/vn)
-### How do I switch from traditional methods to your method?
-Let go!  
-### How to deal with words with multiple meanings?
-The answer is simple. You already know you should learn words in context and in sentences. The context+sentence is almost always enough for you to get which definition fits. If not, try a monolingual dictionary. I came across けんかを吹っ掛ける, 吹っ掛ける has 3 definitions listed in the Daijirin. The second one had the same example けんかを— so I was able to figure it out. （２）相手の困るようなことをしかける。「けんかを―・ける」「議論を―・ける」. If you can’t figure it out then just learn whatever.
-If you come across a usage of a word different to the one you learned, you don’t need to make a card for it, it will be easy to just learn this new usage.
-### How to deal with words with multiple readings?
-If it has furigana on top, learn it with that reading. If it’s from anime, learn it with the reading they pronounce it with. If there is no furigana and audio then try using <https://furigana.info/>, search for the word and it will show you the readings in order of commonness. If you can’t find out, then just learn whatever.
-If you come across a kana usage different to the one you learned, you don’t need to make a card for it, it will be easy to just learn this new usage.
-### So the JLPT is sh/t, so what “level” are each of the N’s?
-Cant even say because a jlpt cert cannot, will not and does not gauge japanese ability  
-### Is it bad if I make a mistake when speaking?
-No. As long as you are immersing everyday, don't worry about it! 
-Is it bad? It depends how you see it. If you care what Japanese people may think, then it is not bad at all. Japanese people are very nice and kind and don't really care if you can't speak Japanese good. If you want your Japanese to be natural and "good", then you still don't need to worry about making mistakes, because making mistakes is not a problem as long as you are immersing everyday.
-### I can understand my immersion but I’m not fluent, what should I do?
-You need more output and immersion. You might have immersed in Japanese without ever thinking how you are going to use the words you are hearing yourself. You should start outputting NOW! :zap:
+Komunitas seperti Reddit pada dasarnya adalah ember kepiting. Mereka tidak ingin Anda berhasil. Beritahu mereka bahwa Anda telah mencapai sesuatu yang hebat? Mereka semua secara kolektif akan mengatakan Anda adalah unicorn khusus dan tidak ada orang lain yang bisa mengharapkan untuk melakukan apa yang Anda lakukan. Mengeluh tentang bahasa Jepang yang tidak mungkin? 10k upvotes! Ditampilkan di halaman depan! Orang-orang di Reddit menyukai negativitas.
+
+### Saya tidak punya waktu untuk belajar bahasa Jepang
+Anda mungkin memiliki lebih banyak waktu daripada yang Anda pikirkan untuk belajar bahasa Jepang. Berhenti bermain video game. Berhenti pergi ke Reddit. Bangun lebih awal. Lakukan repetisi Anki Anda di pagi hari. Berhenti berbicara di Discord. Berhenti mengonsumsi konten dalam bahasa Inggris. Atau jika Anda benar-benar tidak memiliki waktu dan itu bukan hanya Anda yang mengatakan “Saya lebih suka menghabiskan waktu saya melakukan hal lain.” maka cobalah untuk menyisihkan bahkan sedikit bahasa Jepang dalam hari Anda, itu tidak akan banyak tetapi “hampir tidak ada bahasa Jepang” lebih baik daripada “tidak ada bahasa Jepang”.
+
+### Saya mendengar suara ga tetapi terdengar seperti nga atau semacamnya?
+[鼻濁音](https://youtu.be/xpzpbuFHVVU)
+
+### Saya sedang melakukan immersi aktif, Anda bilang hanya perhatikan apa yang mereka katakan, bisakah Anda menjelaskan lebih detail?
+Itu tergantung pada pemahaman Anda. Jika Anda di bawah 40%, cukup dengarkan kata-kata yang bisa Anda ambil, coba tebak arti frasa, coba dengarkan suara. Ketika Anda berada di sekitar 80% pemahaman, perhatikan plot anime dan coba dapatkan arti kalimat tetapi tidak harus bagaimana kalimat itu diucapkan secara spesifik misalnya bentuk kata kerjanya. Misalnya jika Anda menemukan kalimat 俺を誰だと思っている, Anda akan tahu pesan yang ingin disampaikan kalimat tersebut tetapi Anda tidak akan memperhatikan partikel を yang digunakan karena Anda tidak perlu untuk memahami arti keseluruhan kalimat tersebut. Ketika Anda mendapatkan pemahaman sekitar 90%+, perhatikan bentuknya; bagaimana kalimat itu diungkapkan, sebelumnya Anda mungkin tidak memperhatikan には dalam あなたには関係ありません tetapi sekarang Anda seharusnya. Juga perhatikan kata-kata spesifik yang digunakan untuk mengekspresikan ide spesifik dalam situasi tertentu.
+
+### Apakah menonton ulang acara yang sudah saya lakukan immersi akan berguna?
+Ya tetapi setelah Anda merasa bosan, beralihlah!
+
+### Bisakah saya menjadi fasih hanya dengan 1 jam immersi?
+Sayangnya, dibutuhkan banyak waktu dan dedikasi untuk menjadi fasih dalam suatu bahasa.
+
+### Apakah Genki sepadan?
+Menurut pendapat saya yang rendah hati, tidak. Genki tidak sepadan dengan waktu Anda. Genki lebih rendah dari sumber gratis yang saya berikan kepada Anda seperti Tae Kim dan Cure Dolly. Genki juga tidak dimaksudkan untuk digunakan untuk belajar mandiri, itu membutuhkan setidaknya 2 orang dan 1 guru Jepang di ruangan. Anda membutuhkan seseorang yang tahu apa yang mereka lakukan (misalnya, seorang guru Jepang) di ruangan karena jika Anda hanya melakukannya sendiri, Anda akan sangat tersesat. Konyol. Saya juga berpikir Genki menjelaskan hal-hal dengan buruk, mereka pada dasarnya mengajarkan bahasa Inggris tetapi memaksakan bahasa Jepang ke dalamnya.
+
+### Bisakah Anda memberi tahu saya apa kanji ini?
+Google Lens dan Jisho adalah teman Anda.
+
+### Saya tidak bisa membaca kanji...
+Saya sangat benci ketika orang mengatakan “Saya tidak bisa membaca kanji”. Orang-orang yang mengatakan ini tidak tahu apa yang mereka bicarakan. Anda maksudnya, “kata-kata”; Anda tidak bisa “membaca kata-kata”? Jika Anda maksudkan itu, maka cari saja kata-kata tersebut. Jika Anda tidak bisa membaca kalimat ini “爆発が起こった刹那”, maka jangan katakan, “Saya tidak bisa membaca kanji”, katakan “Saya tidak bisa membaca kata-kata”. Jika Anda tidak bisa “membaca kanji” maka pelajari cara membacanya; dengan belajar cara membaca. Itu saja, pelajari cara membaca.
+
+### Bagaimana cara saya belajar cara membaca?
+Dengan mencari kata-kata. Lihat kalimat Jepang yang saya berikan di atas. Kemungkinan Anda tidak tahu 刹那. Salin ke dalam kamus atau gunakan Yomichan, itu akan menunjukkan kepada Anda bacaan (せつな) dan arti (きわめて短い時間) (jika Anda mempelajarinya secara bilingual mungkin itu *moment; instant*). Selamat, sekarang Anda tahu cara membaca lebih banyak bahasa Jepang.
+
+### Tata Bahasa JLPT
+Penting untuk mempelajarinya.
+
+### Bagaimana cara Anda belajar menulis bahasa Jepang?
+Dengan dek kanken Quizmaster!
+
+### Sudah beberapa bulan belajar. Mengapa rasanya tidak ada yang terhubung?
+Saya pikir Anda perlu meningkatkan immersi aktif Anda. Pastikan Anda menilai kartu Anki Anda dengan benar. Pastikan Anda melakukan immersi AKTIF, bukan pasif, immersi AKTIF. Mungkin Anda harus melihat kembali Cure Dolly/Tae Kim. Jika sudah beberapa bulan belajar, maka pelajari cara membaca manga, saya pikir semua ini akan sangat membantu Anda. Jika Anda merasa tidak termotivasi, cobalah untuk menonton hal pertama yang Anda lakukan immersi, sehingga Anda dapat melihat seberapa banyak yang dapat Anda pahami sekarang dibandingkan ketika Anda pertama kali menontonnya. Lihat statistik Anki Anda, sehingga Anda dapat melihat seberapa banyak yang sebenarnya telah Anda pelajari. Anda mungkin hanya berada di tahap blues menengah di mana kemajuan tidak terasa sejelas saat Anda berada di tahap pemula tetapi percayalah, setiap menit yang dihabiskan dengan bahasa ini akan selalu meningkatkan keterampilan Anda.
+
+### Saya tidak mengerti apa pun saat melakukan immersi. Mengapa itu? Berapa lama waktu yang dibutuhkan bagi saya untuk memahami apa yang saya dengarkan?
+Itu karena Anda belum mendengarkan dan membaca cukup. Cobalah mencari kata-kata yang Anda dengar dengan cukup jelas. Hanya perlu beberapa bulan mendengarkan+mencari+subtitle Jepang+anki untuk memahami 80% dari immersi Anda. 20% itu masih merupakan detail penting sehingga Anda masih memiliki jalan panjang yang harus dilalui. Bertahanlah.
+
+### Saya mencoba menerjemahkan bahasa Jepang ke dalam bahasa Inggris saat melakukan immersi. Apakah ini salah?
+Ya. Tetapi sebagai pemula, sulit untuk *tidak* menerjemahkan ke dalam bahasa Inggris. Cobalah untuk menggunakan kekuatan kehendak Anda untuk mencoba dan tidak menerjemahkan, seiring waktu itu akan hilang dan Anda akan memahami dan memikirkan bahasa Jepang yang Anda dengar, dalam bahasa Jepang.
+
+### Seberapa sering saya harus belajar dan berapa lama?
+Cobalah untuk belajar setiap hari, sehingga itu akan menjadi kebiasaan. Saya bahkan tidak perlu berpikir untuk membuka Anki, klik dek saya dan kemudian klik “Belajar Sekarang”. Itu semua adalah inersia bagi saya. Cobalah untuk belajar selama yang Anda bisa. Jika Anda memiliki waktu luang, cobalah untuk menggunakannya untuk bahasa Jepang.
+
+### Apa saja syarat untuk membaca bahasa Jepang? Berapa lama waktu yang dibutuhkan untuk sampai ke sana?
+Seperti membaca manga dan buku dengan sah? Anda bisa mulai membaca bahasa Jepang setelah beberapa immersi mendengarkan. Berapa banyak? Mari kita katakan, 6 jam setiap hari selama sebulan. Sekitar 180 jam? Sekitar 40 anime 12 episode? Atau mungkin bahkan lebih sedikit?
+Setelah itu Anda bisa mulai membaca.
+
+### Kapan Anda mulai belajar cara membaca kanji?
+Lihat di atas.
+
+### Apa bahan immersi yang baik untuk pemula?
+Sebagian besar anime. Hampir semua anime slice of life. Tetapi jangan batasi diri Anda hanya pada anime slice of life. Beberapa hal ternyata sangat baik untuk pemula seperti Kimetsu no Yaiba (Demon Slayer). Temukan apa yang menarik bagi Anda. Anda hanya perlu melakukan immersi dengan apa pun yang menarik bagi Anda karena itu membuatnya menyenangkan.
+
+### Saya tidak tahu bagaimana memulai membuat dek dan menghafal kanji. Apa yang harus saya lakukan?
+Membuat dek - Cukup ikuti [panduan donkuri](https://donkuri.github.io/learn-japanese/mining/) atau [panduan malas Xelieu](https://xelieu.github.io/jp-lazy-guide/).
+Menghafal kanji - Cukup lakukan latihan membaca, dan buat kartu jika Anda mau.
+
+### Berapa banyak kartu baru per hari?
+Cukup lakukan 10. Jika Anda merasa itu terlalu sedikit, lakukan 15 atau 20. Harap diingat bahwa semakin banyak kartu baru yang Anda lakukan, semakin banyak ulasan yang akan Anda dapatkan.
+
+### Mentalitas Mining: Kapan harus mining (menambahkan ke Anki) atau hanya melihat dan melanjutkan?
+Sejujurnya saya tidak pernah khawatir tentang ini karena metode mining saya. Satu-satunya hal yang saya mining adalah dari anime yang sudah saya tonton, atau dari buku yang sudah saya baca. Intinya adalah jika Anda sedang mencari, Anda akan mengingat sekitar setengah dari apa yang Anda cari, saya tidak bisa memastikan. Jadi Anda kembali ke konten yang baru saja Anda tonton/baca dan mining apa pun yang tidak Anda ingat. Saya telah melakukan ini selama hampir 6 bulan dan itu berjalan dengan baik untuk saya, dan saya pikir itu juga akan berhasil untuk Anda.
+
+EDIT uhh saya hanya mining semuanya ketika saya melihatnya sekarang tidak peduli seberapa konyolnya itu
+
+### Berapa banyak kartu yang Anda buat per hari?
+Satu episode anime sebanding dengan kartu per hari. Saya mining anime yang sudah saya tonton. Ketika saya kehabisan kartu baru, saya mining episode lain untuk menambah lebih banyak kartu untuk dipelajari. Saya juga mining buku yang sudah saya baca. Saya menambahkan 20 kartu untuk ditinjau keesokan harinya.
+
+### Kapan Kun-yomi dan On-yomi digunakan?
+Tunggu, tunggu, tunggu. Hentikan di sana. Singkirkan semua yang Anda ketahui tentang kanji dari kepala Anda karena itu mungkin sangat salah. Sudah? Bagus. Lupakan Kun dan On dan cukup baca. Saya tidak pernah khawatir tentang On dan Kun dalam hidup saya. Sangat konyol dan hampir menyedihkan melihat orang berjuang karena mereka memiliki pemahaman yang sangat buruk tentangnya. Pelajari kata-kata, maka Anda akan tahu semua On dan Kun ini. Cukup baca dan ingat kata-kata seperti apa adanya, misalnya dalam kalimat ini: “造化の巧み”, cari kata-kata tersebut dan ingatlah. Lupakan On dan Kun mengapa ada perbedaan itu, itu hanya membingungkan Anda. Ya saya tahu dalam kalimat itu kata pertama adalah “onyomi” dan yang kedua adalah “kunyomi” tetapi siapa yang peduli? Masalahnya adalah orang terjebak dalam kebingungan tentang "kun vs on" karena penjelasan dan komunikasi yang buruk dari kelas, buku teks, dan kursus belajar bahasa Jepang. Ini sangat menyedihkan.
+
+### Apakah mnemonik untuk kana, kanji, dan kata-kata dan semacamnya baik?
+Tidak.
+
+### Apa yang harus saya lakukan ketika saya menemukan kanji yang tidak saya ketahui?
+Koreksi: Sebuah kata yang tidak Anda ketahui. Cari tahu. Jika Anda tidak mengingatnya maka tidak apa-apa. Kemungkinan Anda akan melihatnya dalam immersi Anda lagi, dan itu akan menjadi kesempatan Anda untuk mengingatnya :)
+
+### Apa yang harus saya lakukan ketika saya menemukan kata yang tidak saya ketahui (dalam membaca)?
+Lihat di atas. Ini adalah pertanyaan yang lebih baik daripada di atas.
+
+### Apa yang harus saya lakukan ketika saya menemukan kata yang tidak saya ketahui (dalam mendengarkan)?
+Ini sangat tergantung pada berapa banyak kata dalam kalimat yang tidak Anda ketahui. Jika ada 2 kata yang tidak Anda ketahui, Anda bisa memilih untuk mencari salah satu kata tersebut. Jika ada 1 kata yang tidak Anda ketahui, pasti cari tahu. - Ini adalah “buah yang mudah dijangkau”. Jika lebih dari 2 kata, jangan cari jika Anda ingin memastikan Anda mengingatnya.
+
+### Tapi bukankah saya bisa belajar bahasa Jepang dengan fokus pada audio sambil menggunakan subtitle bahasa Inggris sebagai panduan?
+Ini rumit. Anda tidak akan memiliki kemampuan alami untuk memecah kalimat bahasa Jepang secara penuh dengan benar tanpa subtitle jika Anda terus menggunakan subtitle bahasa Inggris. Memang benar Anda bisa belajar kata-kata dengan mereka di tahap yang lebih maju. Saya tidak bisa merekomendasikan subtitle bahasa Inggris kepada siapa pun yang tidak bisa menulis penjelasan panjang penuh tentang mengapa setiap baris diterjemahkan dengan cara itu. Jadi gunakan subtitle Jepang atau tonton mentah.
+
+### Apa yang harus saya lakukan jika saya tidak dapat menemukan apa pun yang saya nikmati untuk melakukan immersi?
+terus mencari
+
+### Bisakah saya menggunakan romaji?
+Pertama-tama, itu *romaji* bukan romanji. Dan kedua, tidak. Jangan gunakan romaji. Pelajari kana secepat mungkin.
+
+### Metode input kana atau romaji (IME)?
+Untuk PC Anda, pasti romaji input. Untuk ponsel Anda, input kana. Tidak ada pertanyaan.
+
+### Haruskah saya menggunakan subtitle Jepang?
+Saya mungkin sudah menjawab ini tetapi… tidak selalu. Hanya di awal. Bagi waktu Anda antara menonton mentah dan dengan subtitle Jepang. Alasan Anda perlu menonton mentah adalah agar Anda mendapatkan aksen terbaik pada akhirnya dan juga karena menggunakan subtitle sepanjang waktu berarti Anda tidak benar-benar melatih kemampuan mendengarkan Anda sama sekali.
+
+### Seberapa banyak saya harus menyeimbangkan mendengarkan dan membaca?
+Saya pikir, ketika Anda berada di tahap di mana Anda bisa membaca tanpa merusak aksen Anda, Anda harus membaca lebih banyak daripada mendengarkan. Mengapa ini? Nah, membaca mungkin adalah cara terbaik yang saya ketahui saat ini untuk meningkatkan kosakata Anda. Kosakata baru ini yang Anda peroleh dapat dengan mudah ditransfer ke mendengarkan Anda. Sebagian besar kosakata saya adalah apa yang saya pelajari dari membaca. Ada sekitar 90% kemungkinan Anda akan mendengar kata-kata baru ini di anime berikutnya yang Anda tonton. Itu terjadi setiap kali. Belajar 滑稽 dari membaca suatu hari, mendengarnya di anime yang saya tonton berikutnya. Saya tidak dapat memikirkan pengecualian. Membaca adalah alat yang kuat. Tetapi jangan malas dalam mendengarkan! Itu masih sangat penting.
+Tetapi, saya bisa mengakui bahwa membaca selama berjam-jam lebih sulit daripada mendengarkan selama berjam-jam jadi bahkan jika jam membaca Anda sedikit lebih pendek daripada jam mendengarkan Anda (misalnya 4 jam mendengarkan 2.5 jam membaca), Anda masih membuat kemajuan yang serius. Jangan lihat ini sebagai alasan untuk malas membaca.
+
+### Haruskah saya belajar bahasa lain bersamaan dengan bahasa Jepang?
+Jika Anda tidak ingin menjadi baik dalam bahasa mana pun, maka baiklah. Tetapi jika Anda ingin menjadi baik dalam bahasa Jepang, maka jangan belajar bahasa lain saat belajar bahasa Jepang.
+
+### Saya belajar bahasa Jepang dengan buku teks (n), apakah itu buruk?
+Ya. Silakan ikuti [Panduan Jepang](/guide).
+
+### Apakah buku teks X lebih baik daripada buku teks Y?
+Keduanya tidak akan membuat Anda baik dalam bahasa Jepang.
+
+### Aksen Pitch?
+[Usagi Pronunciation Guide](https://docs.google.com/document/d/1ReBf08JFK4n0PXdOxThAfWuiK9UWVZEWWzeKSECWTQo)
+
+### Saya tidak ingin mempercayai apa pun yang Anda katakan dan saya lebih suka tetap dengan apa yang saya lakukan jika itu tidak masalah bagi Anda?
+Baiklah.
+
+### Di mana menemukan anime untuk belajar bahasa Jepang?
+Periksa nyaa.si, daftar anime-raws, Crunchyroll, dan animelon di [Sumber](/resources)
+Jika Anda memiliki uang, periksa Netflix. Crunchyroll gratis tetapi dengan iklan. Anda dapat mematikan subtitle di desktop tetapi tidak di ponsel. Saya telah mendengar VRV berfungsi tetapi itu diblokir di wilayah saya ;(
+
+### Di mana menemukan j-drama untuk belajar bahasa Jepang?
+Periksa nyaa.si, rakuten viki, folder google drive j-drama di [Sumber](/resources). Situs streaming Cina tampaknya juga memiliki banyak j-drama dengan subtitle Cina, jadi Anda bisa menggunakannya jika Anda tidak bisa berbicara/membaca bahasa Cina.
+Jika Anda memiliki uang, periksa Netflix dan Hulu JP. Jika Anda cukup beruntung untuk berada di tracker pribadi AvistaZ maka Anda memiliki akses ke hampir semua J-drama yang Anda suka. ~~Jika Anda meminta saya (shoui) dengan baik, saya bisa menemukan sesuatu di AvistaZ untuk Anda.~~ Saya tidak bisa. Rasio saya di AvistaZ sangat buruk dan saya tidak memiliki buffer dan saya tidak ingin mengunduh barang yang tidak akan saya tonton :) Mungkin Anda bisa bertanya di Discord TheMoeWay.
+
+### Di mana menemukan manga untuk belajar bahasa Jepang?
+Periksa nyaa.si dan itazuraneko.
+Jika Anda memiliki uang, Anda bisa membeli manga digital dari Amazon JP.
+
+### Di mana menemukan novel ringan untuk belajar bahasa Jepang?
+Itazuraneko.
+Jika Anda memiliki uang, Anda bisa membeli novel ringan digital dari Amazon JP.
+
+### Di mana menemukan novel visual untuk belajar bahasa Jepang?
+(terdaftar di [Sumber](/resources)), ryuublogger, (sukebei)nyaa.si.
+Jika Anda memiliki uang, Anda bisa membeli novel visual dari Steam. Jika Anda cukup beruntung untuk berada di tracker pribadi AnimeBytes maka Anda memiliki akses ke hampir semua novel visual yang Anda suka. Jika Anda meminta saya (shoui) dengan baik, saya bisa menemukan sesuatu di AnimeBytes untuk Anda. Tidak serius, saya akan. Pastikan itu tidak sudah ada di sumber gratis yang tersedia untuk Anda.
+
+### Bagaimana cara text-hook novel visual?
+[panduan vn](/vn)
+
+### Bagaimana cara saya beralih dari metode tradisional ke metode Anda?
+Lepaskan!
+
+### Bagaimana cara menangani kata-kata dengan banyak arti?
+Jawabannya sederhana. Anda sudah tahu bahwa Anda harus belajar kata-kata dalam konteks dan dalam kalimat. Konteks+kalimat hampir selalu cukup bagi Anda untuk mendapatkan definisi mana yang cocok. Jika tidak, coba kamus monolingual. Saya menemukan けんかを吹っ掛ける, 吹っ掛ける memiliki 3 definisi yang terdaftar di Daijirin. Yang kedua memiliki contoh yang sama けんかを— jadi saya bisa mengetahuinya. （２）相手の困るようなことをしかける。「けんかを―・ける」「議論を―・ける」. Jika Anda tidak bisa mengetahuinya maka pelajari saja apa pun.
+
+Jika Anda menemukan penggunaan kata yang berbeda dari yang Anda pelajari, Anda tidak perlu membuat kartu untuk itu, akan mudah untuk belajar penggunaan baru ini.
+
+### Bagaimana cara menangani kata-kata dengan banyak bacaan?
+Jika ada furigana di atasnya, pelajari dengan bacaan itu. Jika itu dari anime, pelajari dengan bacaan yang mereka ucapkan. Jika tidak ada furigana dan audio maka coba gunakan <https://furigana.info/>, cari kata tersebut dan itu akan menunjukkan bacaan dalam urutan umum. Jika Anda tidak bisa menemukannya, maka pelajari saja apa pun.
+
+Jika Anda menemukan penggunaan kana yang berbeda dari yang Anda pelajari, Anda tidak perlu membuat kartu untuk itu, akan mudah untuk belajar penggunaan baru ini.
+
+### Jadi JLPT itu sh/t, jadi apa “level” dari masing-masing N?
+Tidak bisa dikatakan karena sertifikat jlpt tidak dapat, tidak akan dan tidak mengukur kemampuan bahasa Jepang.
+
+### Apakah buruk jika saya membuat kesalahan saat berbicara?
+Tidak. Selama Anda melakukan immersi setiap hari, jangan khawatir tentang itu!
+Apakah itu buruk? Itu tergantung bagaimana Anda melihatnya. Jika Anda peduli apa yang mungkin dipikirkan orang Jepang, maka itu tidak buruk sama sekali. Orang Jepang sangat baik dan ramah dan tidak benar-benar peduli jika Anda tidak bisa berbicara bahasa Jepang dengan baik. Jika Anda ingin bahasa Jepang Anda alami dan "baik", maka Anda tetap tidak perlu khawatir tentang membuat kesalahan, karena membuat kesalahan bukanlah masalah selama Anda melakukan immersi setiap hari.
+
+### Saya bisa memahami immersi saya tetapi saya tidak fasih, apa yang harus saya lakukan?
+Anda perlu lebih banyak output dan immersi. Anda mungkin telah melakukan immersi dalam bahasa Jepang tanpa pernah berpikir bagaimana Anda akan menggunakan kata-kata yang Anda dengar. Anda harus mulai mengeluarkan SEKARANG! :zap:
+
 ### は vs が
-They are completely different. Cure Dolly has a good explanation of this, start with her first video. The first step to understanding the difference is not associating them with each other. And then immerse to deepen your understanding
-### Can I get by with just kana? Kanji is too hard.
-Unfortunately no.
-### Thoughts on immersing while sleeping?
-It's BS.
-### Thoughts on kanji study apps?
-No. JUST READ!!!!!!!!!
-### Will speaking a lot make me good?
-Not exactly.
-### Then how do you get good?
-Through input. Primarily listening for learning how to speak naturally and reading for increasing your vocabulary. Speaking is not learning. Listening and reading is learning. You are not learning anything when you’re not immersing. Speaking is just the icing on the cake.
-### Should I pronounce out loud new words?
-No, I don't recommend it. You can get by just by reading it in your head.
-### Should I read out loud the sentence in my sentence cards?
-No you don't need to. Absolutely fine if you just read it in your head.
-### Thoughts on passive immersion?
-It depends. If you can’t understand like 90% of your immersion yet then it won't get you gains. If you understand over 90% then you can make gains when you listen in on it every now and then, but much less efficient than active immersion overall.  
-### Thoughts on Duolingo, Busuu, LingoDeer, Memrise, Drops and other similar apps
-Don’t even bother. Follow my guide for some real Japanese gains [Link](/guide)
-### These two words have the same meaning!!
-They have the same English meaning. English is not the best language to express Japanese. Japanese is the best language to express Japanese. You need to use a J-J dictionary such as the 大辞林 to find out the difference. If you’re not good enough to read a J-J definition yet then don’t worry about it because you can also find out the difference through immersion.
-### Grading monolingual cards
-Ah, this one is a classic. You just need to remember the gist of the definition. It is hard at first but you get better at it. If I put this in my SRS: `きょうかつ [0]【恐喝】 ―する 相手の弱みなどにつけ込んでおどしつけ、お金や品物を出させようとすること。 「―罪[4]」` the gist I remember would be  `弱い相手 おどしつける お金など 出させる`, or something along those lines. If I put this in my SRS: `そう-だつ サウ― [0] 【争奪】 （名）スル 自分のものにしようとして奪い合い争うこと。「天皇杯の―戦」` the gist I remember would be `自分のものにする 奪い合い`, that would be enough to get the word. 
-You’re probably confused but trust me it is tricky at the beginning but overtime you get good at it.  
-### Grading sentence cards  
-If you’re doing sentence cards then I’ll talk you through the review process.
-Let's think back to bilingual cards, how do you grade them? You should already know that the sentence that goes on the front is the thing you need to understand, and the on the back is the word along with its reading and definition is needed to understand the sentence. 
-The process of reviewing sentence cards goes as follows: You read the sentence, reveal the backside of the card, read the definition that is on the back of the card, if the definition on the back made you understand the sentence better, then grade it as a Fail. If not, grade it as a Pass. In other words, you grade the card as a Pass if the extra information (the definition) on the card was not needed to comprehend the sentence. It’s basically the same for monolingual cards.
-### I want to pass the JLPT N1. How long will that take me with your method?
-Cant say as it all depends on how much you immerse  
-Also make sure you study the grammar used in JLPT N1 (it is easy to look over them in immersion)  
-### I don’t want to use Anki. Is that fine?
-Uh, there is no doubt that your progress will be inevitably slower than someone that does the exact same as you but uses Anki. I don’t think any amount of reading can circumvent using the SRS. If you hate using Anki, then try to use a different format. AnimeCards are quick and simple to make and review. I recommend them. 
-I think you can still get very good without using Anki but think of it like this: the SRS shaves a good year off the amount of time it takes to get fluent ;)
-Of course, SRS doesn’t make you fluent, immersion does, but SRS is a supplement to your immersion. SRS makes your immersion more comprehensible, so you make the most gains.
-### How about using an all Japanese textbook such as “Minna no Nihongo”?
-If you’re asking this question you probably have a misunderstanding on how you learn grammar as a beginner. Your goal isn’t to *learn* grammar. Your goal is to *acquire* grammar. There is a limit to how much you can understand Japanese grammar even when it is explained to you when you haven’t acquired it yet. If I read Tae Kim I can see it in completely different eyes to what a beginner sees it in. Reading a guide written in English won’t have much of a difference than reading a guide written in (watered down) Japanese, because you’re a beginner. So you just need to read Tae Kim/watch Cure Dolly and then immerse to acquire grammar. I studied Japanese grammar *after* I acquired it, not before. And I used resources for natives such as 国語辞典’s. It’s just to give myself a metaunderstanding of the grammar I have already naturally acquired. I can do this with English too, but I don’t care enough to find out so.. Eh.
-### Hey shoui I found (x) Japanese course, is it good?
-If I haven’t talked about it yet then probably no because I don’t want to talk about silly courses like JapanesePod101, Pimsleur, Rosetta Stone, Assimil. All which have been proved to be ineffective. There is a good reason why I haven’t talked about it yet.
-### When should I put my PC/phone in Japanese?
-You don’t need to but it definitely helps. Do it when you’re used to reading I guess.
-### Is (x) anime good for learning Japanese?
-Yes.
-### I only want to sentence mine from anime, is this fine?
-Yeah.
-### I only want to sentence mine from books, is this fine?
-Yeah.
-### Is learning how to understand dialects like Kansai-ben difficult?
-No.
+Mereka sangat berbeda. Cure Dolly memiliki penjelasan yang baik tentang ini, mulai dengan video pertamanya. Langkah pertama untuk memahami perbedaan ini adalah tidak mengaitkannya satu sama lain. Dan kemudian lakukan immersi untuk memperdalam pemahaman Anda.
+
+### Bisakah saya bertahan hanya dengan kana? Kanji terlalu sulit.
+Sayangnya tidak.
+
+### Pemikiran tentang melakukan immersi saat tidur?
+Itu omong kosong.
+
+### Pemikiran tentang aplikasi belajar kanji?
+Tidak. CUKUP BACA!!!!!!!!!
+
+### Apakah berbicara banyak akan membuat saya baik?
+Tidak persis.
+### Lalu, bagaimana cara Anda menjadi baik?
+Melalui input. Terutama mendengarkan untuk belajar berbicara secara alami dan membaca untuk meningkatkan kosakata Anda. Berbicara bukanlah belajar. Mendengarkan dan membaca adalah belajar. Anda tidak belajar apa pun ketika Anda tidak melakukan immersi. Berbicara hanyalah hiasan di atas kue.
+### Haruskah saya mengucapkan kata-kata baru dengan keras?
+Tidak, saya tidak merekomendasikannya. Anda bisa saja membacanya dalam pikiran Anda.
+### Haruskah saya membaca dengan keras kalimat di kartu kalimat saya?
+Tidak, Anda tidak perlu melakukannya. Sangat baik jika Anda hanya membacanya dalam pikiran Anda.
+### Pendapat tentang immersi pasif?
+Itu tergantung. Jika Anda tidak dapat memahami sekitar 90% dari immersi Anda, maka itu tidak akan memberikan keuntungan. Jika Anda memahami lebih dari 90%, maka Anda bisa mendapatkan keuntungan ketika Anda mendengarkan sesekali, tetapi jauh lebih tidak efisien dibandingkan dengan immersi aktif secara keseluruhan.  
+### Pendapat tentang Duolingo, Busuu, LingoDeer, Memrise, Drops, dan aplikasi serupa lainnya
+Jangan repot-repot. Ikuti panduan saya untuk mendapatkan keuntungan nyata dalam belajar bahasa Jepang [Link](/guide)
+### Dua kata ini memiliki arti yang sama!!
+Mereka memiliki arti yang sama dalam bahasa Inggris. Bahasa Inggris bukanlah bahasa terbaik untuk mengekspresikan bahasa Jepang. Bahasa Jepang adalah bahasa terbaik untuk mengekspresikan bahasa Jepang. Anda perlu menggunakan kamus J-J seperti 大辞林 untuk menemukan perbedaannya. Jika Anda belum cukup baik untuk membaca definisi J-J, jangan khawatir karena Anda juga bisa menemukan perbedaannya melalui immersi.
+### Menilai kartu monolingual
+Ah, ini klasik. Anda hanya perlu mengingat inti dari definisi tersebut. Ini sulit pada awalnya tetapi Anda akan semakin baik. Jika saya memasukkan ini ke dalam SRS saya: `きょうかつ [0]【恐喝】 ―する 相手の弱みなどにつけ込んでおどしつけ、お金や品物を出させようとすること。 「―罪[4]」` inti yang saya ingat adalah `弱い相手 おどしつける お金など 出させる`, atau sesuatu yang sejenis itu. Jika saya memasukkan ini ke dalam SRS saya: `そう-だつ サウ― [0] 【争奪】 （名）スル 自分のものにしようとして奪い合い争うこと。「天皇杯の―戦」` inti yang saya ingat adalah `自分のものにする 奪い合い`, itu sudah cukup untuk memahami kata tersebut. 
+Anda mungkin bingung tetapi percayalah ini sulit pada awalnya tetapi seiring waktu Anda akan semakin baik.  
+### Menilai kartu kalimat  
+Jika Anda melakukan kartu kalimat, maka saya akan membimbing Anda melalui proses peninjauan.
+Mari kita ingat kembali kartu bilingual, bagaimana cara Anda menilainya? Anda seharusnya sudah tahu bahwa kalimat yang ada di depan adalah hal yang perlu Anda pahami, dan di belakang adalah kata beserta bacaan dan definisinya yang diperlukan untuk memahami kalimat tersebut. 
+Proses meninjau kartu kalimat adalah sebagai berikut: Anda membaca kalimat, mengungkap sisi belakang kartu, membaca definisi yang ada di belakang kartu, jika definisi di belakang membuat Anda memahami kalimat lebih baik, maka nilai itu sebagai Gagal. Jika tidak, nilai sebagai Lulus. Dengan kata lain, Anda menilai kartu sebagai Lulus jika informasi tambahan (definisi) di kartu tidak diperlukan untuk memahami kalimat. Ini pada dasarnya sama untuk kartu monolingual.
+### Saya ingin lulus JLPT N1. Berapa lama waktu yang dibutuhkan dengan metode Anda?
+Tidak bisa saya katakan karena semua tergantung pada seberapa banyak Anda melakukan immersi  
+Juga pastikan Anda mempelajari tata bahasa yang digunakan dalam JLPT N1 (mudah untuk terlewatkan dalam immersi)  
+### Saya tidak ingin menggunakan Anki. Apakah itu baik-baik saja?
+Uh, tidak diragukan lagi bahwa kemajuan Anda akan lebih lambat dibandingkan dengan seseorang yang melakukan hal yang sama tetapi menggunakan Anki. Saya tidak berpikir ada jumlah membaca yang dapat menggantikan penggunaan SRS. Jika Anda benci menggunakan Anki, maka coba gunakan format yang berbeda. AnimeCards cepat dan sederhana untuk dibuat dan ditinjau. Saya merekomendasikannya. 
+Saya pikir Anda masih bisa sangat baik tanpa menggunakan Anki tetapi anggap saja seperti ini: SRS mengurangi waktu yang dibutuhkan untuk menjadi fasih sekitar satu tahun ;)
+Tentu saja, SRS tidak membuat Anda fasih, immersi yang melakukannya, tetapi SRS adalah suplemen untuk immersi Anda. SRS membuat immersi Anda lebih dapat dipahami, sehingga Anda mendapatkan keuntungan maksimal.
+### Bagaimana dengan menggunakan buku teks bahasa Jepang seperti “Minna no Nihongo”?
+Jika Anda bertanya pertanyaan ini, Anda mungkin memiliki kesalahpahaman tentang bagaimana Anda belajar tata bahasa sebagai pemula. Tujuan Anda bukanlah untuk *belajar* tata bahasa. Tujuan Anda adalah untuk *memperoleh* tata bahasa. Ada batasan seberapa banyak Anda dapat memahami tata bahasa Jepang bahkan ketika dijelaskan kepada Anda ketika Anda belum memperolehnya. Jika saya membaca Tae Kim, saya bisa melihatnya dengan cara yang sangat berbeda dibandingkan dengan apa yang dilihat pemula. Membaca panduan yang ditulis dalam bahasa Inggris tidak akan banyak berbeda dengan membaca panduan yang ditulis dalam bahasa Jepang (yang sudah disederhanakan), karena Anda adalah pemula. Jadi Anda hanya perlu membaca Tae Kim/menonton Cure Dolly dan kemudian melakukan immersi untuk memperoleh tata bahasa. Saya mempelajari tata bahasa Jepang *setelah* saya memperolehnya, bukan sebelumnya. Dan saya menggunakan sumber untuk penutur asli seperti 国語辞典. Ini hanya untuk memberi saya pemahaman meta tentang tata bahasa yang sudah saya peroleh secara alami. Saya bisa melakukan ini dengan bahasa Inggris juga, tetapi saya tidak cukup peduli untuk mencari tahu jadi.. Eh.
+### Hei shoui, saya menemukan kursus bahasa Jepang (x), apakah itu baik?
+Jika saya belum membicarakannya, maka mungkin tidak karena saya tidak ingin membicarakan kursus-kursus konyol seperti JapanesePod101, Pimsleur, Rosetta Stone, Assimil. Semua yang telah terbukti tidak efektif. Ada alasan yang baik mengapa saya belum membicarakannya.
+### Kapan saya harus mengubah PC/ponsel saya ke bahasa Jepang?
+Anda tidak perlu melakukannya tetapi itu pasti membantu. Lakukan ketika Anda sudah terbiasa membaca, saya rasa.
+### Apakah anime (x) baik untuk belajar bahasa Jepang?
+Ya.
+### Saya hanya ingin mengambil kalimat dari anime, apakah ini baik?
+Ya.
+### Saya hanya ingin mengambil kalimat dari buku, apakah ini baik?
+Ya.
+### Apakah belajar memahami dialek seperti Kansai-ben sulit?
+Tidak.
 ### The Intermediate Blues
 (Intermediate= >N1)
-The Intermediate Blues. The Intermediate Plateau. Whatever you want to call it. This is the feeling of not feeling like you are improving, despite doing 40 Anki cards per day, speeding through your reviews, reading for 3 hours, listening for 6 hours. In fact, there is no plateau. It doesn’t exist. You are either improving (when you immerse) or getting worse (when you dont immerse). The Intermediate Blues are usually felt when you remember back when you were a beginner and you could feel your progress everyday, you don’t really get that same feeling as an intermediate learner. 
-You are improving.
-Please note that you can understand like 80% of your immersion with like 2000 words. You can understand like 90% with 10,000. It just gets very steep. 20,000 you understand like 95%. 30,000 you may finally be close to the 100%. The feeling sucks, but you gotta keep going.
-What usually motivates is when I hear in an anime a word I learned the day before, it always gives me a motivation boost no matter what :wink:
-### Should I put Japanese names into Anki?
-Yeah because names will persist to be the most difficult part of Japanese even if you can read full-on books and everything.  
+The Intermediate Blues. Plateau Intermediate. Apa pun yang ingin Anda sebut. Ini adalah perasaan tidak merasa seperti Anda sedang berkembang, meskipun melakukan 40 kartu Anki per hari, mempercepat ulasan Anda, membaca selama 3 jam, mendengarkan selama 6 jam. Sebenarnya, tidak ada plateau. Itu tidak ada. Anda sedang berkembang (ketika Anda melakukan immersi) atau semakin buruk (ketika Anda tidak melakukan immersi). The Intermediate Blues biasanya dirasakan ketika Anda mengingat kembali saat Anda masih pemula dan Anda bisa merasakan kemajuan Anda setiap hari, Anda tidak benar-benar mendapatkan perasaan yang sama sebagai pembelajar tingkat menengah. 
+Anda sedang berkembang.
+Harap dicatat bahwa Anda dapat memahami sekitar 80% dari immersi Anda dengan sekitar 2000 kata. Anda dapat memahami sekitar 90% dengan 10.000. Itu menjadi sangat curam. Dengan 20.000 Anda memahami sekitar 95%. Dengan 30.000 Anda mungkin akhirnya mendekati 100%. Perasaan itu menyebalkan, tetapi Anda harus terus maju.
+Apa yang biasanya memotivasi adalah ketika saya mendengar dalam anime sebuah kata yang saya pelajari sehari sebelumnya, itu selalu memberi saya dorongan motivasi tidak peduli apa pun :wink:
+### Haruskah saya memasukkan nama Jepang ke dalam Anki?
+Ya, karena nama akan tetap menjadi bagian yang paling sulit dari bahasa Jepang bahkan jika Anda bisa membaca buku sepenuhnya dan segalanya.  
 
 ▜▛▜▛▜▛▜▛▜▛▜▛▜▛▜▛▜▛▜▛▜▛▜▛
 
-You have reached the end of the FAQ!
+Anda telah mencapai akhir FAQ ini!
 
-This FAQ is still incomplete and it is no longer being updated. I have no incentive to update this.  
-
+FAQ ini masih belum lengkap dan tidak lagi diperbarui. Saya tidak memiliki insentif untuk memperbarui ini.  
